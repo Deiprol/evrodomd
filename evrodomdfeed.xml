@@ -1,0 +1,1084 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2026-07-03 14:39">
+<shop>
+<name>Eurodom prototype</name>
+<company>Eurodom</company>
+<url>https://www.eurodom.ru</url>
+<platform>1C-Bitrix</platform>
+<currencies>
+<currency id="RUB" rate="1" />
+</currencies>
+<categories>
+<category id="1">Техника для приготовления напитков</category>
+<category id="2">Техника для измельчения</category>
+<category id="3">Чайники наплитные</category>
+<category id="4">Сушилки настенные</category>
+<category id="5">Сушилки напольные</category>
+<category id="6">Наборы для уборки</category>
+<category id="7">Наборы ножей</category>
+<category id="8">Стеклоочистители</category>
+<category id="9">Доски гладильные без электроподключения</category>
+<category id="10">Инструменты</category>
+<category id="11">Мусаты, точилки для ножей</category>
+<category id="12">Термосы</category>
+<category id="13">Салатники</category>
+<category id="14">Техника для приготовления</category>
+<category id="15">Наборы: щетка/совок</category>
+<category id="16">КПБ семейные</category>
+<category id="17">Коврики для ванной</category>
+<category id="18">Тарелки десертные</category>
+<category id="19">Крышки</category>
+<category id="20">Наполнители для диффузоров</category>
+</categories>
+<offers>
+<offer id="779037" available="true">
+<url>https://www.eurodom.ru/catalog/kukhnya/bytovaya_tekhnika_dlya_kukhni/tekhnika_dlya_prigotovleniya_napitkov/779037/</url>
+<price>25990</price>
+<oldprice>32490</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>1</sort>
+<picture>https://www.eurodom.ru/upload/iblock/21e/vgtcb3o9n94xzgx5a0f6wuqoa7kuanuh.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/333/6fal5rsxrxw1h2vc70g7oysgx6m1norq.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/43a/qkzhi2epighl42ol2swf500b04jcohnp.jpg</picture>
+<vendor>Smeg</vendor>
+<vendorCode>KLF04BLEU</vendorCode>
+<name>Чайник электрический Smeg 50’s Style с регулируемой температурой, черный</name>
+<description>Электрический чайник Smeg в чёрном цвете это образец ретро-дизайна в надёжном корпусе из нержавеющей стали. Объём 1,7 л, мощность 2400 Вт быстрый нагрев. Главное преимущество: точная регулировка температуры в семи режимах от 50 до 100 C. Зелёный чай, чёрный чай, кофе, детское питание всё при своей идеальной температуре. Функция поддержания тепла 20 минут не даст воде остыть. Мягкое открывание крышки, съёмный фильтр из нержавейки, скрытый нагревательный элемент. Шнур прячется в подставку. Безопасность: автоматическое отключение при закипании, защита от включения без воды, отключение при снятии с базы.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">KLF04BLEU</param>
+<param name="Материал">Нержавеющая сталь</param>
+<param name="Коллекция">50’s Style</param>
+<param name="Бренд">Smeg</param>
+</offer>
+<offer id="779036" available="true">
+<url>https://www.eurodom.ru/catalog/kukhnya/bytovaya_tekhnika_dlya_kukhni/tekhnika_dlya_izmelcheniya/779036/</url>
+<price>29990</price>
+<oldprice>37490</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<sort>2</sort>
+<picture>https://www.eurodom.ru/upload/iblock/7cc/q7e7p7e0y80pv1y7x1k6h0zu9m8e9syi.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/bda/tcyrfv00fkr8tb22nvmwkuc83i0ya7ki.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/38c/xz6l44odyjrpeu903zqbomil0f5zc2dg.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/c62/oon2z1hr514wf5cf25dgi631oo3mjgno.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/463/78dbkx4wucnt34b564megwxe2umc06xc.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/463/a56ijjqgfprxzrl7rjh35hal69qus58p.jpg</picture>
+<vendor>Smeg</vendor>
+<vendorCode>BLF03WHEU</vendorCode>
+<name>Блендер стационарный Smeg 50’s Style, белый</name>
+<description>ХАРАКТЕРИСТИКИ Материал кувшина и мерного стаканчика: тритан Материал крышки блендера: тритан Материал корпуса: литой алюминий Объем кувшина: 1,5 л Регулировка скорости вращения: 0-4 (max 18 000 об./мин.) Функции: импульсный режим, измельчение льда, приготовление пюре, остановка Нескользящие ножки Защитное отключение при снятии кувшина блендера и при перезагрузке двигателя Внешние габариты (ВхШхГ): 397 х 165 х 178 мм ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ Мощность: 0,8 кВт Напряжение: 220-240 В Частота тока: 50 Гц Дополнительные аксессуары BGF01 - Переносной контейнер из TritanTM</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">BLF03WHEU</param>
+<param name="Материал">Нержавеющая сталь, Пластик</param>
+<param name="Коллекция">50’s Style</param>
+<param name="Бренд">Smeg</param>
+</offer>
+<offer id="779033" available="true">
+<url>https://www.eurodom.ru/catalog/kukhnya/posuda_dlya_prigotovleniya/prigotovlenie_chaya_i_kofe/chayniki_naplitnye/779033/</url>
+<price>14990</price>
+<oldprice>18740</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<sort>3</sort>
+<picture>https://www.eurodom.ru/upload/iblock/774/x1jz7pwa5i2be1qj2c4e9tbhl66uj5a5.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/47e/45dbgc18itc6r7wjtv4ozoxx268wqt6a.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/cb7/td7ed913j2z9ttwjiqo3q1llgh74uu50.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/5cb/qnog4nyvh1a1yb8ygx1y198171sjbaut.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/98e/g1j8f654ll53pww2vpo3twijq1iw5kaa.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/9d7/5p9br5rvcpz57dug6ks4tjwzbp1tdtkj.jpg</picture>
+<vendor>Smeg</vendor>
+<vendorCode>WKF01CR</vendorCode>
+<name>Чайник со свистком Smeg 50’s Style</name>
+<description>Чайник со свистком SMEG кремовом цвете это стильный и функциональный аксессуар для кухни, выполненный в культовом ретро-дизайне 50-х годов. Его глянцевый корпус из нержавеющей стали объёмом 2,3 литра (10 чашек) подходит для всех типов варочных поверхностей, включая индукцию. Удобный носик обеспечивает безопасное наливание, а съёмная крышка упрощает наполнение и уход. Громкий фиксированный свисток оповестит вас, когда вода закипит, а эргономичная ручка с силиконовым покрытием не нагревается и не скользит. Многослойное дно гарантирует равномерный нагрев и долговечность.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">WKF01CR</param>
+<param name="Материал">Нержавеющая сталь</param>
+<param name="Коллекция">50’s Style</param>
+<param name="Бренд">Smeg</param>
+</offer>
+<offer id="715939" available="true">
+<url>https://www.eurodom.ru/catalog/poryadok_v_dome/prinadlezhnosti_dlya_ukhoda_za_odezhdoy_i_obuvyu/belevye_sushilki_i_aksessuary_1/sushilki_nastennye/715939/</url>
+<price>1832</price>
+<oldprice>2533</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<sort>4</sort>
+<picture>https://www.eurodom.ru/upload/iblock/198/7db4n1yai2874a8x2bwtzubidsmc66g2.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/11f/7sp2xpt89sanjjaqr2s2wnopyarnu46z.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/047/bt6uspxb2haaiw0s51mxeg3cs2jker2d.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/ec0/jut67rknqia5ov7lhupmynq4j66h56y7.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/57e/l0wdr0xv25soqddl09d6io979me25x5r.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/51d/ql8gsu16itc90r91zfnvo3e2x9ne2395.jpg</picture>
+<vendor>Hausmann</vendor>
+<vendorCode>HM-WS-D2A</vendorCode>
+<name>Сушилка для белья Hausmann Altair 70 настенная</name>
+<description>Сушилка для белья с креплением на стену HAUSMANN Altair - общая длина струн 3,8 м; - стальные струны с порошковым покрытием устойчивым к ржавчине; - идеально подходит для размещения в ванной, на балконе, террасе; - выдерживает до 2-х кг белья; - корпус сушилки изготовлен из высокопрочного, стойкого у УФ-лучам АБС-пластика; - легко складывается и раскладывается; - сушилку можно использовать круглогодично на открытом воздухе; - монтажный комплект прилагается. Сушилка производится из высокопрочного АБС-пластика. АВС -пластик устойчив к появлению царапин и трещин, УФ-лучам. Благодаря качественным характеристикам пластика сушилка не потеряет свою внешнюю привлекательность даже спустя годы эксплуатации. Стальные струны защищены антикоррозийным, порошковым покрытием, поэтому сушилку можно использовать на открытом воздухе.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">HM-WS-D2A</param>
+<param name="Материал">Пластик, Сталь</param>
+<param name="Коллекция">Cosmic</param>
+<param name="Бренд">Hausmann</param>
+</offer>
+<offer id="492821" available="true">
+<url>https://www.eurodom.ru/catalog/poryadok_v_dome/prinadlezhnosti_dlya_ukhoda_za_odezhdoy_i_obuvyu/belevye_sushilki_i_aksessuary_1/sushilki_napolnye/492821/</url>
+<price>11352</price>
+<oldprice>14190</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<sort>5</sort>
+<picture>https://www.eurodom.ru/upload/iblock/a37/zbmwbuaran5delu1fc149r5inwfev9xo.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/7c3/vu2imllnwarrvpqtzuecirx4wzx54et5.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/c5f/g6jmnlfiscmlwdnq1olk2uwho1l5in5h.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/fe6/2cydezpniwfyk2lmfkuzzawg45awhp50.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/5e9/5k336bv0ev4mmklsv8ebrz2i81u6hq1o.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/8b6/ktm7w0drm4jx55sir77lukiq5uk9713s.jpg</picture>
+<vendor>Leifheit</vendor>
+<vendorCode>81517</vendorCode>
+<name>Сушилка для белья Leifheit Pegasus Deluxe Mobile</name>
+<description>Сушилка для белья Leifheit Pegasus Deluxe Mobile: - волнистые крайние стержни для размещения вешалок; - устойчивые ножки; - ролики для удобства транспортировки; - резиновые накладки на ножках; - устойчивость к коррозии; - удобно хранить.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">81517</param>
+<param name="Материал">Нержавеющая сталь, Пластик</param>
+<param name="Коллекция">PEGASUS</param>
+<param name="Бренд">Leifheit</param>
+</offer>
+<offer id="779039" available="true">
+<url>https://www.eurodom.ru/catalog/kukhnya/bytovaya_tekhnika_dlya_kukhni/tekhnika_dlya_prigotovleniya_napitkov/779039/</url>
+<price>23490</price>
+<oldprice>29360</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>6</sort>
+<picture>https://www.eurodom.ru/upload/iblock/ac8/bzvo89hak2f0rdmz76ei0x2b2wz7fczd.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/d48/3jw5qfjva0dqasnfiqouwpwri8rtdohb.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/248/6iwvft7s3hto59v86tb37bnmv75v8lh6.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/2b5/mcg27vbpmca3jfx0pmwsoj9uy1f6to1j.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/c79/rvtgqetu0s7t7490sdt2hc91lwhxccoq.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/3d0/gg03dd6tkrsidolmeyucl3tvem740qg7.jpg</picture>
+<vendor>Smeg</vendor>
+<vendorCode>KLF03BLMEU</vendorCode>
+<name>Чайник электрический Smeg 50’s Style, черный матовый</name>
+<description>Электрический чайник Smeg в матовом черном цвете это стильный ретро-аксессуар для вашей кухни. Корпус из нержавеющей стали объёмом 1,7 л с удобной индикацией уровня воды. Мощность 2400 Вт обеспечивает быстрый нагрев до 100 C с автоматическим отключением при закипании. Мягкое открывание крышки и поворотная платформа на 360 добавляют комфорта в использовании. Съемный фильтр из нержавеющей стали легко мыть. Безопасность обеспечивают защита от включения без воды и автоматическое отключение при снятии с базы. Шнур питания удобно хранить в специальном отделении на подставке, а нескользящие ножки гарантируют устойчивость. Классический дизайн Smeg в сочетании с надежными технологиями.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">KLF03BLMEU</param>
+<param name="Материал">Нержавеющая сталь</param>
+<param name="Коллекция">50’s Style</param>
+<param name="Бренд">Smeg</param>
+</offer>
+<offer id="714041" available="true">
+<url>https://www.eurodom.ru/catalog/poryadok_v_dome/prinadlezhnosti_dlya_uborki/inventar_dlya_vlazhnoy_uborki/nabory_dlya_uborki/714041/</url>
+<price>10640</price>
+<oldprice>13300</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<sort>7</sort>
+<picture>https://www.eurodom.ru/upload/iblock/e11/1ksve2a6egqovxbdgfoug64e877ea423.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/417/snc9khixh2c8bfmmy9aqnn0i392q3219.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/b31/ggl4bauweqxrs4p45k27jljj1u89llu1.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/dd2/f57xvnm5x5uw1plvqghv7pzelp1my63u.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/46d/xk11nb2jbjwifupd2q7c2gdv4qpgym68.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/b49/x49h11zgwfedzad5jpcnb7zxbvrxrq41.jpg</picture>
+<vendor>Leifheit</vendor>
+<vendorCode>52120</vendorCode>
+<name>Комплект для влажной уборки Leifheit Clean Twist M Ergo швабра и ведро</name>
+<description>Комплект для влажной уборки Leifheit Clean Twist M Ergo - помощник 1 для уборки деликатных полов. Уникальный механизм обеспечивает идеальный отжим без усилий. Руки всегда остаются сухими и чистыми!</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">52120</param>
+<param name="Материал">Металл, Пластик</param>
+<param name="Коллекция">Clean Twist</param>
+<param name="Бренд">Leifheit</param>
+</offer>
+<offer id="779034" available="true">
+<url>https://www.eurodom.ru/catalog/kukhnya/nozhi_podstavki_dlya_nozhey_tochilki_doski_razdelochnye/nabory_nozhey/779034/</url>
+<price>40990</price>
+<oldprice>51240</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>7</categoryId>
+<sort>8</sort>
+<picture>https://www.eurodom.ru/upload/iblock/1c7/thd2stnj2uhfeb6eenldevk5ks5owmif.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/7e1/kt5902gwtr0oyrggzkyj2a9efjprtxiu.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/a69/o5pdqhkidjot49va47xnf6xnxtbl3ebb.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/79b/so1dm81y8q8ivnansk7qlnuy3j0mv6xq.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/842/nqctifjjxpdum0w4l5766idgh3u7rgmj.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/f9d/7tjpo3ptz2q4e87mqw4sgrixobu4g0cn.jpg</picture>
+<vendor>Smeg</vendor>
+<vendorCode>KBSF02WH</vendorCode>
+<name>Комплект кухонных ножей в подставке Smeg 50’s Style 6шт</name>
+<description>Набор ножей Smeg в белом цвете элегантный дуэт функциональности и знаменитого стиля 50-х. В комплект входят шесть эксклюзивных ножей: шеф-нож, нож для хлеба, сантоку, универсальный, для мяса и овощей, изготовленных из высококачественной немецкой стали. Их лезвия и рукоятки цельнометаллические, что обеспечивает идеальный баланс и долговечность. Ножи аккуратно размещаются в подставке с гнездами из акации. Корпус из нержавеющей стали с хромированным основанием станет украшением любой кухни. Этот набор создан для тех, кто ценит в кулинарии стиль, точность и надёжность.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">KBSF02WH</param>
+<param name="Материал">Нержавеющая сталь, Дерево</param>
+<param name="Коллекция">50’s Style</param>
+<param name="Бренд">Smeg</param>
+</offer>
+<offer id="682908" available="true">
+<url>https://www.eurodom.ru/catalog/poryadok_v_dome/prinadlezhnosti_dlya_uborki/inventar_dlya_vlazhnoy_uborki/stekloochistiteli/682908/</url>
+<price>2952</price>
+<oldprice>3690</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>8</categoryId>
+<sort>9</sort>
+<picture>https://www.eurodom.ru/upload/iblock/ccf/123mry8ajbnjttg0r3ukr0im753fezw8.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/437/d0iasb0856pwj3vbjc0bagh4ejxhhxkv.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/0d0/18jun52tsmfbekr4wztcilg2u0qrhzaj.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/945/ci51o8ct49nasqt1n35c3gk8z7s22h5a.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/730/h28xg0y4opkr34tyyu3zpb1ceu5ftj8i.jpg</picture>
+<vendor>Leifheit</vendor>
+<vendorCode>51523</vendorCode>
+<name>Водосгон Leifheit Slider M с резинкой 40см</name>
+<description>Водосгон для мытья окон Leifheit PowerSlide: - легкое мытье окон сложной формы; - подвижный шарнир с фиксатором; - идеально подходит для мытья труднодоступных окон; - ширина рабочей поверхности сменного резинового лезвия: 40 см; - возможность мытья непрерывной плавной линией; - возможность устанавливать насадку под любым градусом; *Подходит телескопическая ручка с шарниром Leifheit Click system, арт. 41522</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">51523</param>
+<param name="Материал">Пластик, Синтетический каучук</param>
+<param name="Коллекция">Slider</param>
+<param name="Бренд">Leifheit</param>
+</offer>
+<offer id="592631" available="true">
+<url>https://www.eurodom.ru/catalog/poryadok_v_dome/prinadlezhnosti_dlya_ukhoda_za_odezhdoy_i_obuvyu/gladilnye_doski_i_aksessuary/doski_gladilnye_bez_elektropodklyucheniya/592631/</url>
+<price>17480</price>
+<oldprice>21850</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>9</categoryId>
+<sort>10</sort>
+<picture>https://www.eurodom.ru/upload/iblock/a88/vu2jc1pm5wxl33suden2rjfj1pb6otfv.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/dce/2n2hpzil6zexvji0dao5aj6khr1bt6w1.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/f4f/16lbyxj47ruzp2l10q81mna7w17z0u2n.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/d11/3zmgimb3mwkm1pqn0y23ws3n3lep0x4n.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/d49/igkjpshphtt12g0adovv5a8zalon9jd6.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/4d4/g830mypudq6qbxqkcbt5rv0mx1w6szof.jpg</picture>
+<vendor>Leifheit</vendor>
+<vendorCode>72565</vendorCode>
+<name>Гладильная доска Leifheit Airboard Solid Plus M 120х38см</name>
+<description>Доска идеальна для глажения рубашек и блуз. Особенности: - подставка для парового утюга из стали; - прочная рама из стали; - гладильная поверхность из жаропрочного пластика с продуманной системой перфорации; - регулируемая высота в пределах 75-98 см; - чехол из хлопка; - натяжение чехла регулируется; - устойчивость; - устойчивая конструкция, препятствующая перемещению доски в процессе работы. Цвет чехла: в ассортименте.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">72565</param>
+<param name="Материал">Нержавеющая сталь, Термопластик</param>
+<param name="Коллекция">AIRBOARD</param>
+<param name="Бренд">Leifheit</param>
+</offer>
+<offer id="621251" available="true">
+<url>https://www.eurodom.ru/catalog/poryadok_v_dome/prinadlezhnosti_dlya_ukhoda_za_odezhdoy_i_obuvyu/belevye_sushilki_i_aksessuary_1/sushilki_napolnye/621251/</url>
+<price>6150</price>
+<oldprice>7467</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<sort>11</sort>
+<picture>https://www.eurodom.ru/upload/iblock/db5/pfry4y081xjnkxgzi02h8lzlhvg367pj.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/18a/kf706av19rsp8p2fi7uel01kwlgx087h.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/e5b/fctedqxschinivpylanvqc1dcszw7k7w.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/323/0rljs2jdenvz5wfd6bg6bp92li9u01wy.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/9db/nxuo3s4ff40h1hpvq60kr6eehb9majuc.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/0db/icbgflhu10qpmv2h2y6d2ve8xy7xsfpm.jpg</picture>
+<vendor>Hausmann</vendor>
+<vendorCode>HM-XL-296</vendorCode>
+<name>Сушилка для белья напольная Hausmann Aura Deluxe X 190x56x95см</name>
+<description>Напольная сушилка для белья AURA Deluxe X это практичное решение для сушки белья дома. Конструктивная особенность сушилки позволяет установить подходящую длину прутьев с помощью телескопического сдвижения. Колесные опоры обеспечивают легкое передвижение сушилки по дому. Диаметр металлических прутьев позволяет сушить белье без заломов. Качественное порошковое окрашивание металлических элементов конструкции защищает от образования ржавчины. Полезная длина для навески белья 20 метров.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">HM-XL-296</param>
+<param name="Материал">Металл, Пеноматериал, Хлопок</param>
+<param name="Коллекция">Peak</param>
+<param name="Бренд">Hausmann</param>
+</offer>
+<offer id="764980" available="true">
+<url>https://www.eurodom.ru/catalog/kukhnya/nozhi_podstavki_dlya_nozhey_tochilki_doski_razdelochnye/nabory_nozhey/764980/</url>
+<price>39999</price>
+<oldprice>55300</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>7</categoryId>
+<sort>12</sort>
+<picture>https://www.eurodom.ru/upload/iblock/009/so55uzkxpzexgv8f4i7an86jax7l6ovo.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/caf/v867tzymt3s1u43t084fat1eeok7hu6b.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/4d3/mjkeqvq862szrept9b2tkrjbk3sgd58m.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/fb3/d1olsmo0y8bt2tjmj21ol9tb3rk28tm4.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/0aa/7qayjapjwfrlkvesgmjjroxs2yyd36k2.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/9a8/g7jf1dfbridg4rcpbudrjso512vu4aol.jpg</picture>
+<vendor>Robert Welch</vendor>
+<vendorCode>SIGQA2091V/5</vendorCode>
+<name>Набор кухонных ножей Robert Welch Signature 4шт в подставке</name>
+<description>Блок для ножей Q - это элегантная подставка из нержавеющей стали и дерева, создающая идеальный порядок на кухне. В набор входят все необходимые ножи для профессиональной готовки: от универсального сантоку и поварского ножа до компактного овощного. Инновационная конструкция с магнитными держателями надежно фиксирует лезвия, защищая режущие кромки от повреждений. Каждый нож изготовлен из цельной немецкой нержавеющей стали с ручной заточкой под углом 15 и эргономичной рукояткой для комфортной работы. Этот набор станет разумным вложением в оснащение вашей кухни, сочетая продуманный британский дизайн с безупречной функциональностью.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">SIGQA2091V/5</param>
+<param name="Материал">Нержавеющая сталь, Пластик, Дерево</param>
+<param name="Коллекция">Signature</param>
+<param name="Бренд">Robert Welch</param>
+</offer>
+<offer id="745868" available="true">
+<url>https://www.eurodom.ru/catalog/poryadok_v_dome/instrumenty/745868/</url>
+<price>5990</price>
+<oldprice>6666</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>10</categoryId>
+<sort>13</sort>
+<picture>https://www.eurodom.ru/upload/iblock/737/aul12u4p22xfvgoykt7xe2om295a5qh2.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/09e/3wcg40ru7s6bf4hnu27q9wdgpgo20y55.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/aac/yh9xwhzfdiid8iasucmk3hfyr4c8q2rp.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/b12/vk60o08jib579coks3g07h3d5eh17p63.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/91b/dhbz7dgwlgc5orvz1fcy0xq42o8t3y7l.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/f1a/4zqim6p4pa2lauli0epc77a9v4jlgczv.jpg</picture>
+<vendor>Hausmann</vendor>
+<vendorCode>HM-WK6018F-4A</vendorCode>
+<name>Стремянка Hausmann Djimara 4 ступени</name>
+<description>Стальная стремянка DJIMARA предназначена для любых хозяйственных задач. Эстетика, качество и функциональность стремянки позволяют использовать ее в интерьере. Трендовый черный цвет легко интегрируется в любой стиль жилых и хозяйственных помещений. Суперкомпактная, она разместится зазоре от 5 см. Ее опорная конструкция оснащена дополнительными стяжками для большей устойчивости и надежности. Выдерживает вес 150 кг. Удобная и простая система сложения и разложения. Для безопасности от непредвиденного сложения имеется замок. Предусмотрен поручень с функцией ограждения для страховки от падения. Ударопрочное антикоррозионное порошковое покрытие позволяет сохранять первоначальный вид изделия в процессе эксплуатации. Четыре ступени с нескользким рельефом c односторонним расположением. Размер ступеней (ш г в) 30 х 20 х 2 см, достаточный для любого размера стопы. Эргономичные, профилированные ножки с защитой от скольжений и повреждений полов, в том числе и деликатных (паркет, пробка и т д). Габариты стремянки (Ш В Г): 46,5 х 134 х 4,5 см. Гарантия: 3 года.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">HM-WK6018F-4A</param>
+<param name="Материал">Сталь, Пластик</param>
+<param name="Коллекция">Peak</param>
+<param name="Бренд">Hausmann</param>
+</offer>
+<offer id="777612" available="true">
+<url>https://www.eurodom.ru/catalog/kukhnya/nozhi_podstavki_dlya_nozhey_tochilki_doski_razdelochnye/musaty_tochilki_dlya_nozhey/777612/</url>
+<price>3479</price>
+<oldprice>4390</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>11</categoryId>
+<sort>14</sort>
+<picture>https://www.eurodom.ru/upload/iblock/28d/gri4dq3vu40jv98719n67gyda68h5ohm.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/ca5/9d3lg27renpl5wshhmd5nn15tu28fpl2.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/8e4/lzwaot1cxj2dl1n2k9786eqvqyoaxdyf.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/54d/66a2rqyfbcd5uutuuqliamkoewwqa054.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/9f8/jv3wfr0uz5mrtyyf0lrrz8sxq83u075f.jpg</picture>
+<vendor>Chefs Choice</vendor>
+<vendorCode>CC445</vendorCode>
+<name>Точилка механическая Chefs Choice для кухонных, охотничьих и филейных ножей, 2-х ступенчатая</name>
+<description>Chef'sChoice Diamond Hone Model 445 это ручная профессиональная точилка по самой доступной цене в линейке. Двухступенчатая система с 100% алмазными абразивами последовательно затачивает и доводит лезвие до бритвенной остроты по всей длине от острия до рукоятки. Идеально подходит для кухонных, охотничьих, филейных и карманных складных ножей, одинаково удобна для правшей и левшей. Направляющие гарантируют правильный угол подвода лезвия, позволяя получить профессиональный результат без опыта. Точилка безопасна для качественных клинков. Эргономичная рукоять комфортно лежит в руке любого размера, а нескользящие резиновые ножки обеспечивают устойчивость. Разработана, спроектирована и собрана в США.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">CC445</param>
+<param name="Бренд">Chefs Choice</param>
+</offer>
+<offer id="778351" available="true">
+<url>https://www.eurodom.ru/catalog/kukhnya/perenoska_produktov/termosy/778351/</url>
+<price>3290</price>
+<oldprice>4590</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>12</categoryId>
+<sort>15</sort>
+<picture>https://www.eurodom.ru/upload/iblock/3bd/45ofmlrpeftcwfw5qdsvn0wu2va8wpq0.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/117/jb6ahvmcb9yssjrq55dag18sax3gtdt1.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/1ea/uk0t9f0439solh49lhmtsszc7dj0mduy.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/7fc/v2y8faapqkgsy4lak68z7ilwocd0ymx0.jpg</picture>
+<vendor>Bugatti</vendor>
+<vendorCode>BBT-SB350IN</vendorCode>
+<name>Термос Bugatti Twin Lux 350мл, серебристый</name>
+<description>Наслаждаться любимым напитком идеальной температуры в течение дня - поистине райское удовольствие, которое подарит термос бутылка B Bottles Twin серии Lux, разработанный Клементе Бугатти. B Bottles Twin изготовлен из нержавеющей стали 18/10, полностью герметичен и имеет две стальные вакуумные стенки, между которыми нанесено специальное покрытие из меди, позволяющее сохранять желаемую температуру внутри в течение длительного времени без образования конденсата на корпусе термоса. Вакуумная крышка с двойными стенками и силиконовым кольцом обеспечивает лучшую герметичность. B Bottles Twin сохранит напитки теплыми в течение 12 часов, холодными - до 24 часов, лед - до 36 часов. Все материалы, используемые для производства B Bottles Twin, полностью безопасны для здоровья.B Bottles Twin способен из простого термоса превратиться в модный аксессуар, соответствующий вашему стилю жизни и отражающий вашу индивидуальность.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">BBT-SB350IN</param>
+<param name="Материал">Нержавеющая сталь</param>
+<param name="Коллекция">Twin Lux</param>
+<param name="Бренд">Bugatti</param>
+</offer>
+<offer id="778345" available="true">
+<url>https://www.eurodom.ru/catalog/kukhnya/perenoska_produktov/termosy/778345/</url>
+<price>4290</price>
+<oldprice>5990</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>12</categoryId>
+<sort>16</sort>
+<picture>https://www.eurodom.ru/upload/iblock/6ae/zreb5wdkhwgfpm8kta17kio2omsnpxn5.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/c68/aieas0bzpl4vpyif6725c8f15w1uvip1.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/ae4/omy2twyfyffzsfoxl242mrxt138z34kw.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/059/n9igel9w137kcrhzvtdoq8rgenuymuib.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/265/apx6v82n2v87lkz7q7a54vgeopk80xl1.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/23f/kbl86zliihn5aba22ytugj0ie11k5hgs.jpg</picture>
+<vendor>Bugatti</vendor>
+<vendorCode>BBT-TY500IN</vendorCode>
+<name>Термос Bugatti Twin 500мл, Тоскана</name>
+<description>Наслаждаться любимым напитком идеальной температуры в течение дня - поистине райское удовольствие, которое подарит термос бутылка B Bottles Twin, разработанный Клементе Бугатти. B Bottles Twin изготовлен из нержавеющей стали 18/10, полностью герметичен и имеет две стальные вакуумные стенки, между которыми нанесено специальное покрытие из меди, позволяющее сохранять желаемую температуру внутри в течение длительного времени без образования конденсата на корпусе термоса. Вакуумная крышка с двойными стенками и силиконовым кольцом обеспечивает лучшую герметичность. B Bottles Twin сохранит напитки теплыми в течение 12 часов, холодными - до 24 часов, лед - до 36 часов. Все материалы, используемые для производства B Bottles Twin, полностью безопасны для здоровья. B Bottles Twin способен из простого термоса превратиться в модный аксессуар, соответствующий вашему стилю жизни и отражающий вашу индивидуальность.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">BBT-TY500IN</param>
+<param name="Материал">Нержавеющая сталь</param>
+<param name="Коллекция">Twin</param>
+<param name="Бренд">Bugatti</param>
+</offer>
+<offer id="739196" available="true">
+<url>https://www.eurodom.ru/catalog/stolovaya/servirovka/salatniki/739196/</url>
+<price>593</price>
+<oldprice>790</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>13</categoryId>
+<sort>17</sort>
+<picture>https://www.eurodom.ru/upload/iblock/745/65k3n74dq3eaz0efnnltdf0gx0df0qnd.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/5cf/3uxgoubtyf42h1ey509cb44y8gzmx45v.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/628/q67svzsbenq5s2o26w7svq2f660rmt63.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/1b9/wbpiptf8k2qp1oztm8fy9nyqxqa012ce.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/686/is2cv83nfeugnbwh1o60i2fvp0fb5vgb.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/12a/lexap4znoxpj8ptqa67mxpk2fqwd9fro.jpg</picture>
+<vendor>Zapel</vendor>
+<vendorCode>ZP-5199</vendorCode>
+<name>Салатник Zapel Table Blanche 13см</name>
+<description>Table Blanche от Zapel - это элегантность, воплощенная в посуде. Утонченность линий выражена в костяном фарфоре, из которого она сделана. Белоснежная палитра дарит ощущение чистоты и универсальности, а гладкая поверхность акцентирует красоту материала и изысканность блюд. Эта коллекция одеально подходит для ежедневного использования и отличается минималистичным дизайном, что позволяет гармонично сочетать её с другими элементами сервировки. Table Blanche от Zapel - это союз прочности и изящества, способный выдержать интенсивное использование, и в то же время привнести нотку роскоши в каждый прием пищи. Удобство посуды дополняется возможностью мыть её в посудомоечной машине и использовать в микроволновой печи. Table Blanche наполнит каждый день красотой и комфортом.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">ZP-5199</param>
+<param name="Материал">Фарфор</param>
+<param name="Коллекция">Table Blanche</param>
+<param name="Бренд">Zapel</param>
+</offer>
+<offer id="778347" available="true">
+<url>https://www.eurodom.ru/catalog/kukhnya/perenoska_produktov/termosy/778347/</url>
+<price>4290</price>
+<oldprice>5990</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>12</categoryId>
+<sort>18</sort>
+<picture>https://www.eurodom.ru/upload/iblock/5c6/jyboiqmqs4hmzs2vcghrb3c6cy3nzcfr.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/e98/qrizekf8g6y9f9cbqaiu4h873k60fnyq.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/49f/swj5an1dvfqv0th5oa0rdzp37phea8jg.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/816/3uokb5n1z1xkb8f8sdj7ks4tnwoj1dk9.jpg</picture>
+<vendor>Bugatti</vendor>
+<vendorCode>BBT-VC500IS</vendorCode>
+<name>Термос Bugatti Twin 500мл, черный</name>
+<description>Наслаждаться любимым напитком идеальной температуры в течение дня - поистине райское удовольствие, которое подарит термос бутылка B Bottles Twin, разработанный Клементе Бугатти. B Bottles Twin изготовлен из нержавеющей стали 18/10, полностью герметичен и имеет две стальные вакуумные стенки, между которыми нанесено специальное покрытие из меди, позволяющее сохранять желаемую температуру внутри в течение длительного времени без образования конденсата на корпусе термоса. Вакуумная крышка с двойными стенками и силиконовым кольцом обеспечивает лучшую герметичность. B Bottles Twin сохранит напитки теплыми в течение 12 часов, холодными - до 24 часов, лед - до 36 часов. Все материалы, используемые для производства B Bottles Twin, полностью безопасны для здоровья. B Bottles Twin способен из простого термоса превратиться в модный аксессуар, соответствующий вашему стилю жизни и отражающий вашу индивидуальность.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">BBT-VC500IS</param>
+<param name="Материал">Нержавеющая сталь</param>
+<param name="Коллекция">Twin</param>
+<param name="Бренд">Bugatti</param>
+</offer>
+<offer id="769706" available="true">
+<url>https://www.eurodom.ru/catalog/kukhnya/bytovaya_tekhnika_dlya_kukhni/tekhnika_dlya_prigotovleniya/769706/</url>
+<price>15120</price>
+<oldprice>19170</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>14</categoryId>
+<sort>19</sort>
+<picture>https://www.eurodom.ru/upload/iblock/a36/tercx8fc1r6rjdene81fzks94kqhd3jn.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/d58/jzv2xbfey7qf582k8z2cqnt8djqp9fhu.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/57c/zg8afh64zrqq7fo235z6b0qemz9b5ijp.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/44d/2rfx0fban3o8d7a7pvvk7hj2yxxmq4ry.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/0d5/mdec9vq9b57he5912b8mfubrlm67lb56.jpg</picture>
+<vendor>Zwilling</vendor>
+<vendorCode>53008-000</vendorCode>
+<name>Тостер на 2 слота с решеткой Zwilling Enfinigy</name>
+<description>Этот компактный и эффективный тостер оснащён двумя слотами стандартной ширины, что позволяет одновременно поджаривать два ломтика хлеба. Модель оборудована удобной решёткой для разогрева булочек, круассанов или других хлебобулочных изделий, что значительно расширяет её функциональность. Устройство предлагает несколько степеней обжарки, регулятор температуры и функцию разморозки, обеспечивая идеальный результат для любого типа хлеба. Элегантный дизайн в стиле коллекции Enfinigy, отличающейся чистыми линиями и высококачественными материалами, украсит собой кухонный стол. Как отмечает производитель, техника серии Enfinigy создана для того, чтобы вдохновлять на кулинарные эксперименты, предлагая интуитивно понятное управление и надёжную работу. Благодаря своему стилю и функциональности, этот тостер станет надёжным помощником для быстрого и вкусного завтрака каждый день.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">53008-000</param>
+<param name="Материал">Нержавеющая сталь, Пластик</param>
+<param name="Коллекция">ZWILLING Enfinigy</param>
+<param name="Бренд">Zwilling</param>
+</offer>
+<offer id="590956" available="true">
+<url>https://www.eurodom.ru/catalog/poryadok_v_dome/prinadlezhnosti_dlya_uborki/inventar_dlya_sukhoy_uborki/nabory_shchetka_sovok/590956/</url>
+<price>2300</price>
+<oldprice>2520</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>15</categoryId>
+<sort>20</sort>
+<picture>https://www.eurodom.ru/upload/iblock/61e/67fuf3tbu8wginrqudqopn54a4efct3y.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/5bf/3irh6p9b8yi3m9259jx3b0s5uhttcu16.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/bd8/obc0fgg17x5ebu2p05hnnlklfqfj2spi.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/6ac/nog7gqgl541e606z61ti5grpwu5jzuor.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/7d6/3l9xkzyglvxpr8rq19pdnjmzh5hem8kh.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/f36/nmnt3ymf97joqyxzc1pc33hvum1lc96f.jpg</picture>
+<vendor>Hausmann</vendor>
+<vendorCode>HM-1099</vendorCode>
+<name>Набор для сухой уборки Hausmann Ergo Broomer: щетка и совок</name>
+<description>Набор щетка и совок Ergo Broomer предназначен для сухой уборки пола. Удобная для захвата рукой и переноски ручка с приятным на ощупь покрытием «soft touch» соединяет два элемента набора: щетку и совок. Щетка зафиксирована на черенке под углом, что делает подметание пола особенно комфортным. Удлиненная щетина с распушенными концами тщательно собирает мусор, в том числе и в труднодоступных местах. Для очистки щетины от мусора на корпусе совка предусмотрены зубцы.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">HM-1099</param>
+<param name="Материал">Пластик</param>
+<param name="Коллекция">Cosmic</param>
+<param name="Бренд">Hausmann</param>
+</offer>
+<offer id="778342" available="true">
+<url>https://www.eurodom.ru/catalog/kukhnya/perenoska_produktov/termosy/778342/</url>
+<price>4290</price>
+<oldprice>5990</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>12</categoryId>
+<sort>21</sort>
+<picture>https://www.eurodom.ru/upload/iblock/366/30p7t79xtd94mv3g355allvd2oeocx4p.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/550/eqseo4g84ach6m39d3go1q6iy07e082f.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/213/wotkskz1tcvzvsb89qsv5old1r7hdiwa.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/a89/uzy316daef1my8relgoab92rv9x6hpi2.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/934/09v8shilyyxduj3q276qjetyy6uxokt5.jpg</picture>
+<vendor>Bugatti</vendor>
+<vendorCode>BBT-MH500IN</vendorCode>
+<name>Термос Bugatti Twin 500мл, Маргаритки</name>
+<description>Наслаждаться любимым напитком идеальной температуры в течение дня - поистине райское удовольствие, которое подарит термос бутылка B Bottles Twin, разработанный Клементе Бугатти. B Bottles Twin изготовлен из нержавеющей стали 18/10, полностью герметичен и имеет две стальные вакуумные стенки, между которыми нанесено специальное покрытие из меди, позволяющее сохранять желаемую температуру внутри в течение длительного времени без образования конденсата на корпусе термоса. Вакуумная крышка с двойными стенками и силиконовым кольцом обеспечивает лучшую герметичность. B Bottles Twin сохранит напитки теплыми в течение 12 часов, холодными - до 24 часов, лед - до 36 часов. Все материалы, используемые для производства B Bottles Twin, полностью безопасны для здоровья. B Bottles Twin способен из простого термоса превратиться в модный аксессуар, соответствующий вашему стилю жизни и отражающий вашу индивидуальность.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">BBT-MH500IN</param>
+<param name="Материал">Нержавеющая сталь</param>
+<param name="Коллекция">Twin</param>
+<param name="Бренд">Bugatti</param>
+</offer>
+<offer id="778341" available="true">
+<url>https://www.eurodom.ru/catalog/kukhnya/perenoska_produktov/termosy/778341/</url>
+<price>4290</price>
+<oldprice>5990</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>12</categoryId>
+<sort>22</sort>
+<picture>https://www.eurodom.ru/upload/iblock/870/0wi02bc58udehrgqoc39djxov1mlpahu.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/ad4/a4f1c98bu57ib574ojdomd9fv0kgisf8.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/3ca/c5gis33fz9c4g1n8gl89zfd0n59vcam8.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/d49/tfbs06op64xa1fnjmsqgqs7dg9zmiy1n.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/29d/tq1jtojnz52ultk2ahrgbi38ymfyhlj1.jpg</picture>
+<vendor>Bugatti</vendor>
+<vendorCode>BBT-AN500IS</vendorCode>
+<name>Термос Bugatti Twin 500мл, анимализм</name>
+<description>Наслаждаться любимым напитком идеальной температуры в течение дня - поистине райское удовольствие, которое подарит термос бутылка B Bottles Twin, разработанный Клементе Бугатти. B Bottles Twin изготовлен из нержавеющей стали 18/10, полностью герметичен и имеет две стальные вакуумные стенки, между которыми нанесено специальное покрытие из меди, позволяющее сохранять желаемую температуру внутри в течение длительного времени без образования конденсата на корпусе термоса. Вакуумная крышка с двойными стенками и силиконовым кольцом обеспечивает лучшую герметичность. B Bottles Twin сохранит напитки теплыми в течение 12 часов, холодными - до 24 часов, лед - до 36 часов. Все материалы, используемые для производства B Bottles Twin, полностью безопасны для здоровья. B Bottles Twin способен из простого термоса превратиться в модный аксессуар, соответствующий вашему стилю жизни и отражающий вашу индивидуальность.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">BBT-AN500IS</param>
+<param name="Материал">Нержавеющая сталь</param>
+<param name="Коллекция">Twin</param>
+<param name="Бренд">Bugatti</param>
+</offer>
+<offer id="735281" available="true">
+<url>https://www.eurodom.ru/catalog/spalnya/postelnoe_belye_1/komplekty_postelnogo_belya/kpb_semeynye_1/735281/</url>
+<price>15240</price>
+<oldprice>25400</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>16</categoryId>
+<sort>23</sort>
+<picture>https://www.eurodom.ru/upload/iblock/9d9/pcmqauxiniv95qbkj2vjs4kukuzxc05c.jpeg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/6c8/yh78mexarj8t2e9i0tiyuy435ibc8q8g.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/e90/d1kqfvsl1f6up8mgcmgz0qi0yq17dwu2.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/919/5zgzwn5ajdoejdjgz96yjj2eizlzp4wc.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/eef/2de4irzkcmyskhzy7laxzytx7i86j3bv.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/861/nq9zuqay0x28r1cwnjawyrkwdew9ooz0.jpg</picture>
+<vendor>Pappel</vendor>
+<vendorCode>60291744</vendorCode>
+<name>Комплект постельного белья семейный Pappel Kyutay</name>
+<description>Комплект постельного белья Pappel изготовлен из 100% хлопка. Хлопок - натуральное волокно растительного происхождения, придающее белью прочность и высокую гигроскопичность. Сатиновое переплетение плотностью 310 TC обеспечивает сохранение формы и великолепного внешнего вида на протяжении всего срока эксплуатации. Изделия с сатиновым переплетением долговечны, их поверхность отличается гладкостью и шелковистостью. Постельное белье Pappel производится крупнейшим в Европе интегрированным производителем хлопчатобумажного текстиля Zorluteks, являющегося лидером в Турции по экспорту продукции в 58 стран на 5 континентах. Zorluteks - первый производитель, получивший Сертификат качества GOTS в 2003 году. Комплекты постельного белья представлены в трех стандартных размерах. Их дизайн эксклюзивно разработан для сети магазинов Евродом.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">60291744</param>
+<param name="Материал">Сатин</param>
+<param name="Коллекция">Kyutay</param>
+<param name="Бренд">Pappel</param>
+</offer>
+<offer id="779790" available="true">
+<url>https://www.eurodom.ru/catalog/stolovaya/servirovka/salatniki/779790/</url>
+<price>542</price>
+<oldprice>1910</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>13</categoryId>
+<sort>24</sort>
+<picture>https://www.eurodom.ru/upload/iblock/ce0/1fhek30oyt93a6a1ovq3t0sd9ozki8a5.jpg</picture>
+<vendor>Chef &amp; Sommelier</vendor>
+<vendorCode>S0450</vendorCode>
+<name>Салатник Chef &amp; Sommelier Satinique 12,5см, 250мл</name>
+<description>Коллекция Satinique от французского производителя Chef &amp; Sommelier это новая линейка столовой посуды, предназначенной для профессионального использования в ресторанной и гостиничной сферах. Благодаря необычному декорированию при помощи ромбов, имеет строгие очертания и придется как раз по вкусу ценителям классики и роскоши. Satinique изготовлена по уникальной технологии из фарфора с нежным молочным оттенком. Отличает такой фарфор повышенная стойкость к внешнем интенсивным воздействиям, что позволяет ему быть отличным помощником не только на кухне у обычной домохозяйки, но так же высоко ценится среди профессионалов. Можно мыть в посудомоечной машине и использовать в микроволновой печи. Профессиональная фарфоровая посуда Chef &amp; Sommelier отвечает самым строгим гигиеническим требованиям.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">S0450</param>
+<param name="Коллекция">SATINIQUE</param>
+<param name="Бренд">Chef &amp; Sommelier</param>
+</offer>
+<offer id="778353" available="true">
+<url>https://www.eurodom.ru/catalog/kukhnya/perenoska_produktov/termosy/778353/</url>
+<price>4990</price>
+<oldprice>6990</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>12</categoryId>
+<sort>25</sort>
+<picture>https://www.eurodom.ru/upload/iblock/bd3/otqo5xbzs1ttxkgqyly9ul14fv81ms2v.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/d7a/r9djp8d198fmt66rr3uaaddypt23k0da.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/0f6/wl0ezrwbj6lljumf0kiv12vqoc8yaiss.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/746/rx38hd3s3odzjnw4pqxkb5buzvljghp5.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/964/kpl87d4hja8b9eplwugx533i7b4ch6hh.jpg</picture>
+<vendor>Bugatti</vendor>
+<vendorCode>BBT-SL800IS</vendorCode>
+<name>Термос Bugatti Twin Lux 800мл, серебристый</name>
+<description>Наслаждаться любимым напитком идеальной температуры в течение дня - поистине райское удовольствие, которое подарит термос бутылка B Bottles Twin серии Lux, разработанный Клементе Бугатти. B Bottles Twin изготовлен из нержавеющей стали 18/10, полностью герметичен и имеет две стальные вакуумные стенки, между которыми нанесено специальное покрытие из меди, позволяющее сохранять желаемую температуру внутри в течение длительного времени без образования конденсата на корпусе термоса. Вакуумная крышка с двойными стенками и силиконовым кольцом обеспечивает лучшую герметичность. B Bottles Twin сохранит напитки теплыми в течение 12 часов, холодными - до 24 часов, лед - до 36 часов. Все материалы, используемые для производства B Bottles Twin, полностью безопасны для здоровья.B Bottles Twin способен из простого термоса превратиться в модный аксессуар, соответствующий вашему стилю жизни и отражающий вашу индивидуальность.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">BBT-SL800IS</param>
+<param name="Материал">Нержавеющая сталь</param>
+<param name="Коллекция">Twin Lux</param>
+<param name="Бренд">Bugatti</param>
+</offer>
+<offer id="778349" available="true">
+<url>https://www.eurodom.ru/catalog/kukhnya/perenoska_produktov/termosy/778349/</url>
+<price>4290</price>
+<oldprice>5990</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>12</categoryId>
+<sort>26</sort>
+<picture>https://www.eurodom.ru/upload/iblock/486/a9ykjrz20i2mzg02gxeqdbkieb4mvn9u.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/e99/4rqd2c7cw5cnjzhf8tqfj32f4s0pq06y.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/8bd/k60bgjbtefdfk8sz6n364vouh56zxxrx.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/2d3/m1w8vnn6ad5pz6h9je52eo0jqs6j5rug.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/d0d/2n8eom74ya6h2ywd9snb7jzsbf45hoio.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/349/toztixupkgl6ldebu9ffaqztq4osni7x.jpg</picture>
+<vendor>Bugatti</vendor>
+<vendorCode>BBT-DS500DL</vendorCode>
+<name>Термос Bugatti Twin Lux 500мл, желтый</name>
+<description>Наслаждаться любимым напитком идеальной температуры в течение дня - поистине райское удовольствие, которое подарит термос бутылка B Bottles Twin серии Lux, разработанный Клементе Бугатти. B Bottles Twin изготовлен из нержавеющей стали 18/10, полностью герметичен и имеет две стальные вакуумные стенки, между которыми нанесено специальное покрытие из меди, позволяющее сохранять желаемую температуру внутри в течение длительного времени без образования конденсата на корпусе термоса. Вакуумная крышка с двойными стенками и силиконовым кольцом обеспечивает лучшую герметичность. B Bottles Twin сохранит напитки теплыми в течение 12 часов, холодными - до 24 часов, лед - до 36 часов. Все материалы, используемые для производства B Bottles Twin, полностью безопасны для здоровья.B Bottles Twin способен из простого термоса превратиться в модный аксессуар, соответствующий вашему стилю жизни и отражающий вашу индивидуальность.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">BBT-DS500DL</param>
+<param name="Материал">Нержавеющая сталь</param>
+<param name="Коллекция">Twin Lux</param>
+<param name="Бренд">Bugatti</param>
+</offer>
+<offer id="778344" available="true">
+<url>https://www.eurodom.ru/catalog/kukhnya/perenoska_produktov/termosy/778344/</url>
+<price>4290</price>
+<oldprice>5990</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>12</categoryId>
+<sort>27</sort>
+<picture>https://www.eurodom.ru/upload/iblock/cf8/pxojw94n45k5f2em0rq27oj27t5hgyy3.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/457/lo9dsrbvlwz5a202j6ynpq2q6j60ft8o.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/e2f/hy1fw7lk8jarwjty7rkp5t1fmudb4d8o.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/e7e/mauscmcgsb9i9mame8qi5l7xes09stq4.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/3b5/mdidc6zkiav83cs6qpu5k5tmiuahg9p2.jpg</picture>
+<vendor>Bugatti</vendor>
+<vendorCode>BBT-PF500IS</vendorCode>
+<name>Термос Bugatti Twin 500мл,цветущий луг</name>
+<description>Наслаждаться любимым напитком идеальной температуры в течение дня - поистине райское удовольствие, которое подарит термос бутылка B Bottles Twin, разработанный Клементе Бугатти. B Bottles Twin изготовлен из нержавеющей стали 18/10, полностью герметичен и имеет две стальные вакуумные стенки, между которыми нанесено специальное покрытие из меди, позволяющее сохранять желаемую температуру внутри в течение длительного времени без образования конденсата на корпусе термоса. Вакуумная крышка с двойными стенками и силиконовым кольцом обеспечивает лучшую герметичность. B Bottles Twin сохранит напитки теплыми в течение 12 часов, холодными - до 24 часов, лед - до 36 часов. Все материалы, используемые для производства B Bottles Twin, полностью безопасны для здоровья. B Bottles Twin способен из простого термоса превратиться в модный аксессуар, соответствующий вашему стилю жизни и отражающий вашу индивидуальность.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">BBT-PF500IS</param>
+<param name="Материал">Нержавеющая сталь</param>
+<param name="Коллекция">Twin</param>
+<param name="Бренд">Bugatti</param>
+</offer>
+<offer id="587510" available="true">
+<url>https://www.eurodom.ru/catalog/poryadok_v_dome/prinadlezhnosti_dlya_ukhoda_za_odezhdoy_i_obuvyu/belevye_sushilki_i_aksessuary_1/sushilki_napolnye/587510/</url>
+<price>6850</price>
+<oldprice>7999</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<sort>28</sort>
+<picture>https://www.eurodom.ru/upload/iblock/a3b/wz5g26qfwzb3jdgzeeh9k8jaj9th97rz.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/850/3g51rd4y5518flo3eioeau8gcwv4gvwl.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/2b9/9sw2bo1c3w0khhfn3tvbsvx6wl3e7d4s.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/879/jc9o95oxegvjym6lgykek91gwe3n3b4k.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/ff2/x5t0l9r4r7uofr4olofq81y950cuv2mo.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/9d3/oubhqc8qtdg7clxpkohkhbqtfq13g20i.jpg</picture>
+<vendor>Hausmann</vendor>
+<vendorCode>HM-RYX-02-023A-2</vendorCode>
+<name>Сушилка для белья напольная Hausmann Arcturus, 22м</name>
+<description>Напольная сушилка для белья Arcturus это практичное решение для сушки белья дома. Ее конструктивная особенность в сочетании с компактностью позволяет сушить как большое, так и небольшое количество белья. В случае необходимости боковой элемент легко перемещается, сокращая габариты сушилки. Диаметр металлических прутьев позволяет сушить белье без заломов. Качественное порошковое окрашивание металлических элементов конструкции защищает от образования ржавчины. Полезная площадь для навески белья 22 м. В разложенном состоянии габаритные размеры:168х59х86 см (90 с учетом боковых элементов). Высота боковых элементов108 см. В сложенном состоянии: 87х59х70 см.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">HM-RYX-02-023A-2</param>
+<param name="Материал">Металл</param>
+<param name="Коллекция">Cosmic</param>
+<param name="Бренд">Hausmann</param>
+</offer>
+<offer id="778354" available="true">
+<url>https://www.eurodom.ru/catalog/kukhnya/perenoska_produktov/termosy/778354/</url>
+<price>3290</price>
+<oldprice>4590</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>12</categoryId>
+<sort>29</sort>
+<picture>https://www.eurodom.ru/upload/iblock/36a/avb7ewnkku2l2n336oak9kyonsj32qvy.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/50f/t8e3d3ubvk37s0nk70na1mxr33x2ckin.jpg</picture>
+<vendor>Bugatti</vendor>
+<vendorCode>BBT-RS350RL</vendorCode>
+<name>Термос Bugatti Twin Lux 350мл, розовый</name>
+<description>Наслаждаться любимым напитком идеальной температуры в течение дня - поистине райское удовольствие, которое подарит термос бутылка B Bottles Twin серии Lux, разработанный Клементе Бугатти. B Bottles Twin изготовлен из нержавеющей стали 18/10, полностью герметичен и имеет две стальные вакуумные стенки, между которыми нанесено специальное покрытие из меди, позволяющее сохранять желаемую температуру внутри в течение длительного времени без образования конденсата на корпусе термоса. Вакуумная крышка с двойными стенками и силиконовым кольцом обеспечивает лучшую герметичность. B Bottles Twin сохранит напитки теплыми в течение 12 часов, холодными - до 24 часов, лед - до 36 часов. Все материалы, используемые для производства B Bottles Twin, полностью безопасны для здоровья.B Bottles Twin способен из простого термоса превратиться в модный аксессуар, соответствующий вашему стилю жизни и отражающий вашу индивидуальность.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">BBT-RS350RL</param>
+<param name="Материал">Нержавеющая сталь</param>
+<param name="Коллекция">Twin Lux</param>
+<param name="Бренд">Bugatti</param>
+</offer>
+<offer id="775699" available="true">
+<url>https://www.eurodom.ru/catalog/vannaya/kovriki/kovriki_dlya_vannoy/775699/</url>
+<price>10820</price>
+<oldprice>15470</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>17</categoryId>
+<sort>30</sort>
+<picture>https://www.eurodom.ru/upload/iblock/5dc/h1emko94y1ueef05s6d0ldt4pgcm6dj9.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/4a5/28x3skz670zj2ax22bo48mhtmdx8krq1.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/b0a/r7k9wdwxmca2p6o79i7c1nwhk2pgri0e.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/1b5/f85ax91z4rgi05068fe7j7umg9gc3a03.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/0b6/149d9f3dkqk94i7ywkh718z44zn8f77f.jpg</picture>
+<vendor>Kleine Wolke</vendor>
+<vendorCode>9128287225</vendorCode>
+<name>Коврик для ванной Kleine Wolke Fiona 70x120см</name>
+<description>Коврик для ванной Kleine Wolke Fiona Kaschmir: - практичный и долговечный; - износостойкий; - стирать при 40 градусах; - быстро сохнет; - прорезиненная основа; - подходит для полов с подогревом; - высота ворса 25 мм; - не скользит по полу; - не деформируется.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">9128287225</param>
+<param name="Материал">Полиакрил</param>
+<param name="Коллекция">Fiona</param>
+<param name="Бренд">Kleine Wolke</param>
+</offer>
+<offer id="765016" available="true">
+<url>https://www.eurodom.ru/catalog/kukhnya/nozhi_podstavki_dlya_nozhey_tochilki_doski_razdelochnye/nabory_nozhey/765016/</url>
+<price>69999</price>
+<oldprice>82290</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>7</categoryId>
+<sort>31</sort>
+<picture>https://www.eurodom.ru/upload/iblock/c86/fporsitxz82u0kg53kiubvk0v77nqbct.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/745/no2oo7i7lfdi5lefckjnithvx37udu4m.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/5e6/yzg3hd3wyq89fv8a78nixffz7n281k9i.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/caf/rrit4zbsxk6td8sgt39fkka53zvwpgf5.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/2d7/gcsncjqgbegl0m1lj4bfodlgq3vou80o.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/186/lw0cffc0ug40pybehynslvwx3bft9xs1.jpg</picture>
+<vendor>Robert Welch</vendor>
+<vendorCode>RWPAO2097V/7</vendorCode>
+<name>Набор кухонных ножей ROBERT WELCH Professional</name>
+<description>Наведите идеальный порядок на кухне с набором профессиональных ножей Robert Welch в дубовой подставке Angle Oak. Компактная вертикальная конструкция из массива дуба с силиконовыми ножками экономит пространство столешницы, обеспечивая безопасное хранение 6 ножей в постоянной доступности. В набор входят универсальные ножи для любых задач: от поварского и сантоку до ножа для хлеба и разделочного. Идеальная балансировка и эргономичные рукоятки гарантируют комфорт в работе, делая набор совершенным инструментом для кулинаров, ценящих профессионализм и порядок.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">RWPAO2097V/7</param>
+<param name="Материал">Нержавеющая сталь, Пластик, Дерево</param>
+<param name="Коллекция">Professional</param>
+<param name="Бренд">Robert Welch</param>
+</offer>
+<offer id="778340" available="true">
+<url>https://www.eurodom.ru/catalog/kukhnya/perenoska_produktov/termosy/778340/</url>
+<price>4290</price>
+<oldprice>5990</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>12</categoryId>
+<sort>32</sort>
+<picture>https://www.eurodom.ru/upload/iblock/daf/7t15w8l7t91a8s9t2acch1gj8zct1yvh.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/834/ebnpu2evneyreyzhvdjbft7lqtept299.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/fcc/viyyevcnxia1t3t2rabigbcmjxa31cxu.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/25a/qf6uoogvjlisck2qlhe95fe77d4vg6dn.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/b5a/pi0kk2x8bn2i5sgmoq26r7m9fbbomsum.jpg</picture>
+<vendor>Bugatti</vendor>
+<vendorCode>BBT-AL500IS</vendorCode>
+<name>Термос Bugatti Twin 500мл, голубой</name>
+<description>Наслаждаться любимым напитком идеальной температуры в течение дня - поистине райское удовольствие, которое подарит термос бутылка B Bottles Twin, разработанный Клементе Бугатти. B Bottles Twin изготовлен из нержавеющей стали 18/10, полностью герметичен и имеет две стальные вакуумные стенки, между которыми нанесено специальное покрытие из меди, позволяющее сохранять желаемую температуру внутри в течение длительного времени без образования конденсата на корпусе термоса. Вакуумная крышка с двойными стенками и силиконовым кольцом обеспечивает лучшую герметичность. B Bottles Twin сохранит напитки теплыми в течение 12 часов, холодными - до 24 часов, лед - до 36 часов. Все материалы, используемые для производства B Bottles Twin, полностью безопасны для здоровья. B Bottles Twin способен из простого термоса превратиться в модный аксессуар, соответствующий вашему стилю жизни и отражающий вашу индивидуальность.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">BBT-AL500IS</param>
+<param name="Материал">Нержавеющая сталь</param>
+<param name="Коллекция">Twin</param>
+<param name="Бренд">Bugatti</param>
+</offer>
+<offer id="776966" available="true">
+<url>https://www.eurodom.ru/catalog/stolovaya/servizy_i_posuda_obedennaya/tarelki_desertnye/776966/</url>
+<price>350</price>
+<oldprice>1520</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>18</categoryId>
+<sort>33</sort>
+<picture>https://www.eurodom.ru/upload/iblock/4ac/4mvdyax8tfwnw0wn1ot25r7plveluyd1.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/bca/8wobc1ewn75g2lu7vhecmjwolniffogy.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/472/48v5qwj3l0j11q6ijzmq4pjnat9iw8qm.jpg</picture>
+<vendor>Easy Life</vendor>
+<vendorCode>R2312/LIVI</vendorCode>
+<name>Тарелка десертная Easy Life Living</name>
+<description>Коллекция Living от Easy Life это воплощение сдержанной элегантности и уюта, созданное для тех, кто ценит красоту в простоте. Изготовленная из высококачественной керамики, эта посуда призвана стать неотъемлемой частью вашей повседневной жизни, привнося в нее тепло и гармонию. Мягкие, приглушенные оттенки и минималистичные формы коллекции Living создают ощущение спокойствия и умиротворения, а деликатная текстура материала добавляет тактильной привлекательности. Каждый предмет коллекции призван не только радовать глаз, но и дарить комфорт в использовании, делая процесс приготовления и подачи блюд настоящим удовольствием. Living от Easy Life это приглашение замедлиться, насладиться моментом и создать атмосферу настоящего дома, где каждая деталь имеет значение.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">R2312/LIVI</param>
+<param name="Материал">Керамика</param>
+<param name="Коллекция">Living</param>
+<param name="Бренд">Easy Life</param>
+</offer>
+<offer id="778343" available="true">
+<url>https://www.eurodom.ru/catalog/kukhnya/perenoska_produktov/termosy/778343/</url>
+<price>3290</price>
+<oldprice>4590</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>12</categoryId>
+<sort>34</sort>
+<picture>https://www.eurodom.ru/upload/iblock/e20/3id6v9oz3f2plrix7mod5aoeyxcymu58.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/bd1/0ci92xokd730ok5g8ge1u2s5lrhgc33u.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/6a3/b3v2tg30dwr48e3ho0oo4s3vq6ke8lfp.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/3f0/122vpbsji1pcvd2ckirq5wo63ibzij1u.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/508/sjqas0rtzagh1ugvatkbxvkfneelzkzo.jpg</picture>
+<vendor>Bugatti</vendor>
+<vendorCode>BBT-FW350IN</vendorCode>
+<name>Термос Bugatti Twin 350мл, голубой</name>
+<description>Наслаждаться любимым напитком идеальной температуры в течение дня - поистине райское удовольствие, которое подарит термос бутылка B Bottles Twin, разработанный Клементе Бугатти. B Bottles Twin изготовлен из нержавеющей стали 18/10, полностью герметичен и имеет две стальные вакуумные стенки, между которыми нанесено специальное покрытие из меди, позволяющее сохранять желаемую температуру внутри в течение длительного времени без образования конденсата на корпусе термоса. Вакуумная крышка с двойными стенками и силиконовым кольцом обеспечивает лучшую герметичность. B Bottles Twin сохранит напитки теплыми в течение 12 часов, холодными - до 24 часов, лед - до 36 часов. Все материалы, используемые для производства B Bottles Twin, полностью безопасны для здоровья. B Bottles Twin способен из простого термоса превратиться в модный аксессуар, соответствующий вашему стилю жизни и отражающий вашу индивидуальность.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">BBT-FW350IN</param>
+<param name="Материал">Нержавеющая сталь</param>
+<param name="Коллекция">Twin</param>
+<param name="Бренд">Bugatti</param>
+</offer>
+<offer id="750924" available="true">
+<url>https://www.eurodom.ru/catalog/poryadok_v_dome/prinadlezhnosti_dlya_ukhoda_za_odezhdoy_i_obuvyu/gladilnye_doski_i_aksessuary/doski_gladilnye_bez_elektropodklyucheniya/750924/</url>
+<price>5289</price>
+<oldprice>6590</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>9</categoryId>
+<sort>35</sort>
+<picture>https://www.eurodom.ru/upload/iblock/583/xcoxkvdcza0q2hhfcuaflh7f4n9xs7qf.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/27d/cokguwblg2gvk78hkevk1n8ife3s7jft.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/547/o6f82jalsjxek53vuvpygprtt1hyyzo0.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/c9e/zltj6mzpb2m921r2fe6gi0hk944s6uac.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/3ce/w0g7mc2waljtprgo9sfhczuepdbylp1j.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/1ab/ahxn6x87qabjw73q6bwit0ulczyveh85.jpg</picture>
+<vendor>Hausmann</vendor>
+<vendorCode>HM-P1343HT1-22/28</vendorCode>
+<name>Доска гладильная Hausmann Cosmic Pegasus 33х110см</name>
+<description>Сверхлегкая гладильная доска PEGASUS имеет надежный, устойчивый каркас и гладильную поверхность из термостойкого и ударопрочного полимера. Продуманная эргономика гладильной поверхности позволяет тщательно разгладить любые сложные элементы одежды, заломы и помятости без дополнительных приспособлений. Благодаря своим характеристикам гладильная доска PEGASUS делает процесс глажения максимально комфортным и существенно сокращает время, затрачиваемое на уход за одеждой и бельем. В конструкции предусмотрены перфорация для эффективного пароотведения и ступенчатая регулировка высоты от 67,5 до 90 см. Размер гладильной поверхности 110 x 33 см. Подходит для утюга. Превосходное качество глажения также обеспечивает чехол из 100% хлопка с антипригарным покрытием и двухслойной основой из поролона и войлока. Чехол надежно крепится на гладильной поверхности с помощью шнура и фиксатора.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">HM-P1343HT1-22/28</param>
+<param name="Материал">Металл, Пластик</param>
+<param name="Коллекция">Cosmic</param>
+<param name="Бренд">Hausmann</param>
+</offer>
+<offer id="770965" available="true">
+<url>https://www.eurodom.ru/catalog/kukhnya/bytovaya_tekhnika_dlya_kukhni/tekhnika_dlya_prigotovleniya/770965/</url>
+<price>23190</price>
+<oldprice>28990</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>14</categoryId>
+<sort>36</sort>
+<picture>https://www.eurodom.ru/upload/iblock/da0/j769zem0sgdophc3be1l368shshxycxg.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/101/fsxoxua8qb6jlo4m930v4f4klz0juj1z.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/6c5/7twdo74s8uxkz9t0ae2hgov43jr21k3k.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/63f/9qnx6fqbv3wzpq52mb6j670ossm66sx4.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/c8e/fe9zuik5s08utpb143mps5v0jtlnmaqe.jpg</picture>
+<vendor>Bugatti</vendor>
+<vendorCode>13-SVOLOC</vendorCode>
+<name>Тостер Bugatti VOLO cream</name>
+<description>Bugatti VOLO инновационный тостер, соединяющий в себе функциональность, технологии и уникальный дизайн. Хлеб незаменимый продукт, ставший частью нашей культуры и традиций. Дизайнер Андреас Сигатц разработал универсальный тостер, поднимающий процесс поджаривания хлеба на новый уровень. Четыре функции дизайнерского тостера VOLO, которые учитывают множество вкусов и предпочтений: BROWNING традиционное поджаривание хлеба с двух сторон; BAGEL подрумянит ломтик только с одной стороны; DEFROST функция разморозки; REHEAT - функция подогрева булочек, рогаликов или круассанов без дополнительной поджарки на специальной съемной решетке, входящей в комплект. Электронный блок управления поможет не только установить необходимую функцию, но и выбрать одну из шести степеней поджарки. Благодаря эксклюзивной моторизированной системе Bugatti LIFT каретка с ломтиками хлеба в автоматическом режиме медленно опускается в слоты, а после приготовления плавно поднимается в сопровождении звукового сигнала. Культовая современная V-образная форма и корпус из нержавеющей стали придают облику тостера исключительную динамику. Универсальная функциональность, уникальный дизайн и элегантная авангардная форма делают...</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">13-SVOLOC</param>
+<param name="Материал">Нержавеющая сталь</param>
+<param name="Коллекция">Volo</param>
+<param name="Бренд">Bugatti</param>
+</offer>
+<offer id="687633" available="true">
+<url>https://www.eurodom.ru/catalog/kukhnya/posuda_dlya_prigotovleniya/kryshki/universalnye_kryshki/687633/</url>
+<price>980</price>
+<oldprice>3170</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>19</categoryId>
+<sort>37</sort>
+<picture>https://www.eurodom.ru/upload/iblock/904/904dffba742f4469365b34a46d78898b.jpg</picture>
+<vendor>Tognana</vendor>
+<vendorCode>WS558C6SPHA</vendorCode>
+<name>Крышка Tognana Sphera 24см</name>
+<description>Крышка Tognana Sphera - элегантное и функциональное дополнение к вашей посуде. Изготовлена из жаростойкого стекла, позволяя контролировать процесс приготовления, сохраняя вкус, аромат и тепло блюд. Ободок из нержавеющей стали обеспечивает надежную фиксацию. Удобная ручка и легкий уход делают ее незаменимой на кухне.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">WS558C6SPHA</param>
+<param name="Материал">Стекло, Металл, Пластик</param>
+<param name="Коллекция">Sphera</param>
+<param name="Бренд">Tognana</param>
+</offer>
+<offer id="687634" available="true">
+<url>https://www.eurodom.ru/catalog/kukhnya/posuda_dlya_prigotovleniya/kryshki/universalnye_kryshki/687634/</url>
+<price>700</price>
+<oldprice>2620</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>19</categoryId>
+<sort>38</sort>
+<picture>https://www.eurodom.ru/upload/iblock/1da/1da961a6ae6680bbe4401b64e29d4be1.jpg</picture>
+<vendor>Tognana</vendor>
+<vendorCode>WS558C8SPHA</vendorCode>
+<name>Крышка Tognana Sphera 28см</name>
+<description></description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">WS558C8SPHA</param>
+<param name="Коллекция">Sphera</param>
+<param name="Бренд">Tognana</param>
+</offer>
+<offer id="707778" available="true">
+<url>https://www.eurodom.ru/catalog/interer_i_dekor/aromaty_dlya_doma/diffuzory_i_napolniteli/napolniteli_dlya_diffuzorov/707778/</url>
+<price>6100</price>
+<currencyId>RUB</currencyId>
+<categoryId>20</categoryId>
+<sort>39</sort>
+<picture>https://www.eurodom.ru/upload/iblock/305/60o6va9xhnv3ilp5rprxkauylvzayha0.jpg</picture>
+<vendor>Cereria Molla</vendor>
+<vendorCode>1354</vendorCode>
+<name>Аромат сменный Cereria Molla Boutique. Роза и уд 200мл</name>
+<description>Сладкий цветочный аромат. Самая темная бархатная дамасская роза в уникальном созвучии с деревом уда незабываемый аромат с ярким характером.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">1354</param>
+<param name="Материал">Пластик</param>
+<param name="Коллекция">Boutique</param>
+<param name="Бренд">Cereria Molla</param>
+</offer>
+<offer id="687736" available="true">
+<url>https://www.eurodom.ru/catalog/kukhnya/posuda_dlya_prigotovleniya/kryshki/universalnye_kryshki/687736/</url>
+<price>630</price>
+<oldprice>1940</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>19</categoryId>
+<sort>40</sort>
+<picture>https://www.eurodom.ru/upload/iblock/e88/e884a9049ec7567d763a3736eaa96c49.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/f9e/f9e1dc87794d36927489eeda734cf061.jpg</picture>
+<vendor>Tognana</vendor>
+<vendorCode>WS558C4SPHA</vendorCode>
+<name>Крышка Tognana Sphera 20см</name>
+<description>Крышка Tognana Sphera - элегантное и функциональное дополнение к вашей посуде. Изготовлена из жаростойкого стекла, позволяя контролировать процесс приготовления, сохраняя вкус, аромат и тепло блюд. Ободок из нержавеющей стали обеспечивает надежную фиксацию. Удобная ручка и легкий уход делают ее незаменимой на кухне.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">WS558C4SPHA</param>
+<param name="Материал">Металл, Пластик</param>
+<param name="Коллекция">Sphera</param>
+<param name="Бренд">Tognana</param>
+</offer>
+<offer id="707777" available="true">
+<url>https://www.eurodom.ru/catalog/interer_i_dekor/aromaty_dlya_doma/diffuzory_i_napolniteli/napolniteli_dlya_diffuzorov/707777/</url>
+<price>6100</price>
+<currencyId>RUB</currencyId>
+<categoryId>20</categoryId>
+<sort>41</sort>
+<picture>https://www.eurodom.ru/upload/iblock/6d2/7mh9gz9f7xfnegy9j7wy5bi2d1107va3.jpg</picture>
+<vendor>Cereria Molla</vendor>
+<vendorCode>1353</vendorCode>
+<name>Аромат сменный Cereria Molla Boutique. Черная орхидея и лилия 200мл</name>
+<description>Сложный аромат, который завораживает своими зелеными и фруктовыми нотами, полными естественности. Пряное сочетание с основой, состоящей из мускуса и дерева, придает аромату элегантность.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">1353</param>
+<param name="Материал">Пластик</param>
+<param name="Коллекция">Boutique</param>
+<param name="Бренд">Cereria Molla</param>
+</offer>
+<offer id="707990" available="true">
+<url>https://www.eurodom.ru/catalog/interer_i_dekor/aromaty_dlya_doma/diffuzory_i_napolniteli/napolniteli_dlya_diffuzorov/707990/</url>
+<price>5500</price>
+<currencyId>RUB</currencyId>
+<categoryId>20</categoryId>
+<sort>42</sort>
+<picture>https://www.eurodom.ru/upload/iblock/b1a/1po1whqvaqdft768e18dvk7vseb1r4tr.jpg</picture>
+<vendor>Hypno Casa</vendor>
+<vendorCode>1280</vendorCode>
+<name>Аромат сменный Hypno Casa Hypno Chic Сочный грейпфрут</name>
+<description>Сияющий аромат, который открывается сверкающей верхней нотой бергамота и лимона, подчеркнутой свежей прозрачной нотой грейпфрута. Богатое и воздушное сердце из цветов и фруктов, где изысканный аккорд розы встречается с пионом, усиливается мускусным шлейфом с гурманской ванилью.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">1280</param>
+<param name="Коллекция">Hypno Chic</param>
+<param name="Бренд">Hypno Casa</param>
+</offer>
+<offer id="707991" available="true">
+<url>https://www.eurodom.ru/catalog/interer_i_dekor/aromaty_dlya_doma/diffuzory_i_napolniteli/napolniteli_dlya_diffuzorov/707991/</url>
+<price>5500</price>
+<currencyId>RUB</currencyId>
+<categoryId>20</categoryId>
+<sort>43</sort>
+<picture>https://www.eurodom.ru/upload/iblock/576/1gcl8isbf6po9t5wown342p4q769u151.jpg</picture>
+<vendor>Hypno Casa</vendor>
+<vendorCode>1281</vendorCode>
+<name>Аромат сменный Hypno Casa Hypno Chic Корица и апельсин</name>
+<description>Аромат, заряжающий оптимизмом и согревающий душу! Аппетитные верхние ноты свежего цитруса, приправленного искрящейся корицей, способны растопить любое сердце. Мягкие ноты иланг-иланга и персика переходят в древесный шлейф с ванильным послевкусием. Аромат для настоящих гурманов!</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">1281</param>
+<param name="Материал">Пластик</param>
+<param name="Коллекция">Hypno Chic</param>
+<param name="Бренд">Hypno Casa</param>
+</offer>
+<offer id="698168" available="true">
+<url>https://www.eurodom.ru/catalog/kukhnya/posuda_dlya_prigotovleniya/kryshki/universalnye_kryshki/698168/</url>
+<price>3490</price>
+<currencyId>RUB</currencyId>
+<categoryId>19</categoryId>
+<sort>44</sort>
+<picture>https://www.eurodom.ru/upload/iblock/a7a/7p3n893fvb95snv3nmd03lnqbwddejc3.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/3b5/zrjp9qaf60t9h0ecfnetwss5ynagauvy.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/f72/hj02z42jpsb6rtgnz7qrjs0paqqir3xs.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/936/5hdakd6jy33i2mlp7dysomu079vcu2cc.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/47a/t3ouux4ri8d4ebp6evjsz5sxlnd0du8c.jpg</picture>
+<vendor>AMT</vendor>
+<vendorCode>AMT020</vendorCode>
+<name>Крышка AMT Glass Lids 20см</name>
+<description>В ассортименте компании AMT представлены жаропрочные стеклянные крышки. Все крышки для посуды Diamond Crystal изготовлены из термостойкого стекла и имеют вентиляционное отверстие для регулирования интенсивности приготовления продуктов. Жаропрочные крышки универсальны и способны выдержать резкий перепад температур. Изделия АМТ удобны в использовании, они позволяют с легкостью контролировать процесс приготовления пищи. Стеклянные аксессуары нужно беречь от падений и ударов. Мыть их следует в теплой воде, используя только мягкую губку.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">AMT020</param>
+<param name="Материал">Стекло</param>
+<param name="Коллекция">Glass Lids</param>
+<param name="Бренд">AMT</param>
+</offer>
+<offer id="707776" available="true">
+<url>https://www.eurodom.ru/catalog/interer_i_dekor/aromaty_dlya_doma/diffuzory_i_napolniteli/napolniteli_dlya_diffuzorov/707776/</url>
+<price>6100</price>
+<currencyId>RUB</currencyId>
+<categoryId>20</categoryId>
+<sort>45</sort>
+<picture>https://www.eurodom.ru/upload/iblock/e20/apmq84l0g0kufzcteoeml8h5dbsxr98i.jpg</picture>
+<vendor>Cereria Molla</vendor>
+<vendorCode>1352</vendorCode>
+<name>Аромат сменный Cereria Molla Boutique. Сицилийская вербена</name>
+<description>Тонкий, нежный аромат со спонтанным характером. «Сицилийская вербена» напомнит вам о жизни на свежем воздухе, море, солнце и мягкой ласке бриза сицилийского побережья.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">1352</param>
+<param name="Материал">Пластик</param>
+<param name="Коллекция">Boutique</param>
+<param name="Бренд">Cereria Molla</param>
+</offer>
+<offer id="698169" available="true">
+<url>https://www.eurodom.ru/catalog/kukhnya/posuda_dlya_prigotovleniya/kryshki/universalnye_kryshki/698169/</url>
+<price>4190</price>
+<currencyId>RUB</currencyId>
+<categoryId>19</categoryId>
+<sort>46</sort>
+<picture>https://www.eurodom.ru/upload/iblock/2bd/t2fgg89f9jgbg0e87u1ri69vl440cqmw.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/eb1/ti854xxhkj83ufvuovxd1va5050kfoog.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/a3d/tug39clh0bbmsb0f2b1u3etbe9q0y1c4.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/6e0/0lm9tnydiqb01l1i525xeta3dnucke2p.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/d8e/9ww93tvn3o1b069653k99ofimj0f10s3.jpg</picture>
+<vendor>AMT</vendor>
+<vendorCode>AMT024</vendorCode>
+<name>Крышка AMT Glass Lids 24см</name>
+<description>В ассортименте компании AMT представлены жаропрочные стеклянные крышки. Все крышки для посуды Diamond Crystal изготовлены из термостойкого стекла и имеют вентиляционное отверстие для регулирования интенсивности приготовления продуктов. Жаропрочные крышки универсальны и способны выдержать резкий перепад температур. Изделия АМТ удобны в использовании, они позволяют с легкостью контролировать процесс приготовления пищи. Стеклянные аксессуары нужно беречь от падений и ударов. Мыть их следует в теплой воде, используя только мягкую губку.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">AMT024</param>
+<param name="Материал">Стекло</param>
+<param name="Коллекция">Glass Lids</param>
+<param name="Бренд">AMT</param>
+</offer>
+<offer id="707992" available="true">
+<url>https://www.eurodom.ru/catalog/interer_i_dekor/aromaty_dlya_doma/diffuzory_i_napolniteli/napolniteli_dlya_diffuzorov/707992/</url>
+<price>5500</price>
+<currencyId>RUB</currencyId>
+<categoryId>20</categoryId>
+<sort>47</sort>
+<picture>https://www.eurodom.ru/upload/iblock/53e/ytjzilc99fendd1ckls370aysq9em20r.jpg</picture>
+<vendor>Hypno Casa</vendor>
+<vendorCode>1283</vendorCode>
+<name>Аромат сменный Hypno Casa Hypno Chic Драгоценная амбра</name>
+<description>Аромат, приглашающий нас погрузиться в атмосферу таинственного Востока Аромат раскрывается легкой, свежей и зеленой цитрусовой нотой, которая подчиняется глубокому аккорду тимьяна, лаванды и эвкалипта. Идеальное сочетание, которое раскрывает теплые нотки дерева и бальзамика, амбры и мускуса.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">1283</param>
+<param name="Материал">Пластик</param>
+<param name="Коллекция">Hypno Chic</param>
+<param name="Бренд">Hypno Casa</param>
+</offer>
+<offer id="707993" available="true">
+<url>https://www.eurodom.ru/catalog/interer_i_dekor/aromaty_dlya_doma/diffuzory_i_napolniteli/napolniteli_dlya_diffuzorov/707993/</url>
+<price>5500</price>
+<currencyId>RUB</currencyId>
+<categoryId>20</categoryId>
+<sort>48</sort>
+<picture>https://www.eurodom.ru/upload/iblock/e69/n17ps9gjygih0taohc1ls0q9pcmmirs4.jpg</picture>
+<vendor>Hypno Casa</vendor>
+<vendorCode>1287</vendorCode>
+<name>Аромат сменный Hypno Casa Hypno Chic Черная орхидея</name>
+<description>Аромат, пропитанный таинственностью, как загадочная и прекрасная Черная орхидея. Аромат, погружающий Вас в теплое ощущение благополучия и комфорта. Цветочные ноты черной орхидеи, розы и нероли сливаются с неожиданной яркой малиной. В основе драгоценное сандаловое дерево и обволакивающие ноты ванили и мускуса.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">1287</param>
+<param name="Материал">Пластик</param>
+<param name="Коллекция">Hypno Chic</param>
+<param name="Бренд">Hypno Casa</param>
+</offer>
+<offer id="698170" available="true">
+<url>https://www.eurodom.ru/catalog/kukhnya/posuda_dlya_prigotovleniya/kryshki/universalnye_kryshki/698170/</url>
+<price>4290</price>
+<currencyId>RUB</currencyId>
+<categoryId>19</categoryId>
+<sort>49</sort>
+<picture>https://www.eurodom.ru/upload/iblock/549/6gftfvqt6af2hvsua3mhotsro7cdc520.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/233/19zahrg0wcqk9ner0tktmr52o938mvqt.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/6fe/90ru7e5e4bkpnyk08beau4r8uhsj30uj.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/936/9xqerrvjk4psz952h5lcuqypxgyx4gop.jpg</picture>
+<picture>https://www.eurodom.ru/upload/iblock/20e/d5vz3ey1mw20dc0nfh1dr0uyuazxx3ql.jpg</picture>
+<vendor>AMT</vendor>
+<vendorCode>AMT026</vendorCode>
+<name>Крышка AMT Glass Lids 26см</name>
+<description>В ассортименте компании AMT представлены жаропрочные стеклянные крышки. Все крышки для посуды Diamond Crystal изготовлены из термостойкого стекла и имеют вентиляционное отверстие для регулирования интенсивности приготовления продуктов. Жаропрочные крышки универсальны и способны выдержать резкий перепад температур. Изделия АМТ удобны в использовании, они позволяют с легкостью контролировать процесс приготовления пищи. Стеклянные аксессуары нужно беречь от падений и ударов. Мыть их следует в теплой воде, используя только мягкую губку.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">AMT026</param>
+<param name="Материал">Стекло</param>
+<param name="Коллекция">Glass Lids</param>
+<param name="Бренд">AMT</param>
+</offer>
+<offer id="707775" available="true">
+<url>https://www.eurodom.ru/catalog/interer_i_dekor/aromaty_dlya_doma/diffuzory_i_napolniteli/napolniteli_dlya_diffuzorov/707775/</url>
+<price>6100</price>
+<currencyId>RUB</currencyId>
+<categoryId>20</categoryId>
+<sort>50</sort>
+<picture>https://www.eurodom.ru/upload/iblock/9a2/buiy9ho3fizbyaf2ygbtos8dljw6shd6.jpg</picture>
+<vendor>Cereria Molla</vendor>
+<vendorCode>1351</vendorCode>
+<name>Аромат сменный Cereria Molla Boutique. Средиземноморский бриз</name>
+<description>Элегантный и стильный аромат с солеными брызгами моря. Мягкое сочетание белых цветов и цитрусовых капель, которые пропитаны освежающим ароматом Средиземного моря.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Артикул">1351</param>
+<param name="Материал">Пластик</param>
+<param name="Коллекция">Boutique</param>
+<param name="Бренд">Cereria Molla</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
