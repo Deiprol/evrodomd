@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2026-07-08 20:20">
+<shop>
+<name>Librederm prototype</name>
+<company>Librederm</company>
+<url>https://librederm.ru</url>
+<currencies>
+<currency id="RUB" rate="1" />
+</currencies>
+<categories>
+<category id="1">Гиалуроновая</category>
+<category id="2">Коллаген Пептид</category>
+<category id="3">Ретинол</category>
+<category id="4">UraMax</category>
+<category id="5">Наборы</category>
+<category id="6">HyaluMax</category>
+</categories>
+<offers>
+<offer id="00000006743" available="true">
+<url>https://librederm.ru/catalog/collections/laboratories/hyaluronic/00000006743/</url>
+<price>781</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>1</sort>
+<picture>https://librederm.ru/upload/iblock/6af/n3e29z0q6j6xkq8nhoyab85pa51nw0vw.png</picture>
+<picture>https://librederm.ru/upload/iblock/95e/gid1k429sio18xhxn66ww6adaequci7i.webp</picture>
+<picture>https://librederm.ru/upload/iblock/027/czowkrdwfxqcwlz8loggcle16kjosmtq.webp</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00000006743</vendorCode>
+<name>Гиалуроновая пенка для умывания 160 мл</name>
+<description>Гиалуроновая / Гиалуроновая</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">Гиалуроновая</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00046197964" available="true">
+<url>https://librederm.ru/catalog/collections/laboratories/hyaluronic/00046197964/</url>
+<price>1193</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>2</sort>
+<picture>https://librederm.ru/upload/iblock/b7b/b2mvjmd9ebj6ky69rb1u8d9q6ou4mnm4.png</picture>
+<picture>https://librederm.ru/upload/iblock/af7/r7rnfg4w25mby3du1jon11ahyj9mpzl1.png</picture>
+<picture>https://librederm.ru/upload/iblock/ca9/ujsm53nwy5got6ovcr6d8p832af3cmo9.webp</picture>
+<picture>https://librederm.ru/upload/iblock/1f3/kxndc1f31qr1rc40uvvexgb9fh2tuhwm.webp</picture>
+<picture>https://librederm.ru/upload/iblock/c10/2u951vphppmcn8vu63id3d1e8ommv5ha.webp</picture>
+<picture>https://librederm.ru/upload/iblock/675/a6gkbw7ew9cx6wih4z7x5ufw9rhc5pqj.webp</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00046197964</vendorCode>
+<name>Гиалуроновый гель-патч для кожи вокруг глаз Максимальное увлажнение 30 мл</name>
+<description>Гиалуроновая / Гиалуроновая</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">Гиалуроновая</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00046204697" available="true">
+<url>https://librederm.ru/catalog/collections/laboratories/hyaluronic/00046204697/</url>
+<price>1862</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>3</sort>
+<picture>https://librederm.ru/upload/iblock/bc5/8702kxg2xfh0fgdk00hwfk3go5oh9wab.png</picture>
+<picture>https://librederm.ru/upload/iblock/25d/wacwuz2xxqqdc8gkbu2p1jc7zdbtprsg.png</picture>
+<picture>https://librederm.ru/upload/iblock/b83/y1drd4a5po7utylyctvef45jx8i4gnxj.jpg</picture>
+<picture>https://librederm.ru/upload/iblock/f79/wu9yvla2hdr74zhs5ikn5ij6g3nfuaaj.jpg</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00046204697</vendorCode>
+<name>Гиалуроновый крем увлажняющий насыщенный дневной SPF30 50 мл</name>
+<description>Гиалуроновая / Гиалуроновая</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">Гиалуроновая</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00046204696" available="true">
+<url>https://librederm.ru/catalog/collections/laboratories/hyaluronic/00046204696/</url>
+<price>1862</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>4</sort>
+<picture>https://librederm.ru/upload/iblock/b4b/1zd7l34jfqir2ppru8tx6q2ei5onnfbg.png</picture>
+<picture>https://librederm.ru/upload/iblock/cac/af2ttc3hz7rle5cb8qlhjscxzmm0o9qd.png</picture>
+<picture>https://librederm.ru/upload/iblock/930/n7d2aw0hmnp37eja9ijnv0wcl59bvaj6.jpg</picture>
+<picture>https://librederm.ru/upload/iblock/642/qq25k0oqjhdwvlexwkpgygi1ijq34wqe.jpg</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00046204696</vendorCode>
+<name>Гиалуроновый крем увлажняющий омолаживающий ночной 50 мл</name>
+<description>Гиалуроновая / Гиалуроновая</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">Гиалуроновая</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00046204637" available="true">
+<url>https://librederm.ru/catalog/collections/laboratories/hyaluronic/00046204637/</url>
+<price>537</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>5</sort>
+<picture>https://librederm.ru/upload/iblock/42c/d0pmarefu0w9cqgp2vu8xx9ltsnkx602.png</picture>
+<picture>https://librederm.ru/upload/iblock/b36/c1zg33om6y4srt3gjkrkxmjgqokpfyas.webp</picture>
+<picture>https://librederm.ru/upload/iblock/313/8k0zshttzi1xix4p7t22igr7ap5lqxos.webp</picture>
+<picture>https://librederm.ru/upload/iblock/e14/tduc527ba59x4znihj8gmqa9vpq9pc0x.webp</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00046204637</vendorCode>
+<name>Гель-масло гидрофильное для умывания и демакияжа 100 мл</name>
+<description>Гиалуроновая / Гиалуроновая</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">Гиалуроновая</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00000100780" available="true">
+<url>https://librederm.ru/catalog/collections/laboratories/hyaluronic/00000100780/</url>
+<price>918</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>6</sort>
+<picture>https://librederm.ru/upload/iblock/4bd/k7ilkxzzfg8xslefnbnjh11mffg02pc1.png</picture>
+<picture>https://librederm.ru/upload/iblock/df5/dzx8u3hncnvr6rq8gkpnz1138apxw6u0.png</picture>
+<picture>https://librederm.ru/upload/iblock/d84/x3rb9zrn5xy6o8mqb1nqkkxfftkmjsv3.webp</picture>
+<picture>https://librederm.ru/upload/iblock/2e3/1s1zw9ixnqsiqfeia2j20eipmc9ry0na.webp</picture>
+<picture>https://librederm.ru/upload/iblock/c74/mdg4gvg6y19xi5v9t5um9y32hmv06fm7.webp</picture>
+<picture>https://librederm.ru/upload/iblock/4f1/f5n1np2hf7icqec1mm366xea5nri4ibe.webp</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00000100780</vendorCode>
+<name>Гиалуроновый крем широкого действия для кожи вокруг глаз 20 мл</name>
+<description>Гиалуроновая / Гиалуроновая</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">Гиалуроновая</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00000101660" available="true">
+<url>https://librederm.ru/catalog/collections/laboratories/hyaluronic/00000101660/</url>
+<price>845</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>7</sort>
+<picture>https://librederm.ru/upload/iblock/d05/m9m06ludbhxojgby2y54stq02c8ihxfk.png</picture>
+<picture>https://librederm.ru/upload/iblock/dc3/vav0xpbab6aiccpg8ygqx8xf5spxwt73.webp</picture>
+<picture>https://librederm.ru/upload/iblock/25f/p2kkrnw4gp2u5al0un4c6jvw6f0dnfiw.webp</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00000101660</vendorCode>
+<name>Гиалуроновый тоник увлажняющий 200 мл</name>
+<description>Гиалуроновая / Гиалуроновая</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">Гиалуроновая</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00000007003" available="true">
+<url>https://librederm.ru/catalog/collections/laboratories/hyaluronic/00000007003/</url>
+<price>1134</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>8</sort>
+<picture>https://librederm.ru/upload/iblock/720/yrtx5i3dlugg2cc65f5z1d63g2h5d53p.png</picture>
+<picture>https://librederm.ru/upload/iblock/68d/kcq9580zrcy65ijgnbdkemodf4t7001f.png</picture>
+<picture>https://librederm.ru/upload/iblock/3a3/75eim9m7zir6geg3s1xn1kew1iabswuw.webp</picture>
+<picture>https://librederm.ru/upload/iblock/ab2/0z49gsb6bfptb0qf1tmnjyynzjrj75ge.webp</picture>
+<picture>https://librederm.ru/upload/iblock/67a/iz62qhut0dkuhlf2euvluihlf308um80.webp</picture>
+<picture>https://librederm.ru/upload/iblock/c6d/falozzoce71dn2zku72a2mxavsa0d8z5.webp</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00000007003</vendorCode>
+<name>Гиалуроновая сыворотка-активатор увлажняющая 30 мл</name>
+<description>Гиалуроновая / Гиалуроновая</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">Гиалуроновая</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00000006377" available="true">
+<url>https://librederm.ru/catalog/collections/laboratories/hyaluronic/00000006377/</url>
+<price>1138</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>9</sort>
+<picture>https://librederm.ru/upload/iblock/6a3/9yb98g5v03b2x3of72suc2oddw52msyk.png</picture>
+<picture>https://librederm.ru/upload/iblock/e6f/n42i2swdn7zxmrj1t3dbliyo8xcsvzos.png</picture>
+<picture>https://librederm.ru/upload/iblock/022/olkj834t14mlfsz11b6t6sdyw86363xp.webp</picture>
+<picture>https://librederm.ru/upload/iblock/6d6/e9mohc2y16njatzrrejd4k6xb6bfv2xp.webp</picture>
+<picture>https://librederm.ru/upload/iblock/efa/531adaig2rxu5ijpdpe4pj34z4is5w3s.webp</picture>
+<picture>https://librederm.ru/upload/iblock/51a/dv8fjwu4l4hv93s64cxffg7nhdgqhd9l.webp</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00000006377</vendorCode>
+<name>Гиалуроновый крем увлажняющий для лица шеи и области декольте 50 мл</name>
+<description>Гиалуроновая / Гиалуроновая</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">Гиалуроновая</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00046194155" available="true">
+<url>https://librederm.ru/catalog/collections/laboratories/hyaluronic/00046194155/</url>
+<price>660</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>10</sort>
+<picture>https://librederm.ru/upload/iblock/527/3et97uz210gic2kfvg3co30m2r4iwxgq.png</picture>
+<picture>https://librederm.ru/upload/iblock/957/dolj31wso4ilg1305r0hi4t5le62b6lj.png</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00046194155</vendorCode>
+<name>Гиалуроновый тоник-софтнер для нормальной и чувствительной кожи 200 мл</name>
+<description>Гиалуроновая / Гиалуроновая</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">Гиалуроновая</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00046204481" available="true">
+<url>https://librederm.ru/catalog/collections/laboratories/hyaluronic/00046204481/</url>
+<price>754</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>11</sort>
+<picture>https://librederm.ru/upload/iblock/260/1yg0r8iwufu3mn4v19d2aehm1es0xhww.png</picture>
+<picture>https://librederm.ru/upload/iblock/972/xsy6at0snazdhe19z5bs5158e4p6h2ez.png</picture>
+<picture>https://librederm.ru/upload/iblock/1f5/ktd1c7w1q4sz8d22z861zvwi1k9iy8ju.webp</picture>
+<picture>https://librederm.ru/upload/iblock/f4c/jomxcw0snqp1kyizkjwpxyi0q6863s05.webp</picture>
+<picture>https://librederm.ru/upload/iblock/b39/xp0par7b1i4j2bxmzl9iodfaosk5kfc4.webp</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00046204481</vendorCode>
+<name>Аквафлюид гиалуроновый увлажняющий дневной 50 мл</name>
+<description>Гиалуроновая / Гиалуроновая</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">Гиалуроновая</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00000185417" available="true">
+<url>https://librederm.ru/catalog/collections/laboratories/hyaluronic/00000185417/</url>
+<price>1148</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>12</sort>
+<picture>https://librederm.ru/upload/iblock/080/7d9eme0is9rexr5dtb7580ljp4hxcbar.png</picture>
+<picture>https://librederm.ru/upload/iblock/40d/gmrkfexe7om4bcrqian1xtmgkrppwupj.png</picture>
+<picture>https://librederm.ru/upload/iblock/e72/adjm2kp24bve2gafww7h1ax3wayfp1l5.webp</picture>
+<picture>https://librederm.ru/upload/iblock/9f3/cgk92tbbk1r8tk1v64dcmbuj5yieg0wc.webp</picture>
+<picture>https://librederm.ru/upload/iblock/bea/l0zf6j9mv2zwy3pkwj8oo071dn6gzsah.webp</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00000185417</vendorCode>
+<name>Гиалуроновый крем Ночной гидробаланс 50 мл</name>
+<description>Гиалуроновая / Гиалуроновая</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">Гиалуроновая</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00046197647" available="true">
+<url>https://librederm.ru/catalog/collections/laboratories/hyaluronic/00046197647/</url>
+<price>660</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>13</sort>
+<picture>https://librederm.ru/upload/iblock/7b5/w318omt5n1lnf0zysu3cxm5nzyitpd5l.png</picture>
+<picture>https://librederm.ru/upload/iblock/f00/q3j9bmvc0l6lp0560f09wl20m0e6yg9z.webp</picture>
+<picture>https://librederm.ru/upload/iblock/33f/tmoyxw7e2h73hqvdv2t9wpx2acwqivk8.webp</picture>
+<picture>https://librederm.ru/upload/iblock/984/837kg1sdwgmeuodnor4dwu8o4zvb8s52.webp</picture>
+<picture>https://librederm.ru/upload/iblock/9eb/7voczt17az25vao9wxdqzdbyj7xtmv3v.webp</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00046197647</vendorCode>
+<name>Гиалуроновый тоник увлажняющий HYDRA для сухой кожи 200 мл</name>
+<description>Гиалуроновая / Гиалуроновая</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">Гиалуроновая</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00046204483" available="true">
+<url>https://librederm.ru/catalog/collections/laboratories/hyaluronic/00046204483/</url>
+<price>754</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>14</sort>
+<picture>https://librederm.ru/upload/iblock/7a0/xy5updkatolryar30wrum4bxabr5e7r2.png</picture>
+<picture>https://librederm.ru/upload/iblock/f98/lioxhn0888o3igvh46e3bxn3qq6pedmw.png</picture>
+<picture>https://librederm.ru/upload/iblock/d8b/jxrcws70v7fq2cmqjej66m2bm26bia3w.webp</picture>
+<picture>https://librederm.ru/upload/iblock/4fb/z1pm1t72ifdzwijyfhqtrqayr26k116b.webp</picture>
+<picture>https://librederm.ru/upload/iblock/b15/gek01a94q2j8ymu95izardnb3c5np0ez.webp</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00046204483</vendorCode>
+<name>Гель-крем гиалуроновый увлажняющий насыщенный дневной 50 мл</name>
+<description>Гиалуроновая / Гиалуроновая</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">Гиалуроновая</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00046204587" available="true">
+<url>https://librederm.ru/catalog/collections/laboratories/hyaluronic/00046204587/</url>
+<price>754</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>15</sort>
+<picture>https://librederm.ru/upload/iblock/abd/lru7emu17cvnr6uly2taip7kz094nbeh.png</picture>
+<picture>https://librederm.ru/upload/iblock/99f/670tr8eudolpzd560el7uzuk2dmm7qac.png</picture>
+<picture>https://librederm.ru/upload/iblock/6df/k628y95kr4uskf5kp0f5zkk79ivuhp2s.webp</picture>
+<picture>https://librederm.ru/upload/iblock/9da/f1w38q13jr8cb66kvd6qn5rpuy08ltjf.webp</picture>
+<picture>https://librederm.ru/upload/iblock/b15/gek01a94q2j8ymu95izardnb3c5np0ez.webp</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00046204587</vendorCode>
+<name>Гель-крем гиалуроновый преображающий ночной 50 мл</name>
+<description>Гиалуроновая / Гиалуроновая</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">Гиалуроновая</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00046194134" available="true">
+<url>https://librederm.ru/catalog/collections/laboratories/hyaluronic/00046194134/</url>
+<price>660</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>16</sort>
+<picture>https://librederm.ru/upload/iblock/81c/unu75smichpoq8a0lhxsoy4wbotd0r2b.png</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00046194134</vendorCode>
+<name>Гиалуроновый тоник матирующий SEBO для жирной кожи 200 мл</name>
+<description>Гиалуроновая / Гиалуроновая</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">Гиалуроновая</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00046204639" available="true">
+<url>https://librederm.ru/catalog/collections/laboratories/hyaluronic/00046204639/</url>
+<price>772</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>17</sort>
+<picture>https://librederm.ru/upload/iblock/246/o0wdw7ff3214g19w74245g9l7ywci33d.png</picture>
+<picture>https://librederm.ru/upload/iblock/b85/nm8avry922ljqt6szpv4k9zt005bsntt.png</picture>
+<picture>https://librederm.ru/upload/iblock/3f9/csjr05k5xbgpjyjpc9usrvs3lmx2m3t6.webp</picture>
+<picture>https://librederm.ru/upload/iblock/96d/ajc8m6bgkibi56a9e0h0ast3j6m1dtah.webp</picture>
+<picture>https://librederm.ru/upload/iblock/c90/s32eim2v7fpg5vibvxa7c0dba59jfkg7.webp</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00046204639</vendorCode>
+<name>Сыворотка матирующая себорегулирующая 40 мл</name>
+<description>Гиалуроновая / Гиалуроновая</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">Гиалуроновая</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00046204586" available="true">
+<url>https://librederm.ru/catalog/collections/laboratories/hyaluronic/00046204586/</url>
+<price>754</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>18</sort>
+<picture>https://librederm.ru/upload/iblock/d86/eplpfes5exn3wei66huzvipae8olj9ns.png</picture>
+<picture>https://librederm.ru/upload/iblock/6ed/6te1lxpwtvo0ana6rz9hc5btxmcehnqy.png</picture>
+<picture>https://librederm.ru/upload/iblock/496/cr2vn9d8cw7a9lvkxrac5kz17p1we12v.webp</picture>
+<picture>https://librederm.ru/upload/iblock/914/ez5y1qczz9qdqf93p2mcxtnfkmdnhvjv.webp</picture>
+<picture>https://librederm.ru/upload/iblock/b8a/1g2c0rs0ohrs3tvdo7xwu0y1s27bl0zh.webp</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00046204586</vendorCode>
+<name>Гель гиалуроновый матирующий дневной 50 мл</name>
+<description>Гиалуроновая / Гиалуроновая</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">Гиалуроновая</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00046204358" available="true">
+<url>https://librederm.ru/catalog/collections/laboratories/collagen/00046204358/</url>
+<price>1194</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<sort>19</sort>
+<picture>https://librederm.ru/upload/iblock/d02/sgu7f01xrxut4bdd836qavx4fi499lbe.png</picture>
+<picture>https://librederm.ru/upload/iblock/3be/okitxurrqatyr0epl0rtkklgher1ogah.png</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00046204358</vendorCode>
+<name>Коллаген PEPTIDE PRO Маска-пилинг энзимная обновляющая 50 мл</name>
+<description>Коллаген Пептид / Коллаген Пептид</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">Коллаген Пептид</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00000118720_pro" available="true">
+<url>https://librederm.ru/catalog/collections/laboratories/collagen/00000118720_pro/</url>
+<price>1180</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<sort>20</sort>
+<picture>https://librederm.ru/upload/iblock/409/11tcizuirjfcf70azcdhnseacix5k3z8.png</picture>
+<picture>https://librederm.ru/upload/iblock/203/2bqbcd4ek7dpvgz2x077zvy5we2vwy0p.jpg</picture>
+<picture>https://librederm.ru/upload/iblock/3ab/6dbkr24mq8pqpywrtahsi0y8w1k8xlae.png</picture>
+<picture>https://librederm.ru/upload/iblock/027/d9lazh7yq0vuvbxc9xjr59hgc11845px.webp</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00000118720_pro</vendorCode>
+<name>PEPTIDE PRO лифтинг-сыворотка Моментальный эффект 40 мл</name>
+<description>Коллаген Пептид / Коллаген Пептид</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">Коллаген Пептид</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00000118730_pro" available="true">
+<url>https://librederm.ru/catalog/collections/laboratories/collagen/00000118730_pro/</url>
+<price>1744</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<sort>21</sort>
+<picture>https://librederm.ru/upload/iblock/1ca/yg0249srads376yh2tou49g41oa4sbi9.png</picture>
+<picture>https://librederm.ru/upload/iblock/49d/tdfs4ko4kxpxlgsmap0m62mvt7cx3bmt.png</picture>
+<picture>https://librederm.ru/upload/iblock/bb7/g33t2ncta2r31okpbc3cirhvvh7d2dua.webp</picture>
+<picture>https://librederm.ru/upload/iblock/f82/01zc80jle5mfyi1z1ch8pxo9vgcv69j0.jpg</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00000118730_pro</vendorCode>
+<name>PEPTIDE PRO дневной крем для восстановления сияния и ровного цвета кожи SPF-15 50 мл</name>
+<description>Коллаген Пептид / Коллаген Пептид</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">Коллаген Пептид</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00000117210_pro" available="true">
+<url>https://librederm.ru/catalog/collections/laboratories/collagen/00000117210_pro/</url>
+<price>1744</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<sort>22</sort>
+<picture>https://librederm.ru/upload/iblock/748/70oeklnu0p7d10e4zh6lysjv4usd8wmg.png</picture>
+<picture>https://librederm.ru/upload/iblock/7a7/fg3o1611aaeuh5r9kge550q1ejvihq4n.png</picture>
+<picture>https://librederm.ru/upload/iblock/a28/vbneri8e68n9r7h2l382c1qkrrijxmh6.webp</picture>
+<picture>https://librederm.ru/upload/iblock/b16/f7919nfb3trr9r1ml1leswoxsduqgzv3.jpg</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00000117210_pro</vendorCode>
+<name>PEPTIDE PRO ночной крем для уменьшения морщин и восстановления упругости 50 мл</name>
+<description>Коллаген Пептид / Коллаген Пептид</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">Коллаген Пептид</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00000008590_pro" available="true">
+<url>https://librederm.ru/catalog/collections/laboratories/collagen/00000008590_pro/</url>
+<price>918</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<sort>23</sort>
+<picture>https://librederm.ru/upload/iblock/c60/l00fvwkg6yvyukdg9bdxet997fyom2ti.png</picture>
+<picture>https://librederm.ru/upload/iblock/03b/v2hgd8tjopiu7qwzzggx57cmn1n7rmwj.jpg</picture>
+<picture>https://librederm.ru/upload/iblock/b99/s5kgx9ibxafm9c3upkrvnws1i98iyrn4.png</picture>
+<picture>https://librederm.ru/upload/iblock/b52/q0pixfg762dcmpayxy9xscxnrtqp8ing.png</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00000008590_pro</vendorCode>
+<name>PEPTIDE PRO крем омолаживающий для лица, шеи и области декольте 50 мл</name>
+<description>Коллаген Пептид / Коллаген Пептид</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">Коллаген Пептид</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00000008589_pro" available="true">
+<url>https://librederm.ru/catalog/collections/laboratories/collagen/00000008589_pro/</url>
+<price>1035</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<sort>24</sort>
+<picture>https://librederm.ru/upload/iblock/3bf/fdw4z7snghioaqp0ad9ybteuskp3bvx7.png</picture>
+<picture>https://librederm.ru/upload/iblock/b66/2s5pstr8fyks5s61f8wbt6jto9uyl4li.jpg</picture>
+<picture>https://librederm.ru/upload/iblock/5b8/bjy8vuyob63hv1n8mb4kgjly7ohnofms.png</picture>
+<picture>https://librederm.ru/upload/iblock/0fb/nhlrtaacemj23aym6bra7x3qa7iz48t9.png</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00000008589_pro</vendorCode>
+<name>PEPTIDE PRO крем омолаживающий для кожи контура глаз 20 мл</name>
+<description>Коллаген Пептид / Коллаген Пептид</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">Коллаген Пептид</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00046202147" available="true">
+<url>https://librederm.ru/catalog/collections/dermatology/serum_pro/00046202147/</url>
+<price>1768</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<sort>25</sort>
+<picture>https://librederm.ru/upload/iblock/594/48rt8ngfipcuzr06ada8b6wwvx7fp75l.png</picture>
+<picture>https://librederm.ru/upload/iblock/49f/odiiqsd8wbt1xqat4hthp9sdaw7nh0k2.png</picture>
+<picture>https://librederm.ru/upload/iblock/9d6/9519piv1yglhioh92pwqm0f1jabn2guy.webp</picture>
+<picture>https://librederm.ru/upload/iblock/5c6/j3k3k8en9f2477287y954ghl3a5s1j3k.webp</picture>
+<picture>https://librederm.ru/upload/iblock/305/jpak7go3zffqers5wasxjvbl6w90dk94.webp</picture>
+<picture>https://librederm.ru/upload/iblock/a84/sl24ou9a4vlvn0gd1rid4dezdt4udof6.webp</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00046202147</vendorCode>
+<name>Сыворотка интенсивная против морщин Retinol B3 40 мл</name>
+<description>Ретинол / Ретинол | Сыворотки</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">Ретинол | Сыворотки</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00046203411" available="true">
+<url>https://librederm.ru/catalog/collections/dermatology/retinol/00046203411/</url>
+<price>1564</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<sort>26</sort>
+<picture>https://librederm.ru/upload/iblock/460/rg3554ampha9vh4ey0d886b008aff2a1.png</picture>
+<picture>https://librederm.ru/upload/iblock/798/2qbx2g0ghgz4bgg3n2rcrdah7lpcb9fs.png</picture>
+<picture>https://librederm.ru/upload/iblock/a9c/563zlj4zr4escyiplltycq1gfpp79en0.png</picture>
+<picture>https://librederm.ru/upload/iblock/468/09zgusje1vnpz7lx66zbfb037nhtdalp.png</picture>
+<picture>https://librederm.ru/upload/iblock/bb1/9h5ols20rim277afgxs24ud0djc0tqah.png</picture>
+<picture>https://librederm.ru/upload/iblock/45e/r9kt41iagaz6x91g9hatnb2hecmb8xe0.png</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00046203411</vendorCode>
+<name>Крем для коррекции морщин и рельефа кожи интенсивный ночной 30 мл</name>
+<description>Ретинол / Ретинол</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">Ретинол</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00046203412" available="true">
+<url>https://librederm.ru/catalog/collections/dermatology/retinol/00046203412/</url>
+<price>1234</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<sort>27</sort>
+<picture>https://librederm.ru/upload/iblock/200/o4wyxlqrk7uawdcrc75lv65ny0kwe0mp.png</picture>
+<picture>https://librederm.ru/upload/iblock/a32/po602j7enlvnh82c66m55udntc3qdo97.png</picture>
+<picture>https://librederm.ru/upload/iblock/155/bedrmymj2m3iko7hn7vbaabsxbl2shm2.png</picture>
+<picture>https://librederm.ru/upload/iblock/468/09zgusje1vnpz7lx66zbfb037nhtdalp.png</picture>
+<picture>https://librederm.ru/upload/iblock/bb1/9h5ols20rim277afgxs24ud0djc0tqah.png</picture>
+<picture>https://librederm.ru/upload/iblock/45e/r9kt41iagaz6x91g9hatnb2hecmb8xe0.png</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00046203412</vendorCode>
+<name>Гель-крем для коррекции морщин вокруг глаз концентрированный 15 мл</name>
+<description>Ретинол / Ретинол</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">Ретинол</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00046202613" available="true">
+<url>https://librederm.ru/catalog/collections/dermatology/uramax/00046202613/</url>
+<price>528</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<sort>28</sort>
+<picture>https://librederm.ru/upload/iblock/beb/seclkbt2mxmmgeq7vuejwmv4rqabi2xz.png</picture>
+<picture>https://librederm.ru/upload/iblock/8a4/dj74b99so0nl3ilv5puhmqi3zy1mvi6j.png</picture>
+<picture>https://librederm.ru/upload/iblock/9eb/5sxxk1p1hpc8imc9l66qeiy9f0vdyaqa.png</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00046202613</vendorCode>
+<name>Увлажняющий крем для лица с церамидами и мочевиной 5% дневной 50 мл</name>
+<description>UraMax / UraМax</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">UraМax</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00046202614" available="true">
+<url>https://librederm.ru/catalog/collections/dermatology/uramax/00046202614/</url>
+<price>565</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<sort>29</sort>
+<picture>https://librederm.ru/upload/iblock/961/1znn25vkpuuxa04mhnx61za7wf0vzdx5.png</picture>
+<picture>https://librederm.ru/upload/iblock/de7/6omi9za7sksz3zlr76um1yot9cpe2o23.png</picture>
+<picture>https://librederm.ru/upload/iblock/3a7/j31ahynrf88oa2r18wwgvf0s79gl4p1c.png</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00046202614</vendorCode>
+<name>Увлажняющий крем для лица с церамидами и мочевиной 5% ночной 50 мл</name>
+<description>UraMax / UraМax</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">UraМax</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00046202474" available="true">
+<url>https://librederm.ru/catalog/collections/dermatology/uramax/00046202474/</url>
+<price>494</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<sort>30</sort>
+<picture>https://librederm.ru/upload/iblock/9b2/4nvktv3lint16b9w71r0cl510xd2n7o7.png</picture>
+<picture>https://librederm.ru/upload/iblock/7cb/z8l2x32puuof08sd35leob3c89a2db6r.png</picture>
+<picture>https://librederm.ru/upload/iblock/d3d/yync1c3u4x1fw54vtr90rdaprzrri8dm.png</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00046202474</vendorCode>
+<name>Смягчающий крем для рук с церамидами и мочевиной 10% 75 мл</name>
+<description>UraMax / UraМax</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">UraМax</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00046202473" available="true">
+<url>https://librederm.ru/catalog/collections/dermatology/uramax/00046202473/</url>
+<price>523</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<sort>31</sort>
+<picture>https://librederm.ru/upload/iblock/87e/ppzt2cvyesyt071mwxv5a938da80oa2s.png</picture>
+<picture>https://librederm.ru/upload/iblock/e6a/b60ndjheitpyecuq3gbegr4tn1tlfvtj.png</picture>
+<picture>https://librederm.ru/upload/iblock/b62/m2szg61c08o17frnwi2gjj692delstft.png</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00046202473</vendorCode>
+<name>Cмягчающий крем для ног с церамидами и мочевиной 25% 75 мл</name>
+<description>UraMax / UraМax</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">UraМax</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00046203143" available="true">
+<url>https://librederm.ru/catalog/collections/dermatology/uramax/00046203143/</url>
+<price>918</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<sort>32</sort>
+<picture>https://librederm.ru/upload/iblock/36e/3de4ji9t00266rqu33jf1natdteg4txz.png</picture>
+<picture>https://librederm.ru/upload/iblock/859/ruq35rc5qo2po7a2zfrcsr0ddk9wdrsw.png</picture>
+<picture>https://librederm.ru/upload/iblock/e59/09fkbvo4jlxl3trbhi4whs04rmqm360s.png</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00046203143</vendorCode>
+<name>Крем cмягчающий для тела с церамидами и мочевиной 10% 300 мл</name>
+<description>UraMax / UraМax</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">UraМax</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00046204364" available="true">
+<url>https://librederm.ru/catalog/collections/dermatology/uramax/00046204364/</url>
+<price>986</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<sort>33</sort>
+<picture>https://librederm.ru/upload/iblock/ab6/8skbirw6281t54htqt3gqxh7wv4rj2c2.png</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00046204364</vendorCode>
+<name>Молочко для тела увлажняющее тройного действия с мочевиной 10% 200 мл</name>
+<description>UraMax / UraМax</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">UraМax</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00046204984" available="true">
+<url>https://librederm.ru/catalog/nabory/00046204984/</url>
+<price>1756</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<sort>34</sort>
+<picture>https://librederm.ru/upload/iblock/96a/bl3r0oe6a4iaatbonp27u7yh21j9hst8.png</picture>
+<picture>https://librederm.ru/upload/iblock/26f/07m6811yz5fpmlgwlm9ce3udmp89qcyk.png</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00046204984</vendorCode>
+<name>Набор SERACIN Экспресс-уход для проблемной кожи: 2 шага в борьбе с акне и жирным блеском</name>
+<description>Наборы / Seracin | Наборы</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">Seracin | Наборы</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00046204983" available="true">
+<url>https://librederm.ru/catalog/nabory/00046204983/</url>
+<price>1855</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<sort>35</sort>
+<picture>https://librederm.ru/upload/iblock/36f/cr7pbf5oti7lkswk2tha05eyrmbih537.png</picture>
+<picture>https://librederm.ru/upload/iblock/5b6/wp4q31k7wvfy7mr2r86e5ng11i800b13.png</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00046204983</vendorCode>
+<name>Набор SERACIN корректирующий уход для кожи склонной к акне</name>
+<description>Наборы / Seracin | Наборы</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">Seracin | Наборы</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00046204810" available="true">
+<url>https://librederm.ru/catalog/nabory/00046204810/</url>
+<price>3071</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<sort>36</sort>
+<picture>https://librederm.ru/upload/iblock/ff9/x1l39a9dnp05c0o76an795ygy710rm75.png</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00046204810</vendorCode>
+<name>Набор Seracin «Акне контроль»</name>
+<description>Наборы / Seracin | Наборы</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">Seracin | Наборы</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00046204796" available="true">
+<url>https://librederm.ru/catalog/nabory/00046204796/</url>
+<price>3629</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<sort>37</sort>
+<picture>https://librederm.ru/upload/iblock/633/z89j6mnhcjx93v9515bg0vzg330xlamd.png</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00046204796</vendorCode>
+<name>Набор Seracin «Протокол для жирной кожи»</name>
+<description>Наборы / Seracin | Наборы</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">Seracin | Наборы</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00046204797" available="true">
+<url>https://librederm.ru/catalog/nabory/00046204797/</url>
+<price>3678</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<sort>38</sort>
+<picture>https://librederm.ru/upload/iblock/913/40lwg0sbv8g22678o7b3w7juqjgyrzpe.png</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00046204797</vendorCode>
+<name>Набор Seracin «Протокол анти-акне»</name>
+<description>Наборы / Seracin | Наборы</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">Seracin | Наборы</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00046204798" available="true">
+<url>https://librederm.ru/catalog/nabory/00046204798/</url>
+<price>2963</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<sort>39</sort>
+<picture>https://librederm.ru/upload/iblock/a91/n9q4lr14tyy8b4dr8jt10c1fn6x1587t.png</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00046204798</vendorCode>
+<name>Набор Seracin «Детокс для пор»</name>
+<description>Наборы / Seracin | Наборы</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">Seracin | Наборы</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00046200881" available="true">
+<url>https://librederm.ru/catalog/collections/dermatology/hyalumax/00046200881/</url>
+<price>631</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<sort>40</sort>
+<picture>https://librederm.ru/upload/iblock/93a/d675t1pv2favmmel5puiugrzomq7eid5.png</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00046200881</vendorCode>
+<name>Пилинг гиалуроновый для глубокого очищения кожи головы 125 мл</name>
+<description>HyaluMax / HyaluMax</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">HyaluMax</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00046200880" available="true">
+<url>https://librederm.ru/catalog/collections/dermatology/hyalumax/00046200880/</url>
+<price>663</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<sort>41</sort>
+<picture>https://librederm.ru/upload/iblock/963/cmg0f1o31332l6je0m4k74f8jb39a8ut.png</picture>
+<picture>https://librederm.ru/upload/iblock/50b/bw1t7pypwd6u2gbci95yxhsm03pscnni.webp</picture>
+<picture>https://librederm.ru/upload/iblock/123/5ofztdklz96kx6oi3fvhvsp8rgobx7l2.webp</picture>
+<picture>https://librederm.ru/upload/iblock/7c5/6mq4rpvbbxukje0q13tfrjlp1pmu2wo1.webp</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00046200880</vendorCode>
+<name>Шампунь гиалуроновый против выпадения волос 225 мл</name>
+<description>HyaluMax / HyaluMax</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">HyaluMax</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00046200879" available="true">
+<url>https://librederm.ru/catalog/collections/dermatology/hyalumax/00046200879/</url>
+<price>945</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<sort>42</sort>
+<picture>https://librederm.ru/upload/iblock/a0f/08e7xqxu4z3u4xrmkwaynvo1z6xha8fg.png</picture>
+<picture>https://librederm.ru/upload/iblock/a07/w814g6xgzzveifnnr3rt7whfkhtjcw13.webp</picture>
+<picture>https://librederm.ru/upload/iblock/123/5ofztdklz96kx6oi3fvhvsp8rgobx7l2.webp</picture>
+<picture>https://librederm.ru/upload/iblock/7c5/6mq4rpvbbxukje0q13tfrjlp1pmu2wo1.webp</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00046200879</vendorCode>
+<name>Шампунь гиалуроновый против выпадения волос 400 мл</name>
+<description>HyaluMax / HyaluMax</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">HyaluMax</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00046202275" available="true">
+<url>https://librederm.ru/catalog/collections/dermatology/hyalumax/00046202275/</url>
+<price>671</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<sort>43</sort>
+<picture>https://librederm.ru/upload/iblock/c95/su0mj9pl0cwu2jsmgikai8ky1dtfg54o.png</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00046202275</vendorCode>
+<name>Бальзам гиалуроновый против выпадения волос 225 мл</name>
+<description>HyaluMax / HyaluMax</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">HyaluMax</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00046202276" available="true">
+<url>https://librederm.ru/catalog/collections/dermatology/hyalumax/00046202276/</url>
+<price>950</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<sort>44</sort>
+<picture>https://librederm.ru/upload/iblock/d32/o9urrdeyd90v7zd1ggkb8a1yv2cyuzu7.png</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00046202276</vendorCode>
+<name>Бальзам гиалуроновый против выпадения волос 400 мл</name>
+<description>HyaluMax / HyaluMax</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">HyaluMax</param>
+<param name="Бренд">Librederm</param>
+</offer>
+<offer id="00046200882" available="true">
+<url>https://librederm.ru/catalog/collections/dermatology/hyalumax/00046200882/</url>
+<price>703</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<sort>45</sort>
+<picture>https://librederm.ru/upload/iblock/90f/q1703ut1e6sdtxdjxvm790o7s2l4xx5q.png</picture>
+<vendor>Librederm</vendor>
+<vendorCode>00046200882</vendorCode>
+<name>Лосьон-спрей гиалуроновый для восстановления волос по всей длине 150 мл</name>
+<description>HyaluMax / HyaluMax</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Коллекция">HyaluMax</param>
+<param name="Бренд">Librederm</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
