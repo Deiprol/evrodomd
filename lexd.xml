@@ -1,0 +1,1100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2026-07-13 13:35">
+<shop>
+<name>LEX Group prototype</name>
+<company>LEX Group</company>
+<url>https://www.lex-s.ru</url>
+<currencies>
+<currency id="RUB" rate="1"></currency>
+</currencies>
+<categories>
+<category id="1">Биотуалеты Lupmex</category>
+<category id="2">Сараи пластиковые</category>
+<category id="3">Палатки и спальные мешки</category>
+<category id="4">Обустройство сада</category>
+<category id="5">Ящики для инструмента</category>
+<category id="6">Грили</category>
+</categories>
+<offers>
+<offer id="biotualet-lupmex-79001-24l-bez-indikatora" available="true">
+<url>https://www.lex-s.ru/catalog/biotualety/biotualety-lupmex/biotualet-lupmex-79001-24l-bez-indikatora/</url>
+<price>8830</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>1</sort>
+<picture>https://www.lex-s.ru/upload/iblock/937/hduqrzyoe1um5r8ioh2b76epi21fqjp8/752345ac_0c1f_11ed_8e44_b42e991029f7_c54bdbc7_ca35_11ed_8e52_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>biotualet-lupmex-79001-24l-bez-indikatora</vendorCode>
+<name>Биотуалет Lupmex 79001 24л без индикатора</name>
+<description>Портативный биотуалет для дачи, кемпинга и автономного использования. Модель с объемом 24л подходит для выездов, загородного отдыха и мест без стационарной канализации. Конструкция рассчитана на практичное использование и простой уход.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Биотуалеты Lupmex</param>
+</offer>
+<offer id="biotualet-lupmex-79002-24l-s-indikatorom" available="true">
+<url>https://www.lex-s.ru/catalog/biotualety/biotualety-lupmex/biotualet-lupmex-79002-24l-s-indikatorom/</url>
+<price>9950</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>2</sort>
+<picture>https://www.lex-s.ru/upload/iblock/db6/2i19bcb1nl76i951avar8osnxjxgifes/e324b3d0_0c1f_11ed_8e44_b42e991029f7_f5c7c03e_ca35_11ed_8e52_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>biotualet-lupmex-79002-24l-s-indikatorom</vendorCode>
+<name>Биотуалет Lupmex 79002 24л с индикатором</name>
+<description>Портативный биотуалет для дачи, кемпинга и автономного использования. Модель с объемом 24л подходит для выездов, загородного отдыха и мест без стационарной канализации. Конструкция рассчитана на практичное использование и простой уход.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Биотуалеты Lupmex</param>
+</offer>
+<offer id="biotualet-lupmex-79112-12l-s-indikatorom" available="true">
+<url>https://www.lex-s.ru/catalog/biotualety/biotualety-lupmex/biotualet-lupmex-79112-12l-s-indikatorom/</url>
+<price>8430</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>3</sort>
+<picture>https://www.lex-s.ru/upload/iblock/7b3/l6ebek3d48z28nyom81hfwhk21f7u291/453d44bf_bc20_11ed_8e50_b42e991029f7_d55a4e06_2628_11ee_92a9_74563c64e582.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>biotualet-lupmex-79112-12l-s-indikatorom</vendorCode>
+<name>Биотуалет Lupmex 79112 12л с индикатором</name>
+<description>Портативный биотуалет для дачи, кемпинга и автономного использования. Модель с объемом 12л подходит для выездов, загородного отдыха и мест без стационарной канализации. Конструкция рассчитана на практичное использование и простой уход.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Биотуалеты Lupmex</param>
+</offer>
+<offer id="biotualet-lupmex-79112p-12l-s-indikatorom-s-probnikami-granul" available="true">
+<url>https://www.lex-s.ru/catalog/biotualety/biotualety-lupmex/biotualet-lupmex-79112p-12l-s-indikatorom-s-probnikami-granul/</url>
+<price>8050</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>4</sort>
+<picture>https://www.lex-s.ru/upload/iblock/bff/9l9x0vqq46pagfzl7horqpgf36ojbbyq/a274feb7_10cf_11ee_8e56_b42e991029f7_ad128c05_2629_11ee_92a9_74563c64e582.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>biotualet-lupmex-79112p-12l-s-indikatorom-s-probnikami-granul</vendorCode>
+<name>Биотуалет Lupmex 79112P 12л с индикатором с пробниками гранул</name>
+<description>Портативный биотуалет для дачи, кемпинга и автономного использования. Модель с объемом 12л подходит для выездов, загородного отдыха и мест без стационарной канализации. Конструкция рассчитана на практичное использование и простой уход.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Биотуалеты Lupmex</param>
+</offer>
+<offer id="biotualet-lupmex-79122-18l-s-indikatorom" available="true">
+<url>https://www.lex-s.ru/catalog/biotualety/biotualety-lupmex/biotualet-lupmex-79122-18l-s-indikatorom/</url>
+<price>9550</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>5</sort>
+<picture>https://www.lex-s.ru/upload/iblock/544/6s4wexk2dgnmdkce5xqnffth8eo85zya/805c44ee_bc20_11ed_8e50_b42e991029f7_bff626c3_2629_11ee_92a9_74563c64e582.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>biotualet-lupmex-79122-18l-s-indikatorom</vendorCode>
+<name>Биотуалет Lupmex 79122 18л с индикатором</name>
+<description>Портативный биотуалет для дачи, кемпинга и автономного использования. Модель с объемом 18л подходит для выездов, загородного отдыха и мест без стационарной канализации. Конструкция рассчитана на практичное использование и простой уход.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Биотуалеты Lupmex</param>
+</offer>
+<offer id="biotualet-lupmex-79122p-18l-s-indikatorom-s-probnikami-granul" available="true">
+<url>https://www.lex-s.ru/catalog/biotualety/biotualety-lupmex/biotualet-lupmex-79122p-18l-s-indikatorom-s-probnikami-granul/</url>
+<price>8730</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>6</sort>
+<picture>https://www.lex-s.ru/upload/iblock/a15/jvow2xh0i3cu63n0h7wvunkybv6ciofk/5c538812_10d0_11ee_8e56_b42e991029f7_cc2f8231_2629_11ee_92a9_74563c64e582.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>biotualet-lupmex-79122p-18l-s-indikatorom-s-probnikami-granul</vendorCode>
+<name>Биотуалет Lupmex 79122P 18л с индикатором с пробниками гранул</name>
+<description>Портативный биотуалет для дачи, кемпинга и автономного использования. Модель с объемом 18л подходит для выездов, загородного отдыха и мест без стационарной канализации. Конструкция рассчитана на практичное использование и простой уход.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Биотуалеты Lupmex</param>
+</offer>
+<offer id="biotualet-lupmex-79123-22-l-bez-indikatora" available="true">
+<url>https://www.lex-s.ru/catalog/biotualety/biotualety-lupmex/biotualet-lupmex-79123-22-l-bez-indikatora/</url>
+<price>9430</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>7</sort>
+<picture>https://www.lex-s.ru/upload/iblock/1fe/gti7163iag4rzj6w8d4oksd8sklmg3r1/3d4d72cc_942f_11ee_92ae_74563c64e582_77c42b7b_dfb1_11ee_92b3_74563c64e582.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>biotualet-lupmex-79123-22-l-bez-indikatora</vendorCode>
+<name>Биотуалет Lupmex 79123 22 л без индикатора</name>
+<description>Портативный биотуалет для дачи, кемпинга и автономного использования. Модель с объемом 22 л подходит для выездов, загородного отдыха и мест без стационарной канализации. Конструкция рассчитана на практичное использование и простой уход.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Биотуалеты Lupmex</param>
+</offer>
+<offer id="vyduvnoy-tualet-20-litrov-green-glade-gg2002" available="true">
+<url>https://www.lex-s.ru/catalog/biotualety/biotualety-lupmex/vyduvnoy-tualet-20-litrov-green-glade-gg2002/</url>
+<price>7610</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>8</sort>
+<picture>https://www.lex-s.ru/upload/iblock/6fa/vx334qu0lmea887helz0yb1678j5oscw/146898b3_b129_11ee_92ae_74563c64e582_9290d52f_6b91_11ef_92b4_74563c64e582.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>vyduvnoy-tualet-20-litrov-green-glade-gg2002</vendorCode>
+<name>Выдувной туалет 20 литров Green Glade GG2002</name>
+<description>Портативный биотуалет для дачи, кемпинга и автономного использования. Модель с объемом 20 л подходит для выездов, загородного отдыха и мест без стационарной канализации. Конструкция рассчитана на практичное использование и простой уход.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Биотуалеты Lupmex</param>
+</offer>
+<offer id="komplekt-tualet-rv-seaflo-sfrtph-01-01-s-flantsem" available="true">
+<url>https://www.lex-s.ru/catalog/biotualety/biotualety-lupmex/komplekt-tualet-rv-seaflo-sfrtph-01-01-s-flantsem/</url>
+<price>17540</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>9</sort>
+<picture>https://www.lex-s.ru/upload/iblock/27c/zz0axr2lom38m77ftyixgjqmtq1bdy6i/e175a23d_298c_11f0_92b7_74563c64e582_90fbebab_3094_11f0_92b7_74563c64e582.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>komplekt-tualet-rv-seaflo-sfrtph-01-01-s-flantsem</vendorCode>
+<name>Комплект туалет RV Seaflo SFRTPH-01-01 с фланцем</name>
+<description>Портативный биотуалет для дачи, кемпинга и автономного использования. Компактный формат удобен для перевозки и сезонного хранения. Конструкция рассчитана на практичное использование и простой уход.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Биотуалеты Lupmex</param>
+</offer>
+<offer id="saray-wotex-storage-01-1-bezhevyy-s-korichnevym-134-104-204-sm" available="true">
+<url>https://www.lex-s.ru/catalog/sarai-plastikovye/sarai-i-khozbloki/saray-wotex-storage-01-1-bezhevyy-s-korichnevym-134-104-204-sm/</url>
+<price>37260</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<sort>10</sort>
+<picture>https://www.lex-s.ru/upload/iblock/fa4/adl206lj5vu4my4xu005z343fvbl7ves/0fc72f8d_7cf7_11ec_8e2b_b42e991029f7_f05fedb7_7cfb_11ec_8e2b_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>saray-wotex-storage-01-1-bezhevyy-s-korichnevym-134-104-204-sm</vendorCode>
+<name>Сарай WOTEX Storage-01-1, бежевый с коричневым, 134*104*204 см</name>
+<description>Пластиковый сарай или хозблок для хранения садового инвентаря, инструментов, сезонных вещей и оборудования на участке. Материал не требует сложного ухода, а формат подходит для дачи, сада и придомовой территории.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Сараи пластиковые</param>
+</offer>
+<offer id="saray-wotex-storage-01-2-seryy-134-104-204-sm" available="true">
+<url>https://www.lex-s.ru/catalog/sarai-plastikovye/sarai-i-khozbloki/saray-wotex-storage-01-2-seryy-134-104-204-sm/</url>
+<price>37260</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<sort>11</sort>
+<picture>https://www.lex-s.ru/upload/iblock/dc8/e8j3tqdapeh83x7juqcie7ia2vs2wqfc/138e61cd_7cfa_11ec_8e2b_b42e991029f7_ea628617_7cfb_11ec_8e2b_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>saray-wotex-storage-01-2-seryy-134-104-204-sm</vendorCode>
+<name>Сарай WOTEX Storage-01-2, серый, 134*104*204 см</name>
+<description>Пластиковый сарай или хозблок для хранения садового инвентаря, инструментов, сезонных вещей и оборудования на участке. Материал не требует сложного ухода, а формат подходит для дачи, сада и придомовой территории.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Сараи пластиковые</param>
+</offer>
+<offer id="saray-wotex-storage-02-3-seryy-s-belym-204-192-204-sm" available="true">
+<url>https://www.lex-s.ru/catalog/sarai-plastikovye/sarai-i-khozbloki/saray-wotex-storage-02-3-seryy-s-belym-204-192-204-sm/</url>
+<price>65130</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<sort>12</sort>
+<picture>https://www.lex-s.ru/upload/iblock/d24/azq88a51ylhc8dl23okh5y3kp28wy49f/aaa96ce5_7cfa_11ec_8e2b_b42e991029f7_de4ef7b8_7cfb_11ec_8e2b_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>saray-wotex-storage-02-3-seryy-s-belym-204-192-204-sm</vendorCode>
+<name>Сарай WOTEX Storage-02-3, серый с белым, 204*192*204 см</name>
+<description>Пластиковый сарай или хозблок для хранения садового инвентаря, инструментов, сезонных вещей и оборудования на участке. Материал не требует сложного ухода, а формат подходит для дачи, сада и придомовой территории.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Сараи пластиковые</param>
+</offer>
+<offer id="saray-wotex-storage-03-3-tyemno-seryy-s-belym-213kh195kh195-sm" available="true">
+<url>https://www.lex-s.ru/catalog/sarai-plastikovye/sarai-i-khozbloki/saray-wotex-storage-03-3-tyemno-seryy-s-belym-213kh195kh195-sm/</url>
+<price>33310</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<sort>13</sort>
+<picture>https://www.lex-s.ru/upload/iblock/6cf/q2as4hplfqxrg9y9k1ocwmn6ap6jhbta/620e9381_8cd2_11f0_92b9_74563c64e582_9c051cd5_f799_11f0_92bd_74563c64e582.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>saray-wotex-storage-03-3-tyemno-seryy-s-belym-213kh195kh195-sm</vendorCode>
+<name>Сарай WOTEX Storage-03-3, тёмно-серый с белым, 213х195х195 см</name>
+<description>Пластиковый сарай или хозблок для хранения садового инвентаря, инструментов, сезонных вещей и оборудования на участке. Материал не требует сложного ухода, а формат подходит для дачи, сада и придомовой территории.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Сараи пластиковые</param>
+</offer>
+<offer id="saray-wotex-storage-04-3-tyemno-seryy-s-belym-277kh195kh203-sm" available="true">
+<url>https://www.lex-s.ru/catalog/sarai-plastikovye/sarai-i-khozbloki/saray-wotex-storage-04-3-tyemno-seryy-s-belym-277kh195kh203-sm/</url>
+<price>38400</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<sort>14</sort>
+<picture>https://www.lex-s.ru/upload/iblock/07a/ajbwkh961r9g2glazj3l2ba6rh9zbbtz/c67ad9ab_8cd2_11f0_92b9_74563c64e582_a37c2631_f799_11f0_92bd_74563c64e582.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>saray-wotex-storage-04-3-tyemno-seryy-s-belym-277kh195kh203-sm</vendorCode>
+<name>Сарай WOTEX Storage-04-3, тёмно-серый с белым, 277х195х203 см</name>
+<description>Пластиковый сарай или хозблок для хранения садового инвентаря, инструментов, сезонных вещей и оборудования на участке. Материал не требует сложного ухода, а формат подходит для дачи, сада и придомовой территории.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Сараи пластиковые</param>
+</offer>
+<offer id="saray-wotex-storage-05-3-tyemno-seryy-s-belym-277kh259kh203-sm" available="true">
+<url>https://www.lex-s.ru/catalog/sarai-plastikovye/sarai-i-khozbloki/saray-wotex-storage-05-3-tyemno-seryy-s-belym-277kh259kh203-sm/</url>
+<price>45790</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<sort>15</sort>
+<picture>https://www.lex-s.ru/upload/iblock/f7e/xfz3jzuql8uo0mxt4a48hy0383uz368s/e67c7cc5_8cd2_11f0_92b9_74563c64e582_c0a6980d_f799_11f0_92bd_74563c64e582.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>saray-wotex-storage-05-3-tyemno-seryy-s-belym-277kh259kh203-sm</vendorCode>
+<name>Сарай WOTEX Storage-05-3, тёмно-серый с белым, 277х259х203 см</name>
+<description>Пластиковый сарай или хозблок для хранения садового инвентаря, инструментов, сезонных вещей и оборудования на участке. Материал не требует сложного ухода, а формат подходит для дачи, сада и придомовой территории.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Сараи пластиковые</param>
+</offer>
+<offer id="saray-wotex-storage-06-2-svetlo-seryy-s-chernym-277kh195kh213-sm" available="true">
+<url>https://www.lex-s.ru/catalog/sarai-plastikovye/sarai-i-khozbloki/saray-wotex-storage-06-2-svetlo-seryy-s-chernym-277kh195kh213-sm/</url>
+<price>43880</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<sort>16</sort>
+<picture>https://www.lex-s.ru/upload/iblock/665/ygii1gcwkbh3qhvka9jrg0u13nwlmqca/0d03ddd0_8cd3_11f0_92b9_74563c64e582_b1bcfe14_f799_11f0_92bd_74563c64e582.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>saray-wotex-storage-06-2-svetlo-seryy-s-chernym-277kh195kh213-sm</vendorCode>
+<name>Сарай WOTEX Storage-06-2, светло-серый с черным, 277х195х213 см</name>
+<description>Пластиковый сарай или хозблок для хранения садового инвентаря, инструментов, сезонных вещей и оборудования на участке. Материал не требует сложного ухода, а формат подходит для дачи, сада и придомовой территории.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Сараи пластиковые</param>
+</offer>
+<offer id="saray-wotex-storage-07-1-bezhevyy-s-belym-213kh131kh192-sm" available="true">
+<url>https://www.lex-s.ru/catalog/sarai-plastikovye/sarai-i-khozbloki/saray-wotex-storage-07-1-bezhevyy-s-belym-213kh131kh192-sm/</url>
+<price>29430</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<sort>17</sort>
+<picture>https://www.lex-s.ru/upload/iblock/e81/ui37kxk7umut0zr3ou891eqpo2xmvvnw/2c32b63f_8cd3_11f0_92b9_74563c64e582_8d53d1af_f799_11f0_92bd_74563c64e582.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>saray-wotex-storage-07-1-bezhevyy-s-belym-213kh131kh192-sm</vendorCode>
+<name>Сарай WOTEX Storage-07-1, бежевый с белым, 213х131х192 см</name>
+<description>Пластиковый сарай или хозблок для хранения садового инвентаря, инструментов, сезонных вещей и оборудования на участке. Материал не требует сложного ухода, а формат подходит для дачи, сада и придомовой территории.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Сараи пластиковые</param>
+</offer>
+<offer id="saray-wotex-storage-08-3-temno-seryy-s-belym-342kh195kh203-sm" available="true">
+<url>https://www.lex-s.ru/catalog/sarai-plastikovye/sarai-i-khozbloki/saray-wotex-storage-08-3-temno-seryy-s-belym-342kh195kh203-sm/</url>
+<price>49350</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<sort>18</sort>
+<picture>https://www.lex-s.ru/upload/iblock/8e5/1sj2vcfzpv5gpmukfpd1qsivhpjtrky9/4a71ba24_8cd3_11f0_92b9_74563c64e582_dd14f2f1_f799_11f0_92bd_74563c64e582.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>saray-wotex-storage-08-3-temno-seryy-s-belym-342kh195kh203-sm</vendorCode>
+<name>Сарай WOTEX Storage-08-3, темно-серый с белым, 342х195х203 см</name>
+<description>Пластиковый сарай или хозблок для хранения садового инвентаря, инструментов, сезонных вещей и оборудования на участке. Материал не требует сложного ухода, а формат подходит для дачи, сада и придомовой территории.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Сараи пластиковые</param>
+</offer>
+<offer id="kovrik-samonaduvayushchiysya-green-glade-m1864" available="true">
+<url>https://www.lex-s.ru/catalog/palatki-i-spalnye-meshki/kovriki-samonaduvayushchiesya/kovrik-samonaduvayushchiysya-green-glade-m1864/</url>
+<price>2390</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<sort>19</sort>
+<picture>https://www.lex-s.ru/upload/iblock/787/tx3g0pjvcyqf2f2rmjzixengvvo8a1wd/a4d5d814_38c9_11ed_8e4a_b42e991029f7_017d5a36_ce36_11ed_8e52_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>kovrik-samonaduvayushchiysya-green-glade-m1864</vendorCode>
+<name>Коврик самонадувающийся Green Glade M1864</name>
+<description>Самонадувающийся коврик для кемпинга, походов и отдыха на природе. Помогает сделать место для сна или отдыха мягче и комфортнее, компактно складывается для перевозки.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Палатки и спальные мешки</param>
+</offer>
+<offer id="kovrik-samonaduvayushchiysya-green-glade-m1987" available="true">
+<url>https://www.lex-s.ru/catalog/palatki-i-spalnye-meshki/kovriki-samonaduvayushchiesya/kovrik-samonaduvayushchiysya-green-glade-m1987/</url>
+<price>3650</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<sort>20</sort>
+<picture>https://www.lex-s.ru/upload/iblock/765/782vflofw0avm1jsxqmkhcmon2sb1x1w/e19bc226_38c8_11ed_8e4a_b42e991029f7_e986d6e8_ce35_11ed_8e52_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>kovrik-samonaduvayushchiysya-green-glade-m1987</vendorCode>
+<name>Коврик самонадувающийся Green Glade M1987</name>
+<description>Самонадувающийся коврик для кемпинга, походов и отдыха на природе. Помогает сделать место для сна или отдыха мягче и комфортнее, компактно складывается для перевозки.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Палатки и спальные мешки</param>
+</offer>
+<offer id="palatka-green-glade-family-4" available="true">
+<url>https://www.lex-s.ru/catalog/palatki-i-spalnye-meshki/palatki-turisticheskie-green-glade/palatka-green-glade-family-4/</url>
+<price>12330</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<sort>21</sort>
+<picture>https://www.lex-s.ru/upload/iblock/b29/h8ddjj7nz4o3vonztj0msa73x72w1eik/ee0461b2_3dcd_11ee_92ac_74563c64e582_84c65983_429d_11f0_92b7_74563c64e582.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>palatka-green-glade-family-4</vendorCode>
+<name>Палатка Green Glade Family 4</name>
+<description>Туристическая палатка для кемпинга, выездов на природу и отдыха на даче. Конструкция рассчитана на быструю установку, защиту от ветра и осадков, а также удобное размещение вещей и спальных мест.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Палатки и спальные мешки</param>
+</offer>
+<offer id="palatka-plyazhnaya-green-glade-army-2" available="true">
+<url>https://www.lex-s.ru/catalog/palatki-i-spalnye-meshki/palatki-turisticheskie-green-glade/palatka-plyazhnaya-green-glade-army-2/</url>
+<price>4540</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<sort>22</sort>
+<picture>https://www.lex-s.ru/upload/iblock/335/svldqv4szpy12u9g18jhwhwydogbepwb/34deaa9b_fbe8_11ea_8dec_b42e991029f7_1778001c_eaf8_11eb_8e1d_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>palatka-plyazhnaya-green-glade-army-2</vendorCode>
+<name>Палатка пляжная Green Glade Army 2</name>
+<description>Туристическая палатка для кемпинга, выездов на природу и отдыха на даче. Конструкция рассчитана на быструю установку, защиту от ветра и осадков, а также удобное размещение вещей и спальных мест.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Палатки и спальные мешки</param>
+</offer>
+<offer id="palatka-plyazhnaya-green-glade-bali" available="true">
+<url>https://www.lex-s.ru/catalog/palatki-i-spalnye-meshki/palatki-turisticheskie-green-glade/palatka-plyazhnaya-green-glade-bali/</url>
+<price>2170</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<sort>23</sort>
+<picture>https://www.lex-s.ru/upload/iblock/d7a/avs70l09mztloxte0ibyj38h8b5o6roi/6cdc4fae_38c3_11ed_8e4a_b42e991029f7_0a890760_f873_11ed_8e55_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>palatka-plyazhnaya-green-glade-bali</vendorCode>
+<name>Палатка пляжная Green Glade Bali</name>
+<description>Туристическая палатка для кемпинга, выездов на природу и отдыха на даче. Конструкция рассчитана на быструю установку, защиту от ветра и осадков, а также удобное размещение вещей и спальных мест.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Палатки и спальные мешки</param>
+</offer>
+<offer id="palatka-plyazhnaya-green-glade-bali-xl" available="true">
+<url>https://www.lex-s.ru/catalog/palatki-i-spalnye-meshki/palatki-turisticheskie-green-glade/palatka-plyazhnaya-green-glade-bali-xl/</url>
+<price>2880</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<sort>24</sort>
+<picture>https://www.lex-s.ru/upload/iblock/c8e/nxcknp5tftzl41wpo7mdh4irqxqluopg/e812c502_38c3_11ed_8e4a_b42e991029f7_23a18123_f873_11ed_8e55_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>palatka-plyazhnaya-green-glade-bali-xl</vendorCode>
+<name>Палатка пляжная Green Glade Bali XL</name>
+<description>Туристическая палатка для кемпинга, выездов на природу и отдыха на даче. Конструкция рассчитана на быструю установку, защиту от ветра и осадков, а также удобное размещение вещей и спальных мест.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Палатки и спальные мешки</param>
+</offer>
+<offer id="palatka-plyazhnaya-green-glade-cuba" available="true">
+<url>https://www.lex-s.ru/catalog/palatki-i-spalnye-meshki/palatki-turisticheskie-green-glade/palatka-plyazhnaya-green-glade-cuba/</url>
+<price>2000</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<sort>25</sort>
+<picture>https://www.lex-s.ru/upload/iblock/0bd/vja888i4ppuwvdpbioy0iqadvn72qu21/01b34134_088d_11e7_94bb_dc85de7ce533_5fa00407_ab2b_11ef_92b5_74563c64e582.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>palatka-plyazhnaya-green-glade-cuba</vendorCode>
+<name>Палатка пляжная Green Glade Cuba</name>
+<description>Туристическая палатка для кемпинга, выездов на природу и отдыха на даче. Конструкция рассчитана на быструю установку, защиту от ветра и осадков, а также удобное размещение вещей и спальных мест.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Палатки и спальные мешки</param>
+</offer>
+<offer id="palatka-plyazhnaya-green-glade-ivo" available="true">
+<url>https://www.lex-s.ru/catalog/palatki-i-spalnye-meshki/palatki-turisticheskie-green-glade/palatka-plyazhnaya-green-glade-ivo/</url>
+<price>2970</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<sort>26</sort>
+<picture>https://www.lex-s.ru/upload/iblock/fab/1l05aq1tpvu8exnl17c4h3udtrx102u3/2bc9ac1d_8120_11e4_9406_dc85de7ce533_cf71d358_eaf8_11eb_8e1d_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>palatka-plyazhnaya-green-glade-ivo</vendorCode>
+<name>Палатка пляжная Green Glade Ivo</name>
+<description>Туристическая палатка для кемпинга, выездов на природу и отдыха на даче. Конструкция рассчитана на быструю установку, защиту от ветра и осадков, а также удобное размещение вещей и спальных мест.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Палатки и спальные мешки</param>
+</offer>
+<offer id="palatka-turisticheskaya-green-glade-konda-4-mestnaya" available="true">
+<url>https://www.lex-s.ru/catalog/palatki-i-spalnye-meshki/palatki-turisticheskie-green-glade/palatka-turisticheskaya-green-glade-konda-4-mestnaya/</url>
+<price>10260</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<sort>27</sort>
+<picture>https://www.lex-s.ru/upload/iblock/eca/zh3bnl98uic4ozp4ptksdnpx4c51dmy1/a4a934a9_811e_11e4_9406_dc85de7ce533_fc2bc65e_f852_11ec_8e3c_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>palatka-turisticheskaya-green-glade-konda-4-mestnaya</vendorCode>
+<name>Палатка туристическая Green Glade Konda 4 местная</name>
+<description>Туристическая палатка для кемпинга, выездов на природу и отдыха на даче. Конструкция рассчитана на быструю установку, защиту от ветра и осадков, а также удобное размещение вещей и спальных мест.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Палатки и спальные мешки</param>
+</offer>
+<offer id="palatka-turisticheskaya-green-glade-konda-6-mestnaya" available="true">
+<url>https://www.lex-s.ru/catalog/palatki-i-spalnye-meshki/palatki-turisticheskie-green-glade/palatka-turisticheskaya-green-glade-konda-6-mestnaya/</url>
+<price>12030</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<sort>28</sort>
+<picture>https://www.lex-s.ru/upload/iblock/016/furg1qrcru2137v1soxlqvsotcyywqnr/bfd75385_811e_11e4_9406_dc85de7ce533_4dcee4ef_eaf9_11eb_8e1d_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>palatka-turisticheskaya-green-glade-konda-6-mestnaya</vendorCode>
+<name>Палатка туристическая Green Glade Konda 6 местная</name>
+<description>Туристическая палатка для кемпинга, выездов на природу и отдыха на даче. Конструкция рассчитана на быструю установку, защиту от ветра и осадков, а также удобное размещение вещей и спальных мест.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Палатки и спальные мешки</param>
+</offer>
+<offer id="palatka-turisticheskaya-green-glade-minicasa-2-mestnaya" available="true">
+<url>https://www.lex-s.ru/catalog/palatki-i-spalnye-meshki/palatki-turisticheskie-green-glade/palatka-turisticheskaya-green-glade-minicasa-2-mestnaya/</url>
+<price>2690</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<sort>29</sort>
+<picture>https://www.lex-s.ru/upload/iblock/301/pavsujycebaeajb8s119xbylr3x3r08d/9981259b_811f_11e4_9406_dc85de7ce533_d3c926f0_eaf9_11eb_8e1d_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>palatka-turisticheskaya-green-glade-minicasa-2-mestnaya</vendorCode>
+<name>Палатка туристическая Green Glade Minicasa 2 местная</name>
+<description>Туристическая палатка для кемпинга, выездов на природу и отдыха на даче. Конструкция рассчитана на быструю установку, защиту от ветра и осадков, а также удобное размещение вещей и спальных мест.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Палатки и спальные мешки</param>
+</offer>
+<offer id="palatka-turisticheskaya-green-glade-minidome-2-mestnaya" available="true">
+<url>https://www.lex-s.ru/catalog/palatki-i-spalnye-meshki/palatki-turisticheskie-green-glade/palatka-turisticheskaya-green-glade-minidome-2-mestnaya/</url>
+<price>2900</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<sort>30</sort>
+<picture>https://www.lex-s.ru/upload/iblock/686/tx2feemvdr5szbdgiy0db7ykwwv6q2uw/1268e101_8120_11e4_9406_dc85de7ce533_f7f5fca1_eaf9_11eb_8e1d_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>palatka-turisticheskaya-green-glade-minidome-2-mestnaya</vendorCode>
+<name>Палатка туристическая Green Glade Minidome 2 местная</name>
+<description>Туристическая палатка для кемпинга, выездов на природу и отдыха на даче. Конструкция рассчитана на быструю установку, защиту от ветра и осадков, а также удобное размещение вещей и спальных мест.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Палатки и спальные мешки</param>
+</offer>
+<offer id="palatka-turisticheskaya-green-glade-nida-3-mestnaya" available="true">
+<url>https://www.lex-s.ru/catalog/palatki-i-spalnye-meshki/palatki-turisticheskie-green-glade/palatka-turisticheskaya-green-glade-nida-3-mestnaya/</url>
+<price>5760</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<sort>31</sort>
+<picture>https://www.lex-s.ru/upload/iblock/e37/f3f7q387andq8n91z1tafi0lxu11911n/a99efec1_811d_11e4_9406_dc85de7ce533_26c1de80_eafa_11eb_8e1d_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>palatka-turisticheskaya-green-glade-nida-3-mestnaya</vendorCode>
+<name>Палатка туристическая Green Glade Nida 3 местная</name>
+<description>Туристическая палатка для кемпинга, выездов на природу и отдыха на даче. Конструкция рассчитана на быструю установку, защиту от ветра и осадков, а также удобное размещение вещей и спальных мест.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Палатки и спальные мешки</param>
+</offer>
+<offer id="palatka-turisticheskaya-green-glade-nida-4-mestnaya" available="true">
+<url>https://www.lex-s.ru/catalog/palatki-i-spalnye-meshki/palatki-turisticheskie-green-glade/palatka-turisticheskaya-green-glade-nida-4-mestnaya/</url>
+<price>6300</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<sort>32</sort>
+<picture>https://www.lex-s.ru/upload/iblock/84f/z897nzvjx0063usoq492x2ycq30dt9go/e1064378_811d_11e4_9406_dc85de7ce533_51ab5ec2_eafa_11eb_8e1d_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>palatka-turisticheskaya-green-glade-nida-4-mestnaya</vendorCode>
+<name>Палатка туристическая Green Glade Nida 4 местная</name>
+<description>Туристическая палатка для кемпинга, выездов на природу и отдыха на даче. Конструкция рассчитана на быструю установку, защиту от ветра и осадков, а также удобное размещение вещей и спальных мест.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Палатки и спальные мешки</param>
+</offer>
+<offer id="palatka-turisticheskaya-green-glade-tarzan-4-mestnaya" available="true">
+<url>https://www.lex-s.ru/catalog/palatki-i-spalnye-meshki/palatki-turisticheskie-green-glade/palatka-turisticheskaya-green-glade-tarzan-4-mestnaya/</url>
+<price>9760</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<sort>33</sort>
+<picture>https://www.lex-s.ru/upload/iblock/a51/r7ijd5y2v977ib463m30836g5apeeawf/7bfebe13_811e_11e4_9406_dc85de7ce533_ea307e16_f852_11ec_8e3c_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>palatka-turisticheskaya-green-glade-tarzan-4-mestnaya</vendorCode>
+<name>Палатка туристическая Green Glade Tarzan 4 местная</name>
+<description>Туристическая палатка для кемпинга, выездов на природу и отдыха на даче. Конструкция рассчитана на быструю установку, защиту от ветра и осадков, а также удобное размещение вещей и спальных мест.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Палатки и спальные мешки</param>
+</offer>
+<offer id="palatka-turisticheskaya-green-glade-zoro-3-mestnaya" available="true">
+<url>https://www.lex-s.ru/catalog/palatki-i-spalnye-meshki/palatki-turisticheskie-green-glade/palatka-turisticheskaya-green-glade-zoro-3-mestnaya/</url>
+<price>5440</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<sort>34</sort>
+<picture>https://www.lex-s.ru/upload/iblock/cbd/j1gfiq4v6l5g7mt8lmzlvbd19g12z3zj/2f84ef5a_811e_11e4_9406_dc85de7ce533_5690ffac_eafb_11eb_8e1d_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>palatka-turisticheskaya-green-glade-zoro-3-mestnaya</vendorCode>
+<name>Палатка туристическая Green Glade Zoro 3 местная</name>
+<description>Туристическая палатка для кемпинга, выездов на природу и отдыха на даче. Конструкция рассчитана на быструю установку, защиту от ветра и осадков, а также удобное размещение вещей и спальных мест.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Палатки и спальные мешки</param>
+</offer>
+<offer id="bordyur-dlya-modulnogo-pokrytiya-helex-2sht-up-goluboy" available="true">
+<url>https://www.lex-s.ru/catalog/obustroystvo-sada/plitka-sadovaya/bordyur-dlya-modulnogo-pokrytiya-helex-2sht-up-goluboy/</url>
+<price>560</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<sort>35</sort>
+<picture>https://www.lex-s.ru/upload/iblock/d22/ldqj38do8c5ndomwrrg660wfj76l6vfg/a05563e4_9cf2_11eb_8e0e_b42e991029f7_173cac6a_9d1b_11eb_8e0e_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>bordyur-dlya-modulnogo-pokrytiya-helex-2sht-up-goluboy</vendorCode>
+<name>Бордюр для модульного покрытия Helex 2шт/уп, голубой</name>
+<description>Товар для обустройства сада и дачного участка. Помогает организовать пространство, сделать уход за территорией удобнее и добавить функциональные зоны для хранения, посадок или отдыха.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Обустройство сада</param>
+</offer>
+<offer id="bordyur-dlya-modulnogo-pokrytiya-helex-2sht-up-zelenyy" available="true">
+<url>https://www.lex-s.ru/catalog/obustroystvo-sada/plitka-sadovaya/bordyur-dlya-modulnogo-pokrytiya-helex-2sht-up-zelenyy/</url>
+<price>560</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<sort>36</sort>
+<picture>https://www.lex-s.ru/upload/iblock/4a9/605yqm7ifwb0zr6gwy7pqfcrb0m6wdr2/e9f68971_c85f_11e7_9500_dc85de7ce533_e8244966_e77d_11ea_8deb_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>bordyur-dlya-modulnogo-pokrytiya-helex-2sht-up-zelenyy</vendorCode>
+<name>Бордюр для модульного покрытия Helex 2шт/уп, зеленый</name>
+<description>Товар для обустройства сада и дачного участка. Помогает организовать пространство, сделать уход за территорией удобнее и добавить функциональные зоны для хранения, посадок или отдыха.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Обустройство сада</param>
+</offer>
+<offer id="bordyur-dlya-modulnogo-pokrytiya-helex-2sht-up-terrakot" available="true">
+<url>https://www.lex-s.ru/catalog/obustroystvo-sada/plitka-sadovaya/bordyur-dlya-modulnogo-pokrytiya-helex-2sht-up-terrakot/</url>
+<price>560</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<sort>37</sort>
+<picture>https://www.lex-s.ru/upload/iblock/017/acnp5hgnka4et2x3ouxc6gvlfai5sjw4/48609469_c862_11e7_9500_dc85de7ce533_cc44b573_ec28_11ea_8deb_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>bordyur-dlya-modulnogo-pokrytiya-helex-2sht-up-terrakot</vendorCode>
+<name>Бордюр для модульного покрытия Helex 2шт/уп, терракот</name>
+<description>Товар для обустройства сада и дачного участка. Помогает организовать пространство, сделать уход за территорией удобнее и добавить функциональные зоны для хранения, посадок или отдыха.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Обустройство сада</param>
+</offer>
+<offer id="bordyur-sadovyy-prosperplast-border-4-5sm-4-8m-antratsit" available="true">
+<url>https://www.lex-s.ru/catalog/obustroystvo-sada/ograzhdeniya-dlya-klumb/bordyur-sadovyy-prosperplast-border-4-5sm-4-8m-antratsit/</url>
+<price>2040</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<sort>38</sort>
+<picture>https://www.lex-s.ru/upload/iblock/7ca/zd3zwgdj6fc3jxhjyh1it121hb2oqpj0/214f3a0a_1093_11e8_9512_dc85de7ce533_18cf0a5e_a7ce_11e9_8dcd_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>bordyur-sadovyy-prosperplast-border-4-5sm-4-8m-antratsit</vendorCode>
+<name>Бордюр садовый Prosperplast Border 4,5см/4,8м, антрацит</name>
+<description>Товар для обустройства сада и дачного участка. Помогает организовать пространство, сделать уход за территорией удобнее и добавить функциональные зоны для хранения, посадок или отдыха.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Обустройство сада</param>
+</offer>
+<offer id="bordyur-sadovyy-prosperplast-border-5-7sm-8m-antratsit" available="true">
+<url>https://www.lex-s.ru/catalog/obustroystvo-sada/ograzhdeniya-dlya-klumb/bordyur-sadovyy-prosperplast-border-5-7sm-8m-antratsit/</url>
+<price>3790</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<sort>39</sort>
+<picture>https://www.lex-s.ru/upload/iblock/ad4/3qzgw45ocfkoqvamrbry9jydfornzkuq/3e1bc4e0_45da_11e7_94c9_dc85de7ce533_25828f82_9915_11ea_8de6_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>bordyur-sadovyy-prosperplast-border-5-7sm-8m-antratsit</vendorCode>
+<name>Бордюр садовый Prosperplast Border 5,7см/8м, антрацит</name>
+<description>Товар для обустройства сада и дачного участка. Помогает организовать пространство, сделать уход за территорией удобнее и добавить функциональные зоны для хранения, посадок или отдыха.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Обустройство сада</param>
+</offer>
+<offer id="bordyur-sadovyy-prosperplast-palisada-1-2sm-3-8m-korichnevyy" available="true">
+<url>https://www.lex-s.ru/catalog/obustroystvo-sada/ograzhdeniya-dlya-klumb/bordyur-sadovyy-prosperplast-palisada-1-2sm-3-8m-korichnevyy/</url>
+<price>1840</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<sort>40</sort>
+<picture>https://www.lex-s.ru/upload/iblock/f90/bpeu5i70fx8ed4kcbf8c51m7uq2w3hzu/fa7ecc39_1091_11e8_9512_dc85de7ce533_2c96caee_a7ce_11e9_8dcd_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>bordyur-sadovyy-prosperplast-palisada-1-2sm-3-8m-korichnevyy</vendorCode>
+<name>Бордюр садовый Prosperplast Palisada 1,2см/3,8м, коричневый</name>
+<description>Товар для обустройства сада и дачного участка. Помогает организовать пространство, сделать уход за территорией удобнее и добавить функциональные зоны для хранения, посадок или отдыха.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Обустройство сада</param>
+</offer>
+<offer id="bordyur-sadovyy-prosperplast-palisada-1-2sm-3-8m-terrakot" available="true">
+<url>https://www.lex-s.ru/catalog/obustroystvo-sada/ograzhdeniya-dlya-klumb/bordyur-sadovyy-prosperplast-palisada-1-2sm-3-8m-terrakot/</url>
+<price>1840</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<sort>41</sort>
+<picture>https://www.lex-s.ru/upload/iblock/2a8/9d71eb9h9qft0d0de2fz7dv3s1o5mw7y/4dd42e38_1091_11e8_9512_dc85de7ce533_38dd7b64_a7ce_11e9_8dcd_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>bordyur-sadovyy-prosperplast-palisada-1-2sm-3-8m-terrakot</vendorCode>
+<name>Бордюр садовый Prosperplast Palisada 1,2см/3,8м, терракот</name>
+<description>Товар для обустройства сада и дачного участка. Помогает организовать пространство, сделать уход за территорией удобнее и добавить функциональные зоны для хранения, посадок или отдыха.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Обустройство сада</param>
+</offer>
+<offer id="bordyur-sadovyy-prosperplast-palisada-6sm-4-05m-korichnevyy" available="true">
+<url>https://www.lex-s.ru/catalog/obustroystvo-sada/ograzhdeniya-dlya-klumb/bordyur-sadovyy-prosperplast-palisada-6sm-4-05m-korichnevyy/</url>
+<price>2880</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<sort>42</sort>
+<picture>https://www.lex-s.ru/upload/iblock/7eb/qps3gc0bv8xs067ap11xeg9ogbyd0g3d/199e29fb_1dd3_11e7_94bf_dc85de7ce533_49aa5140_a7ce_11e9_8dcd_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>bordyur-sadovyy-prosperplast-palisada-6sm-4-05m-korichnevyy</vendorCode>
+<name>Бордюр садовый Prosperplast Palisada 6см/4,05м, коричневый</name>
+<description>Товар для обустройства сада и дачного участка. Помогает организовать пространство, сделать уход за территорией удобнее и добавить функциональные зоны для хранения, посадок или отдыха.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Обустройство сада</param>
+</offer>
+<offer id="bordyur-sadovyy-prosperplast-palisada-6sm-4-05m-seryy" available="true">
+<url>https://www.lex-s.ru/catalog/obustroystvo-sada/ograzhdeniya-dlya-klumb/bordyur-sadovyy-prosperplast-palisada-6sm-4-05m-seryy/</url>
+<price>2880</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<sort>43</sort>
+<picture>https://www.lex-s.ru/upload/iblock/905/k5dfy0x3ckklwx8uxas8v4je9pcudtnt/4d21df1d_5c84_11ea_8ddf_b42e991029f7_25f3214e_5d31_11ea_8ddf_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>bordyur-sadovyy-prosperplast-palisada-6sm-4-05m-seryy</vendorCode>
+<name>Бордюр садовый Prosperplast Palisada 6см/4,05м, серый</name>
+<description>Товар для обустройства сада и дачного участка. Помогает организовать пространство, сделать уход за территорией удобнее и добавить функциональные зоны для хранения, посадок или отдыха.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Обустройство сада</param>
+</offer>
+<offer id="bordyur-sadovyy-prosperplast-palisada-6sm-4-05m-terrakot" available="true">
+<url>https://www.lex-s.ru/catalog/obustroystvo-sada/ograzhdeniya-dlya-klumb/bordyur-sadovyy-prosperplast-palisada-6sm-4-05m-terrakot/</url>
+<price>2890</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<sort>44</sort>
+<picture>https://www.lex-s.ru/upload/iblock/000/jm99pra289ggngxfph3zink9z4lz83z8/a991a7d6_1092_11e8_9512_dc85de7ce533_58d46416_a7ce_11e9_8dcd_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>bordyur-sadovyy-prosperplast-palisada-6sm-4-05m-terrakot</vendorCode>
+<name>Бордюр садовый Prosperplast Palisada 6см/4,05м, терракот</name>
+<description>Товар для обустройства сада и дачного участка. Помогает организовать пространство, сделать уход за территорией удобнее и добавить функциональные зоны для хранения, посадок или отдыха.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Обустройство сада</param>
+</offer>
+<offer id="bordyur-sadovyy-prosperplast-palisada-2-35m-korichnevyy" available="true">
+<url>https://www.lex-s.ru/catalog/obustroystvo-sada/ograzhdeniya-dlya-klumb/bordyur-sadovyy-prosperplast-palisada-2-35m-korichnevyy/</url>
+<price>2980</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<sort>45</sort>
+<picture>https://www.lex-s.ru/upload/iblock/60f/dux1tp6pr5c76fbebiso05jmqq2bpnbw/bc0ba323_48e2_11ea_8dde_b42e991029f7_4fd9f7f8_4bf2_11ea_8dde_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>bordyur-sadovyy-prosperplast-palisada-2-35m-korichnevyy</vendorCode>
+<name>Бордюр садовый Prosperplast Palisada, 2,35м, коричневый</name>
+<description>Товар для обустройства сада и дачного участка. Помогает организовать пространство, сделать уход за территорией удобнее и добавить функциональные зоны для хранения, посадок или отдыха.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Обустройство сада</param>
+</offer>
+<offer id="bordyur-sadovyy-prosperplast-palisada-2-35m-terrakot" available="true">
+<url>https://www.lex-s.ru/catalog/obustroystvo-sada/ograzhdeniya-dlya-klumb/bordyur-sadovyy-prosperplast-palisada-2-35m-terrakot/</url>
+<price>2980</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<sort>46</sort>
+<picture>https://www.lex-s.ru/upload/iblock/696/bjkh9hqtoc8xesxfit3l3zy8d1992a7r/66bb417c_48e2_11ea_8dde_b42e991029f7_423301a7_4bf2_11ea_8dde_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>bordyur-sadovyy-prosperplast-palisada-2-35m-terrakot</vendorCode>
+<name>Бордюр садовый Prosperplast Palisada, 2,35м, терракот</name>
+<description>Товар для обустройства сада и дачного участка. Помогает организовать пространство, сделать уход за территорией удобнее и добавить функциональные зоны для хранения, посадок или отдыха.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Обустройство сада</param>
+</offer>
+<offer id="vodosbornik-graf-top-tank-1300l-zelenyy" available="true">
+<url>https://www.lex-s.ru/catalog/obustroystvo-sada/vodosborniki/vodosbornik-graf-top-tank-1300l-zelenyy/</url>
+<price>21440</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<sort>47</sort>
+<picture>https://www.lex-s.ru/upload/iblock/57c/lxlqyh0kdzf0rc92jdsodmv5tispf9al/4f84bf72_43df_11e9_8dba_b42e991029f7_067c1924_a7cf_11e9_8dcd_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>vodosbornik-graf-top-tank-1300l-zelenyy</vendorCode>
+<name>Водосборник Graf Top-Tank 1300л, зеленый</name>
+<description>Товар для обустройства сада и дачного участка. Помогает организовать пространство, сделать уход за территорией удобнее и добавить функциональные зоны для хранения, посадок или отдыха.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Обустройство сада</param>
+</offer>
+<offer id="vodosbornik-prosperplast-aquacan-360l-terrakot" available="true">
+<url>https://www.lex-s.ru/catalog/obustroystvo-sada/vodosborniki/vodosbornik-prosperplast-aquacan-360l-terrakot/</url>
+<price>26270</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<sort>48</sort>
+<picture>https://www.lex-s.ru/upload/iblock/a71/c8u8cb82br96mz1ixtne10067z0ehrfo/d5fac591_12d3_11e6_946c_dc85de7ce533_1de9f226_a7cf_11e9_8dcd_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>vodosbornik-prosperplast-aquacan-360l-terrakot</vendorCode>
+<name>Водосборник Prosperplast Aquacan 360л, терракот</name>
+<description>Товар для обустройства сада и дачного участка. Помогает организовать пространство, сделать уход за территорией удобнее и добавить функциональные зоны для хранения, посадок или отдыха.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Обустройство сада</param>
+</offer>
+<offer id="vodosbornik-prosperplast-woodcan-265l-korichnevyy" available="true">
+<url>https://www.lex-s.ru/catalog/obustroystvo-sada/vodosborniki/vodosbornik-prosperplast-woodcan-265l-korichnevyy/</url>
+<price>13830</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<sort>49</sort>
+<picture>https://www.lex-s.ru/upload/iblock/e4c/59edm1gpqlfa6o0niufh3ssflsy6pj3p/fcf3386a_12d3_11e6_946c_dc85de7ce533_28c21d52_a7cf_11e9_8dcd_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>vodosbornik-prosperplast-woodcan-265l-korichnevyy</vendorCode>
+<name>Водосборник Prosperplast Woodcan 265л, коричневый</name>
+<description>Товар для обустройства сада и дачного участка. Помогает организовать пространство, сделать уход за территорией удобнее и добавить функциональные зоны для хранения, посадок или отдыха.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Обустройство сада</param>
+</offer>
+<offer id="vodosbornik-prosperplast-woodcan-265l-chernyy" available="true">
+<url>https://www.lex-s.ru/catalog/obustroystvo-sada/vodosborniki/vodosbornik-prosperplast-woodcan-265l-chernyy/</url>
+<price>18960</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<sort>50</sort>
+<picture>https://www.lex-s.ru/upload/iblock/1e9/sdmmux2cowetfkkm316zh61w8y7e37u2/20b43013_12d4_11e6_946c_dc85de7ce533_360d286b_a7cf_11e9_8dcd_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>vodosbornik-prosperplast-woodcan-265l-chernyy</vendorCode>
+<name>Водосборник Prosperplast Woodcan 265л, черный</name>
+<description>Товар для обустройства сада и дачного участка. Помогает организовать пространство, сделать уход за территорией удобнее и добавить функциональные зоны для хранения, посадок или отдыха.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Обустройство сада</param>
+</offer>
+<offer id="mnogofunktsionalnyy-yashchik-dlya-instrumentov-optima-kopa5530bm-4c" available="true">
+<url>https://www.lex-s.ru/catalog/yashchiki-dlya-instrumenta/yashchiki-dlya-instrumenta-plastikovye/mnogofunktsionalnyy-yashchik-dlya-instrumentov-optima-kopa5530bm-4c/</url>
+<price>3210</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<sort>51</sort>
+<picture>https://www.lex-s.ru/upload/iblock/663/slpehj43fqako2y9hrooj27vd5klr7la/502665cb_1208_11eb_8dee_b42e991029f7_650b6741_5448_11ec_8e26_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>mnogofunktsionalnyy-yashchik-dlya-instrumentov-optima-kopa5530bm-4c</vendorCode>
+<name>Многофункциональный ящик для инструментов OPTIMA KOPA5530BM-4C</name>
+<description>Ящик для инструмента и расходных материалов, удобный для хранения, переноски и сортировки мелочей. Подходит для дома, гаража, мастерской, дачи и выездных работ.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Ящики для инструмента</param>
+</offer>
+<offer id="mnogofunktsionalnyy-yashchik-dlya-instrumentov-smart-ksml32k1-4c" available="true">
+<url>https://www.lex-s.ru/catalog/yashchiki-dlya-instrumenta/yashchiki-dlya-instrumenta-plastikovye/mnogofunktsionalnyy-yashchik-dlya-instrumentov-smart-ksml32k1-4c/</url>
+<price>570</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<sort>52</sort>
+<picture>https://www.lex-s.ru/upload/iblock/ba2/ze3q6jtuupphyehxkndfzvd5cpee5xxv/17fb38a5_1217_11eb_8dee_b42e991029f7_ccaaf6eb_5446_11ec_8e26_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>mnogofunktsionalnyy-yashchik-dlya-instrumentov-smart-ksml32k1-4c</vendorCode>
+<name>Многофункциональный ящик для инструментов SMART KSML32K1-4C</name>
+<description>Ящик для инструмента и расходных материалов, удобный для хранения, переноски и сортировки мелочей. Подходит для дома, гаража, мастерской, дачи и выездных работ.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Ящики для инструмента</param>
+</offer>
+<offer id="modulnyy-yashchik-dlya-instrumentov-x-block-pro-kxb604020-s411" available="true">
+<url>https://www.lex-s.ru/catalog/yashchiki-dlya-instrumenta/yashchiki-dlya-instrumenta-plastikovye/modulnyy-yashchik-dlya-instrumentov-x-block-pro-kxb604020-s411/</url>
+<price>5970</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<sort>53</sort>
+<picture>https://www.lex-s.ru/upload/iblock/cde/qwssa1ijgkwu5e4lo4xtkivi7gtyye8x/bb118be8_0f99_11eb_8dee_b42e991029f7_0f557c10_0cac_11ec_8e1f_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>modulnyy-yashchik-dlya-instrumentov-x-block-pro-kxb604020-s411</vendorCode>
+<name>Модульный ящик для инструментов X-Block PRO KXB604020-S411</name>
+<description>Ящик для инструмента и расходных материалов, удобный для хранения, переноски и сортировки мелочей. Подходит для дома, гаража, мастерской, дачи и выездных работ.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Ящики для инструмента</param>
+</offer>
+<offer id="modulnyy-yashchik-dlya-instrumentov-x-block-pro-kxb604050d-s411" available="true">
+<url>https://www.lex-s.ru/catalog/yashchiki-dlya-instrumenta/yashchiki-dlya-instrumenta-plastikovye/modulnyy-yashchik-dlya-instrumentov-x-block-pro-kxb604050d-s411/</url>
+<price>10460</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<sort>54</sort>
+<picture>https://www.lex-s.ru/upload/iblock/137/dsfy9xyz4mkdp0v86j5jjl8whl2zvv0f/fb7519d7_0fa5_11eb_8dee_b42e991029f7_7ba310fe_0cac_11ec_8e1f_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>modulnyy-yashchik-dlya-instrumentov-x-block-pro-kxb604050d-s411</vendorCode>
+<name>Модульный ящик для инструментов X-Block PRO KXB604050D-S411</name>
+<description>Ящик для инструмента и расходных материалов, удобный для хранения, переноски и сортировки мелочей. Подходит для дома, гаража, мастерской, дачи и выездных работ.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Ящики для инструмента</param>
+</offer>
+<offer id="modulnyy-yashchik-dlya-instrumentov-x-block-tech-kxb604030g-s411" available="true">
+<url>https://www.lex-s.ru/catalog/yashchiki-dlya-instrumenta/yashchiki-dlya-instrumenta-plastikovye/modulnyy-yashchik-dlya-instrumentov-x-block-tech-kxb604030g-s411/</url>
+<price>6000</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<sort>55</sort>
+<picture>https://www.lex-s.ru/upload/iblock/c4a/6zvocjv1upo7gevrjam4hdurfp1itgzh/31390135_0eeb_11eb_8ded_b42e991029f7_b957d49b_0cac_11ec_8e1f_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>modulnyy-yashchik-dlya-instrumentov-x-block-tech-kxb604030g-s411</vendorCode>
+<name>Модульный ящик для инструментов X-Block TECH KXB604030G-S411</name>
+<description>Ящик для инструмента и расходных материалов, удобный для хранения, переноски и сортировки мелочей. Подходит для дома, гаража, мастерской, дачи и выездных работ.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Ящики для инструмента</param>
+</offer>
+<offer id="modulnyy-yashchik-dlya-instrumentov-x-block-tech-kxb604040g-s411" available="true">
+<url>https://www.lex-s.ru/catalog/yashchiki-dlya-instrumenta/yashchiki-dlya-instrumenta-plastikovye/modulnyy-yashchik-dlya-instrumentov-x-block-tech-kxb604040g-s411/</url>
+<price>9060</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<sort>56</sort>
+<picture>https://www.lex-s.ru/upload/iblock/d2a/rtchubu8ku0a9w4civvwsqvayvrpmfom/6a8a44c9_0faa_11eb_8dee_b42e991029f7_d3e241b6_0cac_11ec_8e1f_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>modulnyy-yashchik-dlya-instrumentov-x-block-tech-kxb604040g-s411</vendorCode>
+<name>Модульный ящик для инструментов X-Block TECH KXB604040G-S411</name>
+<description>Ящик для инструмента и расходных материалов, удобный для хранения, переноски и сортировки мелочей. Подходит для дома, гаража, мастерской, дачи и выездных работ.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Ящики для инструмента</param>
+</offer>
+<offer id="modulnyy-yashchik-dlya-instrumentov-x-block-tech-kxb604050g-s411" available="true">
+<url>https://www.lex-s.ru/catalog/yashchiki-dlya-instrumenta/yashchiki-dlya-instrumenta-plastikovye/modulnyy-yashchik-dlya-instrumentov-x-block-tech-kxb604050g-s411/</url>
+<price>9930</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<sort>57</sort>
+<picture>https://www.lex-s.ru/upload/iblock/023/zp6m3xdyl42ye4uujlnfwa7c2le0f5dd/5699bb9c_0eed_11eb_8ded_b42e991029f7_f5812824_0cac_11ec_8e1f_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>modulnyy-yashchik-dlya-instrumentov-x-block-tech-kxb604050g-s411</vendorCode>
+<name>Модульный ящик для инструментов X-Block TECH KXB604050G-S411</name>
+<description>Ящик для инструмента и расходных материалов, удобный для хранения, переноски и сортировки мелочей. Подходит для дома, гаража, мастерской, дачи и выездных работ.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Ящики для инструмента</param>
+</offer>
+<offer id="modulnyy-yashchik-dlya-instrumentov-x-log-kxb604050fd-s411" available="true">
+<url>https://www.lex-s.ru/catalog/yashchiki-dlya-instrumenta/yashchiki-dlya-instrumenta-plastikovye/modulnyy-yashchik-dlya-instrumentov-x-log-kxb604050fd-s411/</url>
+<price>11230</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<sort>58</sort>
+<picture>https://www.lex-s.ru/upload/iblock/765/8uhnnyh8pwuzf66c40d12bybmapyqoua/5319ba85_0ee8_11eb_8ded_b42e991029f7_ba59c86b_0cab_11ec_8e1f_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>modulnyy-yashchik-dlya-instrumentov-x-log-kxb604050fd-s411</vendorCode>
+<name>Модульный ящик для инструментов X-LOG KXB604050FD-S411</name>
+<description>Ящик для инструмента и расходных материалов, удобный для хранения, переноски и сортировки мелочей. Подходит для дома, гаража, мастерской, дачи и выездных работ.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Ящики для инструмента</param>
+</offer>
+<offer id="organayzer-dlya-instrumentov-heavy-khv453520-s411" available="true">
+<url>https://www.lex-s.ru/catalog/yashchiki-dlya-instrumenta/yashchiki-dlya-instrumenta-plastikovye/organayzer-dlya-instrumentov-heavy-khv453520-s411/</url>
+<price>3710</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<sort>59</sort>
+<picture>https://www.lex-s.ru/upload/iblock/ff5/n75g67gotgnpyrsph8838q6tk9vjzle5/f1c162c4_0fb1_11eb_8dee_b42e991029f7_50839b62_565d_11ec_8e27_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>organayzer-dlya-instrumentov-heavy-khv453520-s411</vendorCode>
+<name>Органайзер для инструментов HEAVY KHV453520-S411</name>
+<description>Ящик для инструмента и расходных материалов, удобный для хранения, переноски и сортировки мелочей. Подходит для дома, гаража, мастерской, дачи и выездных работ.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Ящики для инструмента</param>
+</offer>
+<offer id="organayzer-dlya-instrumentov-heavy-khv453520m-s411" available="true">
+<url>https://www.lex-s.ru/catalog/yashchiki-dlya-instrumenta/yashchiki-dlya-instrumenta-plastikovye/organayzer-dlya-instrumentov-heavy-khv453520m-s411/</url>
+<price>4380</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<sort>60</sort>
+<picture>https://www.lex-s.ru/upload/iblock/cb2/5qxzrazwn9x9hyi22g9ng3oxh1nzuu2s/b2f7fb2a_0fb4_11eb_8dee_b42e991029f7_231736bf_565d_11ec_8e27_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>organayzer-dlya-instrumentov-heavy-khv453520m-s411</vendorCode>
+<name>Органайзер для инструментов HEAVY KHV453520M-S411</name>
+<description>Ящик для инструмента и расходных материалов, удобный для хранения, переноски и сортировки мелочей. Подходит для дома, гаража, мастерской, дачи и выездных работ.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Ящики для инструмента</param>
+</offer>
+<offer id="organayzer-dlya-instrumentov-heavy-khva453535bs-s411" available="true">
+<url>https://www.lex-s.ru/catalog/yashchiki-dlya-instrumenta/yashchiki-dlya-instrumenta-plastikovye/organayzer-dlya-instrumentov-heavy-khva453535bs-s411/</url>
+<price>3910</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<sort>61</sort>
+<picture>https://www.lex-s.ru/upload/iblock/217/qkaxmcmnu1uba24fnklduw8nz6rfa928/27ea0a84_0fbd_11eb_8dee_b42e991029f7_f533ac5b_565e_11ec_8e27_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>organayzer-dlya-instrumentov-heavy-khva453535bs-s411</vendorCode>
+<name>Органайзер для инструментов HEAVY KHVA453535BS-S411</name>
+<description>Ящик для инструмента и расходных материалов, удобный для хранения, переноски и сортировки мелочей. Подходит для дома, гаража, мастерской, дачи и выездных работ.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Ящики для инструмента</param>
+</offer>
+<offer id="gril-koptilnya-green-glade-11092-smoker" available="true">
+<url>https://www.lex-s.ru/catalog/grili-reshetki-i-nabory-dlya-piknika/grili/gril-koptilnya-green-glade-11092-smoker/</url>
+<price>12530</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<sort>62</sort>
+<picture>https://www.lex-s.ru/upload/iblock/84e/s9im6ie5cpgwsjjirx13m55hrag30iyp/1f2c00e0_7008_11e2_b306_bcaec5aeacdc_94e9c916_b6af_11ed_8e50_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>gril-koptilnya-green-glade-11092-smoker</vendorCode>
+<name>Гриль - коптильня Green Glade 11092 смокер</name>
+<description>Гриль для приготовления блюд на открытом воздухе: на даче, пикнике или загородной площадке. Подходит для жарки мяса, рыбы, овощей и других продуктов, помогает организовать полноценную зону барбекю.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Грили</param>
+</offer>
+<offer id="gril-green-glade-11060" available="true">
+<url>https://www.lex-s.ru/catalog/grili-reshetki-i-nabory-dlya-piknika/grili/gril-green-glade-11060/</url>
+<price>9410</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<sort>63</sort>
+<picture>https://www.lex-s.ru/upload/iblock/c3f/fr08ni9ch8v1vyiptcsmttfg1ivu712m/050002e3_b2ef_11eb_8e0f_b42e991029f7_314a72aa_7dea_11ec_8e2b_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>gril-green-glade-11060</vendorCode>
+<name>Гриль Green Glade 11060</name>
+<description>Гриль для приготовления блюд на открытом воздухе: на даче, пикнике или загородной площадке. Подходит для жарки мяса, рыбы, овощей и других продуктов, помогает организовать полноценную зону барбекю.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Грили</param>
+</offer>
+<offer id="gril-green-glade-11070" available="true">
+<url>https://www.lex-s.ru/catalog/grili-reshetki-i-nabory-dlya-piknika/grili/gril-green-glade-11070/</url>
+<price>11300</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<sort>64</sort>
+<picture>https://www.lex-s.ru/upload/iblock/d53/uemno6ejr3wotc9r1vf9heg52e1q47if/b19d6370_f3e7_11e9_8dd7_b42e991029f7_4d491ad3_7dea_11ec_8e2b_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>gril-green-glade-11070</vendorCode>
+<name>Гриль Green Glade 11070</name>
+<description>Гриль для приготовления блюд на открытом воздухе: на даче, пикнике или загородной площадке. Подходит для жарки мяса, рыбы, овощей и других продуктов, помогает организовать полноценную зону барбекю.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Грили</param>
+</offer>
+<offer id="gril-green-glade-11090" available="true">
+<url>https://www.lex-s.ru/catalog/grili-reshetki-i-nabory-dlya-piknika/grili/gril-green-glade-11090/</url>
+<price>10220</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<sort>65</sort>
+<picture>https://www.lex-s.ru/upload/iblock/c34/recdr8onlnlbklm2tnwuf9fxdhqrultq/f8e5d628_b5a7_11e3_9425_00151a6e18a9_d4cbb420_06df_11ea_8dd9_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>gril-green-glade-11090</vendorCode>
+<name>Гриль Green Glade 11090</name>
+<description>Гриль для приготовления блюд на открытом воздухе: на даче, пикнике или загородной площадке. Подходит для жарки мяса, рыбы, овощей и других продуктов, помогает организовать полноценную зону барбекю.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Грили</param>
+</offer>
+<offer id="gril-green-glade-11100" available="true">
+<url>https://www.lex-s.ru/catalog/grili-reshetki-i-nabory-dlya-piknika/grili/gril-green-glade-11100/</url>
+<price>12590</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<sort>66</sort>
+<picture>https://www.lex-s.ru/upload/iblock/84a/nstihf0p0vs3bwt1q0h270b1f03uake9/c47b5854_b5a7_11e3_9425_00151a6e18a9_59782f0f_3854_11ee_92ac_74563c64e582.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>gril-green-glade-11100</vendorCode>
+<name>Гриль Green Glade 11100</name>
+<description>Гриль для приготовления блюд на открытом воздухе: на даче, пикнике или загородной площадке. Подходит для жарки мяса, рыбы, овощей и других продуктов, помогает организовать полноценную зону барбекю.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Грили</param>
+</offer>
+<offer id="gril-gazovyy-aesto-s-3-gorelkami-11101" available="true">
+<url>https://www.lex-s.ru/catalog/grili-reshetki-i-nabory-dlya-piknika/grili/gril-gazovyy-aesto-s-3-gorelkami-11101/</url>
+<price>36390</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<sort>67</sort>
+<picture>https://www.lex-s.ru/upload/iblock/49e/zvec2hctqx5irj1sv9tzxja2z4tywr9g/d971bc87_6c1a_11ee_92ad_74563c64e582_40e63ed3_022f_11ef_92b3_74563c64e582.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>gril-gazovyy-aesto-s-3-gorelkami-11101</vendorCode>
+<name>Гриль газовый AESTO с 3 горелками 11101</name>
+<description>Гриль для приготовления блюд на открытом воздухе: на даче, пикнике или загородной площадке. Подходит для жарки мяса, рыбы, овощей и других продуктов, помогает организовать полноценную зону барбекю.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Грили</param>
+</offer>
+<offer id="gril-gazovyy-aesto-s-3-gorelkami-11105" available="true">
+<url>https://www.lex-s.ru/catalog/grili-reshetki-i-nabory-dlya-piknika/grili/gril-gazovyy-aesto-s-3-gorelkami-11105/</url>
+<price>19470</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<sort>68</sort>
+<picture>https://www.lex-s.ru/upload/iblock/8af/to6gcejwpghof5dq2penwz0vil0fryuc/39cee715_8a45_11f0_92b9_74563c64e582_e254ffda_f798_11f0_92bd_74563c64e582.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>gril-gazovyy-aesto-s-3-gorelkami-11105</vendorCode>
+<name>Гриль газовый AESTO с 3 горелками 11105</name>
+<description>Гриль для приготовления блюд на открытом воздухе: на даче, пикнике или загородной площадке. Подходит для жарки мяса, рыбы, овощей и других продуктов, помогает организовать полноценную зону барбекю.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Грили</param>
+</offer>
+<offer id="gril-gazovyy-aesto-s-3-gorelkami-11107" available="true">
+<url>https://www.lex-s.ru/catalog/grili-reshetki-i-nabory-dlya-piknika/grili/gril-gazovyy-aesto-s-3-gorelkami-11107/</url>
+<price>30640</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<sort>69</sort>
+<picture>https://www.lex-s.ru/upload/iblock/592/qnfopmlh0y020pzhmkvlnxa7xnlki5t3/ed0b81de_8a46_11f0_92b9_74563c64e582_f77b932d_f798_11f0_92bd_74563c64e582.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>gril-gazovyy-aesto-s-3-gorelkami-11107</vendorCode>
+<name>Гриль газовый AESTO с 3 горелками 11107</name>
+<description>Гриль для приготовления блюд на открытом воздухе: на даче, пикнике или загородной площадке. Подходит для жарки мяса, рыбы, овощей и других продуктов, помогает организовать полноценную зону барбекю.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Грили</param>
+</offer>
+<offer id="gril-gazovyy-aesto-s-4-gorelkami-11102" available="true">
+<url>https://www.lex-s.ru/catalog/grili-reshetki-i-nabory-dlya-piknika/grili/gril-gazovyy-aesto-s-4-gorelkami-11102/</url>
+<price>42790</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<sort>70</sort>
+<picture>https://www.lex-s.ru/upload/iblock/e8c/eh08lm74kpzxcw0vhbn1cdcj7gfdkjge/8f77e215_6c1a_11ee_92ad_74563c64e582_02b816f1_022f_11ef_92b3_74563c64e582.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>gril-gazovyy-aesto-s-4-gorelkami-11102</vendorCode>
+<name>Гриль газовый AESTO с 4 горелками 11102</name>
+<description>Гриль для приготовления блюд на открытом воздухе: на даче, пикнике или загородной площадке. Подходит для жарки мяса, рыбы, овощей и других продуктов, помогает организовать полноценную зону барбекю.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Грили</param>
+</offer>
+<offer id="gril-gazovyy-aesto-s-4-gorelkami-11104" available="true">
+<url>https://www.lex-s.ru/catalog/grili-reshetki-i-nabory-dlya-piknika/grili/gril-gazovyy-aesto-s-4-gorelkami-11104/</url>
+<price>28050</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<sort>71</sort>
+<picture>https://www.lex-s.ru/upload/iblock/0b1/t5xjacojgo38pmi9cape6mmpls8he3ao/b2dd52f8_7f09_11ef_92b4_74563c64e582_da82a011_f798_11f0_92bd_74563c64e582.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>gril-gazovyy-aesto-s-4-gorelkami-11104</vendorCode>
+<name>Гриль газовый AESTO с 4 горелками 11104</name>
+<description>Гриль для приготовления блюд на открытом воздухе: на даче, пикнике или загородной площадке. Подходит для жарки мяса, рыбы, овощей и других продуктов, помогает организовать полноценную зону барбекю.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Грили</param>
+</offer>
+<offer id="gril-gazovyy-aesto-s-4-gorelkami-11106" available="true">
+<url>https://www.lex-s.ru/catalog/grili-reshetki-i-nabory-dlya-piknika/grili/gril-gazovyy-aesto-s-4-gorelkami-11106/</url>
+<price>37740</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<sort>72</sort>
+<picture>https://www.lex-s.ru/upload/iblock/f48/dquxnd4sfmlqv4q1avwwdz928jicn2sy/88dd81ed_8a46_11f0_92b9_74563c64e582_eeb57f83_f798_11f0_92bd_74563c64e582.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>gril-gazovyy-aesto-s-4-gorelkami-11106</vendorCode>
+<name>Гриль газовый AESTO с 4 горелками 11106</name>
+<description>Гриль для приготовления блюд на открытом воздухе: на даче, пикнике или загородной площадке. Подходит для жарки мяса, рыбы, овощей и других продуктов, помогает организовать полноценную зону барбекю.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Грили</param>
+</offer>
+<offer id="gril-gazovyy-aesto-s-6-gorelkami-11103" available="true">
+<url>https://www.lex-s.ru/catalog/grili-reshetki-i-nabory-dlya-piknika/grili/gril-gazovyy-aesto-s-6-gorelkami-11103/</url>
+<price>92210</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<sort>73</sort>
+<picture>https://www.lex-s.ru/upload/iblock/f84/z0odoqd3z45n3jurnt1f6ek0yzre6tvs/423f1e7e_7f09_11ef_92b4_74563c64e582_9b99d15d_f04e_11ef_92b6_74563c64e582.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>gril-gazovyy-aesto-s-6-gorelkami-11103</vendorCode>
+<name>Гриль газовый AESTO с 6 горелками 11103</name>
+<description>Гриль для приготовления блюд на открытом воздухе: на даче, пикнике или загородной площадке. Подходит для жарки мяса, рыбы, овощей и других продуктов, помогает организовать полноценную зону барбекю.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Грили</param>
+</offer>
+<offer id="gril-barbekyu-ap222-green-glade" available="true">
+<url>https://www.lex-s.ru/catalog/grili-reshetki-i-nabory-dlya-piknika/grili/gril-barbekyu-ap222-green-glade/</url>
+<price>9390</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<sort>74</sort>
+<picture>https://www.lex-s.ru/upload/iblock/5a6/ufvqjnv1l6zc891cy0xbod3f3rmofa1t/65749321_90e7_11ed_8e50_b42e991029f7_4a5a5353_b6ae_11ed_8e50_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>gril-barbekyu-ap222-green-glade</vendorCode>
+<name>Гриль-барбекю AP222 Green Glade</name>
+<description>Гриль для приготовления блюд на открытом воздухе: на даче, пикнике или загородной площадке. Подходит для жарки мяса, рыбы, овощей и других продуктов, помогает организовать полноценную зону барбекю.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Грили</param>
+</offer>
+<offer id="gril-barbekyu-green-glade-ac18" available="true">
+<url>https://www.lex-s.ru/catalog/grili-reshetki-i-nabory-dlya-piknika/grili/gril-barbekyu-green-glade-ac18/</url>
+<price>4440</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<sort>75</sort>
+<picture>https://www.lex-s.ru/upload/iblock/db9/5wqhadnr1nakax2tkpn2z0zpup3q1wdg/8f600113_b2ef_11eb_8e0f_b42e991029f7_660d3028_7dea_11ec_8e2b_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>gril-barbekyu-green-glade-ac18</vendorCode>
+<name>Гриль-барбекю Green Glade AC18</name>
+<description>Гриль для приготовления блюд на открытом воздухе: на даче, пикнике или загородной площадке. Подходит для жарки мяса, рыбы, овощей и других продуктов, помогает организовать полноценную зону барбекю.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Грили</param>
+</offer>
+<offer id="gril-barbekyu-green-glade-ahg18" available="true">
+<url>https://www.lex-s.ru/catalog/grili-reshetki-i-nabory-dlya-piknika/grili/gril-barbekyu-green-glade-ahg18/</url>
+<price>3950</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<sort>76</sort>
+<picture>https://www.lex-s.ru/upload/iblock/cdb/z65540yt6bghii7d7l032zgnvbguq8b8/ed415cba_bb12_11ec_8e36_b42e991029f7_e109df96_c79c_11ec_8e36_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>gril-barbekyu-green-glade-ahg18</vendorCode>
+<name>Гриль-барбекю Green Glade AHG18</name>
+<description>Гриль для приготовления блюд на открытом воздухе: на даче, пикнике или загородной площадке. Подходит для жарки мяса, рыбы, овощей и других продуктов, помогает организовать полноценную зону барбекю.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Грили</param>
+</offer>
+<offer id="gril-barbekyu-green-glade-ahg18b" available="true">
+<url>https://www.lex-s.ru/catalog/grili-reshetki-i-nabory-dlya-piknika/grili/gril-barbekyu-green-glade-ahg18b/</url>
+<price>4090</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<sort>77</sort>
+<picture>https://www.lex-s.ru/upload/iblock/5e9/9qmnqyz88822q7bh4363fg3yfr4mploo/1f2c00f1_7008_11e2_b306_bcaec5aeacdc_473a24de_06e0_11ea_8dd9_b42e991029f7.jpg</picture>
+<vendor>LEX Group</vendor>
+<vendorCode>gril-barbekyu-green-glade-ahg18b</vendorCode>
+<name>Гриль-барбекю Green Glade AHG18B</name>
+<description>Гриль для приготовления блюд на открытом воздухе: на даче, пикнике или загородной площадке. Подходит для жарки мяса, рыбы, овощей и других продуктов, помогает организовать полноценную зону барбекю.</description>
+<manufacturer_warranty></manufacturer_warranty>
+<param name="Категория">Грили</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
