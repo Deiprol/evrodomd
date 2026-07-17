@@ -2052,12 +2052,40 @@
 <param name="Остаток">0</param>
 <manufacturer_warranty></manufacturer_warranty>
 </offer>
+<offer id="3_253620863281" available="true">
+<url>https://designmehair.ru/products/tproduct/1086285961-253620863281-suhoi-shampun-dlya-svetlih-volos-quickie</url>
+<price>1860</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<sort>1</sort>
+<picture>https://static.tildacdn.com/stor3633-3838-4662-b531-386437613031/78795355.jpg</picture>
+<picture>https://static.tildacdn.com/stor3932-3135-4366-b562-623532313365/43735072.jpg</picture>
+<picture>https://static.tildacdn.com/stor3561-6234-4663-b630-636536383231/14799624.png</picture>
+<picture>https://static.tildacdn.com/stor3564-3131-4162-b039-636566333632/49553700.png</picture>
+<picture>https://static.tildacdn.com/stor3531-3064-4562-b238-323163643235/45337001.jpg</picture>
+<picture>https://static.tildacdn.com/stor6665-6264-4031-a331-643162643263/69317436.jpg</picture>
+<picture>https://static.tildacdn.com/stor6365-3434-4038-b039-626435343463/72640790.jpg</picture>
+<picture>https://static.tildacdn.com/stor3130-3238-4831-b963-633565386666/25883033.jpg</picture>
+<picture>https://static.tildacdn.com/stor6539-3635-4130-a234-656463373931/56362176.jpg</picture>
+<vendor>DESIGNME</vendor>
+<vendorCode>DMQMBL60US</vendorCode>
+<name>Сухой шампунь для светлых волос QUICKIE.ME 96мл</name>
+<description><![CDATA[Сухой шампунь QUICKIE.ME на основе рисового крахмала впитывает жиры, скопление косметики и запахов, оставляя после себя лишь ощущение свежести.<br /><br /><ul><li data-list="bullet">Волосы будто заново родились, обрели объем и снова готовы выйти в свет</li><li data-list="bullet">Выбирай подходящий QUICKIE.ME в зависимости от цвета волос (светлые или темные) и предпочтений в нанесении</li><li data-list="bullet">За сохранность твоего маленького секрета отвечает прозрачная консистенция продукта: даже Шерлок не найдет улик!</li></ul>]]></description>
+<param name="Тип продукта">Сухой шампунь</param>
+<param name="Объем">Маленький</param>
+<param name="Тип волос">Прямые, Волнистые, Кудрявые, Курчавый волос</param>
+<param name="Структура волос">Тонкие, Средние, Густые</param>
+<param name="Результат">Рефреш</param>
+<param name="Бренд">QUICKIE.ME</param>
+<param name="Остаток">122</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
 <offer id="3_765240928442" available="true">
 <url>https://designmehair.ru/products/hair-care/tproduct/1152902096-765240928442-shampun-dlya-obema-volos-puffme-50ml</url>
 <price>1480</price>
 <currencyId>RUB</currencyId>
 <categoryId>3</categoryId>
-<sort>1</sort>
+<sort>2</sort>
 <picture>https://static.tildacdn.com/stor3033-3866-4430-b531-613131383362/55135957.jpg</picture>
 <picture>https://static.tildacdn.com/stor3630-6236-4536-a566-343363613465/91971019.png</picture>
 <picture>https://static.tildacdn.com/stor3164-6135-4065-b130-636438396165/50769551.png</picture>
@@ -2082,7 +2110,7 @@
 <price>1480</price>
 <currencyId>RUB</currencyId>
 <categoryId>3</categoryId>
-<sort>2</sort>
+<sort>3</sort>
 <picture>https://static.tildacdn.com/stor3562-6435-4830-b631-316164626431/34587433.jpg</picture>
 <picture>https://static.tildacdn.com/stor3038-3664-4137-a362-333031386632/85825740.jpg</picture>
 <picture>https://static.tildacdn.com/stor3937-3263-4465-a665-373461346664/86409275.png</picture>
@@ -2108,7 +2136,7 @@
 <price>1480</price>
 <currencyId>RUB</currencyId>
 <categoryId>3</categoryId>
-<sort>3</sort>
+<sort>4</sort>
 <picture>https://static.tildacdn.com/stor6362-6632-4462-b964-633033623066/39321440.jpg</picture>
 <picture>https://static.tildacdn.com/stor3231-3638-4834-a438-323738656463/63252566.png</picture>
 <picture>https://static.tildacdn.com/stor3433-3362-4266-a461-326261313438/26022683.jpg</picture>
@@ -2137,7 +2165,7 @@
 <price>1480</price>
 <currencyId>RUB</currencyId>
 <categoryId>3</categoryId>
-<sort>4</sort>
+<sort>5</sort>
 <picture>https://static.tildacdn.com/stor3833-3465-4133-b936-323630376333/91442829.jpg</picture>
 <picture>https://static.tildacdn.com/stor3734-3833-4731-b561-373063333363/19640783.jpg</picture>
 <picture>https://static.tildacdn.com/stor3732-6636-4664-a262-633237666439/68702736.png</picture>
@@ -2159,34 +2187,6 @@
 <param name="Структура волос">Средние, Густые</param>
 <param name="Бренд">GLOSS.ME</param>
 <param name="Остаток">0</param>
-<manufacturer_warranty></manufacturer_warranty>
-</offer>
-<offer id="3_253620863281" available="true">
-<url>https://designmehair.ru/products/tproduct/1086285961-253620863281-suhoi-shampun-dlya-svetlih-volos-quickie</url>
-<price>1860</price>
-<currencyId>RUB</currencyId>
-<categoryId>3</categoryId>
-<sort>5</sort>
-<picture>https://static.tildacdn.com/stor3633-3838-4662-b531-386437613031/78795355.jpg</picture>
-<picture>https://static.tildacdn.com/stor3932-3135-4366-b562-623532313365/43735072.jpg</picture>
-<picture>https://static.tildacdn.com/stor3561-6234-4663-b630-636536383231/14799624.png</picture>
-<picture>https://static.tildacdn.com/stor3564-3131-4162-b039-636566333632/49553700.png</picture>
-<picture>https://static.tildacdn.com/stor3531-3064-4562-b238-323163643235/45337001.jpg</picture>
-<picture>https://static.tildacdn.com/stor6665-6264-4031-a331-643162643263/69317436.jpg</picture>
-<picture>https://static.tildacdn.com/stor6365-3434-4038-b039-626435343463/72640790.jpg</picture>
-<picture>https://static.tildacdn.com/stor3130-3238-4831-b963-633565386666/25883033.jpg</picture>
-<picture>https://static.tildacdn.com/stor6539-3635-4130-a234-656463373931/56362176.jpg</picture>
-<vendor>DESIGNME</vendor>
-<vendorCode>DMQMBL60US</vendorCode>
-<name>Сухой шампунь для светлых волос QUICKIE.ME 96мл</name>
-<description><![CDATA[Сухой шампунь QUICKIE.ME на основе рисового крахмала впитывает жиры, скопление косметики и запахов, оставляя после себя лишь ощущение свежести.<br /><br /><ul><li data-list="bullet">Волосы будто заново родились, обрели объем и снова готовы выйти в свет</li><li data-list="bullet">Выбирай подходящий QUICKIE.ME в зависимости от цвета волос (светлые или темные) и предпочтений в нанесении</li><li data-list="bullet">За сохранность твоего маленького секрета отвечает прозрачная консистенция продукта: даже Шерлок не найдет улик!</li></ul>]]></description>
-<param name="Тип продукта">Сухой шампунь</param>
-<param name="Объем">Маленький</param>
-<param name="Тип волос">Прямые, Волнистые, Кудрявые, Курчавый волос</param>
-<param name="Структура волос">Тонкие, Средние, Густые</param>
-<param name="Результат">Рефреш</param>
-<param name="Бренд">QUICKIE.ME</param>
-<param name="Остаток">122</param>
 <manufacturer_warranty></manufacturer_warranty>
 </offer>
 <offer id="3_400313576571" available="true">
