@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2026-08-01 00:00">
+<shop>
+<name>OMA prototype</name>
+<company>OMA</company>
+<url>https://www.oma.by</url>
+<currencies>
+<currency id="BYN" rate="1" />
+</currencies>
+<categories>
+<category id="1">Декоративный камень</category>
+<category id="2">Формы для изготовления камня</category>
+<category id="3">Керамическая плитка</category>
+<category id="4">Фуга</category>
+<category id="5">Электроплуги</category>
+<category id="6">Замки</category>
+</categories>
+<offers>
+<offer id="1_2-261838" available="true">
+<url>https://www.oma.by/plita-oblitsovochnaya-betonnaya-kirpich-rimskiy-kr-001-belyy-0-83-m2-2-261838-p</url>
+<price>30.60</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<sort>1</sort>
+<picture>https://www.oma.by/upload/iblock/5b4/5b428e8e045ba24885f5bd285d9b6f09.jpg</picture>
+<vendor>OMA</vendor>
+<vendorCode>2.261838</vendorCode>
+<name>Плита бетон КР-001 Кирпич Римский белый (уп=0,83 м2 со швом; 0,65 м2 б/шва)</name>
+<description><![CDATA[<p><strong>Плита бетон КР-001 Кирпич Римский белый (уп=0,83 м2 со швом; 0,65 м2 б/шва)</strong> - товар из категории «Декоративный камень», который подходит для декоративной облицовки стен, акцентных зон и интерьерных поверхностей.</p><ul><li>Цвет: белый</li><li>Материал: бетон</li><li>Упаковка: 0,83 м2 со швом; 0,65 м2 б/шва</li></ul>]]></description>
+<param name="Тип товара">Декоративный камень</param>
+<param name="Код товара">2.261838</param>
+<param name="Упаковка">0,83 м2 со швом; 0,65 м2 б/шва</param>
+<param name="Цвет">белый</param>
+<param name="Материал">бетон</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="1_2-259513" available="true">
+<url>https://www.oma.by/kamen-dekorativnyy-turinskiy-kirpich-12p4-2-259513-p</url>
+<price>24.42</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<sort>2</sort>
+<picture>https://www.oma.by/upload/iblock/e17/e1789d5640b2ff863efe8f2054130db6.jpg</picture>
+<vendor>OMA</vendor>
+<vendorCode>2.259513</vendorCode>
+<name>Камень декоративный Туринский кирпич 12П4</name>
+<description><![CDATA[<p><strong>Камень декоративный Туринский кирпич 12П4</strong> - товар из категории «Декоративный камень», который подходит для декоративной облицовки стен, акцентных зон и интерьерных поверхностей.</p><p>Описание адаптировано для каталога мобильного приложения: коротко, понятно и без лишних технических блоков.</p>]]></description>
+<param name="Тип товара">Декоративный камень</param>
+<param name="Код товара">2.259513</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="1_2-261829" available="true">
+<url>https://www.oma.by/plita-oblitsovochnaya-betonnaya-slanets-sl-006-grafitovyy-0-54-m2-2-261829-p</url>
+<price>34.15</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<sort>3</sort>
+<picture>https://www.oma.by/upload/iblock/dad/dadba216a7c0f77de073df324ba2959a.jpg</picture>
+<vendor>OMA</vendor>
+<vendorCode>2.261829</vendorCode>
+<name>Плита бетон СЛ-006 Сланец графитовый (уп=0,54 м.кв.)</name>
+<description><![CDATA[<p><strong>Плита бетон СЛ-006 Сланец графитовый (уп=0,54 м.кв.)</strong> - товар из категории «Декоративный камень», который подходит для декоративной облицовки стен, акцентных зон и интерьерных поверхностей.</p><ul><li>Цвет: графитовый</li><li>Материал: бетон</li><li>Упаковка: 0,54 м.кв.</li></ul>]]></description>
+<param name="Тип товара">Декоративный камень</param>
+<param name="Код товара">2.261829</param>
+<param name="Упаковка">0,54 м.кв.</param>
+<param name="Цвет">графитовый</param>
+<param name="Материал">бетон</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="1_2-291851" available="true">
+<url>https://www.oma.by/plita-gipsovaya-dekor-gavana-1-belyy-g1bel-up-0-48-m-kv--2-291851-p</url>
+<price>22.92</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<sort>4</sort>
+<picture>https://www.oma.by/upload/iblock/b86/b868a5ea9f6121f2c13a395e5cdb862f.jpg</picture>
+<vendor>OMA</vendor>
+<vendorCode>2.291851</vendorCode>
+<name>Плита гипс Гавана 1 белый (Г1бел) (уп=0,48 м.кв.)</name>
+<description><![CDATA[<p><strong>Плита гипс Гавана 1 белый (Г1бел) (уп=0,48 м.кв.)</strong> - товар из категории «Декоративный камень», который подходит для декоративной облицовки стен, акцентных зон и интерьерных поверхностей.</p><ul><li>Цвет: белый</li><li>Материал: гипс</li><li>Упаковка: 0,48 м.кв.</li></ul>]]></description>
+<param name="Тип товара">Декоративный камень</param>
+<param name="Код товара">2.291851</param>
+<param name="Упаковка">0,48 м.кв.</param>
+<param name="Цвет">белый</param>
+<param name="Материал">гипс</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="1_2-351102" available="true">
+<url>https://www.oma.by/kamen-dekor-beton-vizantiyskiy-kirpich-07p4-up-1-m-kv-2-351102-p</url>
+<price>54.84</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<sort>5</sort>
+<picture>https://www.oma.by/upload/iblock/ddf/ddf018e3a739fa3b1a7663763c42a4e7.png</picture>
+<vendor>OMA</vendor>
+<vendorCode>2.351102</vendorCode>
+<name>Камень декоративный бетон Византийский кирпич 07П4, (уп=1 м.кв)</name>
+<description><![CDATA[<p><strong>Камень декоративный бетон Византийский кирпич 07П4, (уп=1 м.кв)</strong> - товар из категории «Декоративный камень», который подходит для декоративной облицовки стен, акцентных зон и интерьерных поверхностей.</p><ul><li>Материал: бетон</li><li>Упаковка: 1 м.кв</li></ul>]]></description>
+<param name="Тип товара">Декоративный камень</param>
+<param name="Код товара">2.351102</param>
+<param name="Упаковка">1 м.кв</param>
+<param name="Материал">бетон</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="1_2-291856" available="true">
+<url>https://www.oma.by/plita-gipsovaya-dekor-london-1-belyy-l1bel-up-0-62-m-kv--2-291856-p</url>
+<price>5.04</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<sort>6</sort>
+<picture>https://www.oma.by/upload/iblock/5b9/5b98846d45f454cd93b520587827a66c.jpg</picture>
+<vendor>OMA</vendor>
+<vendorCode>2.291856</vendorCode>
+<name>Плита гипс Лондон 1 белый (Л1бел) (уп=0,62 м.кв.)</name>
+<description><![CDATA[<p><strong>Плита гипс Лондон 1 белый (Л1бел) (уп=0,62 м.кв.)</strong> - товар из категории «Декоративный камень», который подходит для декоративной облицовки стен, акцентных зон и интерьерных поверхностей.</p><ul><li>Цвет: белый</li><li>Материал: гипс</li><li>Упаковка: 0,62 м.кв.</li></ul>]]></description>
+<param name="Тип товара">Декоративный камень</param>
+<param name="Код товара">2.291856</param>
+<param name="Упаковка">0,62 м.кв.</param>
+<param name="Цвет">белый</param>
+<param name="Материал">гипс</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="2_2-236219" available="true">
+<url>https://www.oma.by/formy-dlya-izgotovleniya-dekorativnogo-kamnya-skala-2-236219-p</url>
+<price>0</price>
+<currencyId>BYN</currencyId>
+<categoryId>2</categoryId>
+<sort>1</sort>
+<picture>https://www.oma.by/upload/iblock/9fb/9fb95a0dfbc9dac072c479483d08cd30.jpg</picture>
+<vendor>OMA</vendor>
+<vendorCode>2.236219</vendorCode>
+<name>Формы для изготовления декоративного камня Скала</name>
+<description><![CDATA[<p><strong>Формы для изготовления декоративного камня Скала</strong> - товар из категории «Формы для изготовления камня», который используется для самостоятельного изготовления декоративного камня и повторяемых элементов облицовки.</p><p>Описание адаптировано для каталога мобильного приложения: коротко, понятно и без лишних технических блоков.</p>]]></description>
+<param name="Тип товара">Формы для изготовления камня</param>
+<param name="Код товара">2.236219</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="2_2-236222" available="true">
+<url>https://www.oma.by/formy-dlya-izgotovleniya-dekorativnogo-kamnya-venetsiya-2-236222-p</url>
+<price>0</price>
+<currencyId>BYN</currencyId>
+<categoryId>2</categoryId>
+<sort>2</sort>
+<picture>https://www.oma.by/upload/iblock/5ca/5ca945d9274ed77679dd52586b583208.jpg</picture>
+<vendor>OMA</vendor>
+<vendorCode>2.236222</vendorCode>
+<name>Формы для изготовления декоративного камня Венеция</name>
+<description><![CDATA[<p><strong>Формы для изготовления декоративного камня Венеция</strong> - товар из категории «Формы для изготовления камня», который используется для самостоятельного изготовления декоративного камня и повторяемых элементов облицовки.</p><p>Описание адаптировано для каталога мобильного приложения: коротко, понятно и без лишних технических блоков.</p>]]></description>
+<param name="Тип товара">Формы для изготовления камня</param>
+<param name="Код товара">2.236222</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="2_2-236218" available="true">
+<url>https://www.oma.by/formy-dlya-izgotovleniya-dekorativnogo-kamnya-peschanik-2-236218-p</url>
+<price>0</price>
+<currencyId>BYN</currencyId>
+<categoryId>2</categoryId>
+<sort>3</sort>
+<picture>https://www.oma.by/upload/iblock/4fd/4fd83a831e31588cc686f85edddeb327.jpg</picture>
+<vendor>OMA</vendor>
+<vendorCode>2.236218</vendorCode>
+<name>Формы для изготовления декоративного камня Песчаник</name>
+<description><![CDATA[<p><strong>Формы для изготовления декоративного камня Песчаник</strong> - товар из категории «Формы для изготовления камня», который используется для самостоятельного изготовления декоративного камня и повторяемых элементов облицовки.</p><p>Описание адаптировано для каталога мобильного приложения: коротко, понятно и без лишних технических блоков.</p>]]></description>
+<param name="Тип товара">Формы для изготовления камня</param>
+<param name="Код товара">2.236218</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="3_2-397526" available="true">
+<url>https://www.oma.by/plitka-studio-3-stena-300x600x8-5-oao-keramin-2-397526-p</url>
+<price>26.87</price>
+<currencyId>BYN</currencyId>
+<categoryId>3</categoryId>
+<sort>1</sort>
+<picture>https://www.oma.by/upload/iblock/2e1/2e1bd8b62f7bfc7e8fd2e1ec9de23203.JPG</picture>
+<picture>https://www.oma.by/upload/iblock/e25/e258957c26e3bf0019f675ce9aaa6149.jpg</picture>
+<vendor>OMA</vendor>
+<vendorCode>2.397526</vendorCode>
+<name>Плитка Студио 3 стена 300x600x8,5</name>
+<description><![CDATA[<p><strong>Плитка Студио 3 стена 300x600x8,5</strong> - товар из категории «Керамическая плитка», который подходит для отделки стен или пола в жилых и коммерческих помещениях.</p><ul><li>Размер: 300x600x8,5</li><li>Материал: керамика</li></ul>]]></description>
+<param name="Тип товара">Керамическая плитка</param>
+<param name="Код товара">2.397526</param>
+<param name="Размер">300x600x8,5</param>
+<param name="Материал">керамика</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="3_2-467840" available="true">
+<url>https://www.oma.by/plitka-klint-maksi-keramogr-300x300-belyy-6532-0006-1001-lasselsberger-2-467840-p</url>
+<price>32.59</price>
+<currencyId>BYN</currencyId>
+<categoryId>3</categoryId>
+<sort>2</sort>
+<picture>https://www.oma.by/upload/iblock/b32/qfbt3ya9aknygl4qd8vu1ppftow4nrot.jpg</picture>
+<vendor>OMA</vendor>
+<vendorCode>2.467840</vendorCode>
+<name>Плитка Клинт Макси керамогр 300x300 (белый) 6532-0006-1001 Lasselsberger</name>
+<description><![CDATA[<p><strong>Плитка Клинт Макси керамогр 300x300 (белый) 6532-0006-1001 Lasselsberger</strong> - товар из категории «Керамическая плитка», который подходит для отделки стен или пола в жилых и коммерческих помещениях.</p><ul><li>Бренд: Lasselsberger</li><li>Размер: 300x300</li><li>Цвет: белый</li><li>Материал: керамогранит</li></ul>]]></description>
+<param name="Тип товара">Керамическая плитка</param>
+<param name="Код товара">2.467840</param>
+<param name="Бренд">Lasselsberger</param>
+<param name="Размер">300x300</param>
+<param name="Цвет">белый</param>
+<param name="Материал">керамогранит</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="3_2-307664" available="true">
+<url>https://www.oma.by/plitka-statuario-sten-belyy-300x600x9-oao-berezastroymaterialy-2-307664-p</url>
+<price>22.35</price>
+<currencyId>BYN</currencyId>
+<categoryId>3</categoryId>
+<sort>3</sort>
+<picture>https://www.oma.by/upload/iblock/63b/63ba915f8406567b52507b254ef2ed3f.jpg</picture>
+<picture>https://www.oma.by/upload/iblock/4b5/4b50e4afed9061e328cea494f1a4d86c.png</picture>
+<vendor>OMA</vendor>
+<vendorCode>2.307664</vendorCode>
+<name>Плитка Statuario керамич стен 300x600x9 (белый) Beryoza Ceramica</name>
+<description><![CDATA[<p><strong>Плитка Statuario керамич стен 300x600x9 (белый) Beryoza Ceramica</strong> - товар из категории «Керамическая плитка», который подходит для отделки стен или пола в жилых и коммерческих помещениях.</p><ul><li>Бренд: Beryoza Ceramica</li><li>Размер: 300x600x9</li><li>Цвет: белый</li><li>Материал: керамика</li></ul>]]></description>
+<param name="Тип товара">Керамическая плитка</param>
+<param name="Код товара">2.307664</param>
+<param name="Бренд">Beryoza Ceramica</param>
+<param name="Размер">300x600x9</param>
+<param name="Цвет">белый</param>
+<param name="Материал">керамика</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="3_2-289405" available="true">
+<url>https://www.oma.by/plitka-eklips-friz-sv-seryy-54x500-oao-berezastroymaterialy-2-289405-p</url>
+<price>2.29</price>
+<currencyId>BYN</currencyId>
+<categoryId>3</categoryId>
+<sort>4</sort>
+<picture>https://www.oma.by/upload/iblock/6cd/6cdfef3f1b5765373b07086aebd92371.jpg</picture>
+<picture>https://www.oma.by/upload/iblock/4b5/4b50e4afed9061e328cea494f1a4d86c.png</picture>
+<vendor>OMA</vendor>
+<vendorCode>2.289405</vendorCode>
+<name>Плитка Эклипс керамич фриз 54x500x8 (св-серый) Beryoza Ceramica</name>
+<description><![CDATA[<p><strong>Плитка Эклипс керамич фриз 54x500x8 (св-серый) Beryoza Ceramica</strong> - товар из категории «Керамическая плитка», который подходит для отделки стен или пола в жилых и коммерческих помещениях.</p><ul><li>Бренд: Beryoza Ceramica</li><li>Размер: 54x500x8</li><li>Цвет: светло-серый</li><li>Материал: керамика</li></ul>]]></description>
+<param name="Тип товара">Керамическая плитка</param>
+<param name="Код товара">2.289405</param>
+<param name="Бренд">Beryoza Ceramica</param>
+<param name="Размер">54x500x8</param>
+<param name="Цвет">светло-серый</param>
+<param name="Материал">керамика</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="3_2-306873" available="true">
+<url>https://www.oma.by/plitka-kliff-r-keramogranit-600x1200x12-oao-keramin-2-306873-p</url>
+<price>96.75</price>
+<currencyId>BYN</currencyId>
+<categoryId>3</categoryId>
+<sort>5</sort>
+<picture>https://www.oma.by/upload/iblock/7c9/7c96dae4b07840519692d5307d0bad9a.jpg</picture>
+<picture>https://www.oma.by/upload/iblock/e25/e258957c26e3bf0019f675ce9aaa6149.jpg</picture>
+<vendor>OMA</vendor>
+<vendorCode>2.306873</vendorCode>
+<name>Плитка Клифф-Р керамогр 600x1200 (серый) Керамин</name>
+<description><![CDATA[<p><strong>Плитка Клифф-Р керамогр 600x1200 (серый) Керамин</strong> - товар из категории «Керамическая плитка», который подходит для отделки стен или пола в жилых и коммерческих помещениях.</p><ul><li>Бренд: Керамин</li><li>Размер: 600x1200</li><li>Цвет: серый</li><li>Материал: керамогранит</li></ul>]]></description>
+<param name="Тип товара">Керамическая плитка</param>
+<param name="Код товара">2.306873</param>
+<param name="Бренд">Керамин</param>
+<param name="Размер">600x1200</param>
+<param name="Цвет">серый</param>
+<param name="Материал">керамогранит</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="3_2-305714" available="true">
+<url>https://www.oma.by/plitka-energy-pol-keramogranit-relef-rekt-seryy-448x898-16655-ooo-fkz-2-305714-p</url>
+<price>17.21</price>
+<currencyId>BYN</currencyId>
+<categoryId>3</categoryId>
+<sort>6</sort>
+<picture>https://www.oma.by/upload/iblock/137/1379bf17482708382d26f8c698999a74.png</picture>
+<picture>https://www.oma.by/upload/iblock/18f/18f02604374f2426f22a7bc9a40b9629.jpg</picture>
+<vendor>OMA</vendor>
+<vendorCode>2.305714</vendorCode>
+<name>Плитка Energy керамогр рельеф рект 448x898 (сер) 16655 Cersanit</name>
+<description><![CDATA[<p><strong>Плитка Energy керамогр рельеф рект 448x898 (сер) 16655 Cersanit</strong> - товар из категории «Керамическая плитка», который подходит для отделки стен или пола в жилых и коммерческих помещениях.</p><ul><li>Бренд: Cersanit</li><li>Размер: 448x898</li><li>Материал: керамогранит</li></ul>]]></description>
+<param name="Тип товара">Керамическая плитка</param>
+<param name="Код товара">2.305714</param>
+<param name="Бренд">Cersanit</param>
+<param name="Размер">448x898</param>
+<param name="Материал">керамогранит</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="4_2-207354" available="true">
+<url>https://www.oma.by/fuga-atlas-lyuks-035-seryy-2-kg-2-207354-p</url>
+<price>7.53</price>
+<currencyId>BYN</currencyId>
+<categoryId>4</categoryId>
+<sort>1</sort>
+<picture>https://www.oma.by/upload/iblock/336/33622c236b59d9074071a00e4084a1b5.png</picture>
+<picture>https://www.oma.by/upload/iblock/f4a/f4a2ded818416ab7c48f7bc7552ca8e1.png</picture>
+<vendor>OMA</vendor>
+<vendorCode>2.207354</vendorCode>
+<name>Фуга Тайфун ATLAS Люкс 035 серый, 2 кг</name>
+<description><![CDATA[<p><strong>Фуга Тайфун ATLAS Люкс 035 серый, 2 кг</strong> - товар из категории «Фуга», который предназначена для аккуратного заполнения швов между плиткой и защиты облицовки от влаги и загрязнений.</p><ul><li>Бренд: ATLAS</li><li>Цвет: серый</li><li>Вес: 2 кг</li></ul>]]></description>
+<param name="Тип товара">Фуга</param>
+<param name="Код товара">2.207354</param>
+<param name="Бренд">ATLAS</param>
+<param name="Вес">2 кг</param>
+<param name="Цвет">серый</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="4_2-140414" available="true">
+<url>https://www.oma.by/fuga-ceresit-ce-33-super-01-belaya-2-kg-2-140414-p</url>
+<price>5.89</price>
+<currencyId>BYN</currencyId>
+<categoryId>4</categoryId>
+<sort>2</sort>
+<picture>https://www.oma.by/upload/iblock/453/4532576aa3acf65fb8d527d8e6da6bf8.jpg</picture>
+<vendor>OMA</vendor>
+<vendorCode>2.140414</vendorCode>
+<name>Фуга Ceresit CE-33 super, 01 белая, 2 кг</name>
+<description><![CDATA[<p><strong>Фуга Ceresit CE-33 super, 01 белая, 2 кг</strong> - товар из категории «Фуга», который предназначена для аккуратного заполнения швов между плиткой и защиты облицовки от влаги и загрязнений.</p><ul><li>Бренд: Ceresit</li><li>Цвет: белый</li><li>Вес: 2 кг</li></ul>]]></description>
+<param name="Тип товара">Фуга</param>
+<param name="Код товара">2.140414</param>
+<param name="Бренд">Ceresit</param>
+<param name="Вес">2 кг</param>
+<param name="Цвет">белый</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="4_2-156827" available="true">
+<url>https://www.oma.by/fuga-ceresit-ce-40-aquastatic-07-seraya-2-kg-2-156827-p</url>
+<price>9.85</price>
+<currencyId>BYN</currencyId>
+<categoryId>4</categoryId>
+<sort>3</sort>
+<picture>https://www.oma.by/upload/iblock/af1/af18af17b9d69a89b5ebfd5f72b90c4c.png</picture>
+<vendor>OMA</vendor>
+<vendorCode>2.156827</vendorCode>
+<name>Фуга Ceresit CЕ-40 aquastatic 07 серая, 2 кг</name>
+<description><![CDATA[<p><strong>Фуга Ceresit CЕ-40 aquastatic 07 серая, 2 кг</strong> - товар из категории «Фуга», который предназначена для аккуратного заполнения швов между плиткой и защиты облицовки от влаги и загрязнений.</p><ul><li>Бренд: Ceresit</li><li>Цвет: серый</li><li>Вес: 2 кг</li></ul>]]></description>
+<param name="Тип товара">Фуга</param>
+<param name="Код товара">2.156827</param>
+<param name="Бренд">Ceresit</param>
+<param name="Вес">2 кг</param>
+<param name="Цвет">серый</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="4_2-140594" available="true">
+<url>https://www.oma.by/fuga-ceresit-ce-33-super-07-seraya-2-kg-2-140594-p</url>
+<price>5.64</price>
+<currencyId>BYN</currencyId>
+<categoryId>4</categoryId>
+<sort>4</sort>
+<picture>https://www.oma.by/upload/iblock/6f1/6f19fe1b357ff76798caa0befd0a74f5.jpg</picture>
+<vendor>OMA</vendor>
+<vendorCode>2.140594</vendorCode>
+<name>Фуга Ceresit CE-33 super, 07 серая, 2 кг</name>
+<description><![CDATA[<p><strong>Фуга Ceresit CE-33 super, 07 серая, 2 кг</strong> - товар из категории «Фуга», который предназначена для аккуратного заполнения швов между плиткой и защиты облицовки от влаги и загрязнений.</p><ul><li>Бренд: Ceresit</li><li>Цвет: серый</li><li>Вес: 2 кг</li></ul>]]></description>
+<param name="Тип товара">Фуга</param>
+<param name="Код товара">2.140594</param>
+<param name="Бренд">Ceresit</param>
+<param name="Вес">2 кг</param>
+<param name="Цвет">серый</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="4_2-422501" available="true">
+<url>https://www.oma.by/fuga-epoksidnaya-kerateks-s-76-seryy-london-2-5-kg-2-422501-p</url>
+<price>155.15</price>
+<currencyId>BYN</currencyId>
+<categoryId>4</categoryId>
+<sort>5</sort>
+<picture>https://www.oma.by/upload/iblock/60c/iu9tq4ifu9dlb1889wpajw6loh1yjnyr.jpg</picture>
+<vendor>OMA</vendor>
+<vendorCode>2.422501</vendorCode>
+<name>Фуга эпоксидная Kerateks С.76 серый Лондон 2,5 кг</name>
+<description><![CDATA[<p><strong>Фуга эпоксидная Kerateks С.76 серый Лондон 2,5 кг</strong> - товар из категории «Фуга», который предназначена для аккуратного заполнения швов между плиткой и защиты облицовки от влаги и загрязнений.</p><ul><li>Бренд: Kerateks</li><li>Цвет: серый</li><li>Основа: эпоксидная</li><li>Вес: 2,5 кг</li></ul>]]></description>
+<param name="Тип товара">Фуга</param>
+<param name="Код товара">2.422501</param>
+<param name="Бренд">Kerateks</param>
+<param name="Вес">2,5 кг</param>
+<param name="Цвет">серый</param>
+<param name="Основа">эпоксидная</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="4_2-429539" available="true">
+<url>https://www.oma.by/zatirka-dlya-shvov-kesto-saumalaasti-10-belyy-3kg-2-429539-p</url>
+<price>1.65</price>
+<currencyId>BYN</currencyId>
+<categoryId>4</categoryId>
+<sort>6</sort>
+<picture>https://www.oma.by/upload/iblock/600/50vigw69fyunksi1z4sb191f7w3cegag.jpg</picture>
+<vendor>OMA</vendor>
+<vendorCode>2.429539</vendorCode>
+<name>Затирка для швов Kesto Saumalaasti 10 белый 3кг</name>
+<description><![CDATA[<p><strong>Затирка для швов Kesto Saumalaasti 10 белый 3кг</strong> - товар из категории «Фуга», который предназначена для аккуратного заполнения швов между плиткой и защиты облицовки от влаги и загрязнений.</p><ul><li>Бренд: Kesto</li><li>Цвет: белый</li><li>Вес: 3кг</li></ul>]]></description>
+<param name="Тип товара">Фуга</param>
+<param name="Код товара">2.429539</param>
+<param name="Бренд">Kesto</param>
+<param name="Вес">3кг</param>
+<param name="Цвет">белый</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="5_1-127154" available="true">
+<url>https://www.oma.by/lebedka-selskokhozyaystvennaya-ls-100a-1-127154-p</url>
+<price>0</price>
+<currencyId>BYN</currencyId>
+<categoryId>5</categoryId>
+<sort>1</sort>
+<picture>https://www.oma.by/upload/iblock/a60/a608dcfdfe8a2d3a1e6058a2ba879cb0.jpg</picture>
+<vendor>OMA</vendor>
+<vendorCode>1.127154</vendorCode>
+<name>Лебедка сельскохозяйственная ЛС 100А</name>
+<description><![CDATA[<p><strong>Лебедка сельскохозяйственная ЛС 100А</strong> - товар из категории «Электроплуги», который помогает механизировать садовые и хозяйственные работы на участке.</p><p>Описание адаптировано для каталога мобильного приложения: коротко, понятно и без лишних технических блоков.</p>]]></description>
+<param name="Тип товара">Электроплуги</param>
+<param name="Код товара">1.127154</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="6_1-219641" available="true">
+<url>https://www.oma.by/zamok-vreznoy-knopochnyy-zv4d-03-08-2-2-chernyy-polimer-1-219641-p</url>
+<price>73.59</price>
+<currencyId>BYN</currencyId>
+<categoryId>6</categoryId>
+<sort>1</sort>
+<picture>https://www.oma.by/upload/iblock/0fb/0fbf12d8112a74cfcf178a13cb413e8f.jpg</picture>
+<vendor>OMA</vendor>
+<vendorCode>1.219641</vendorCode>
+<name>Замок врезной кнопочный ЗВ4Д-03-08/2.2 черный полимер</name>
+<description><![CDATA[<p><strong>Замок врезной кнопочный ЗВ4Д-03-08/2.2 черный полимер</strong> - товар из категории «Замки», который подходит для комплектации дверей, мебели или хозяйственных конструкций.</p><ul><li>Цвет: черный</li></ul>]]></description>
+<param name="Тип товара">Замки</param>
+<param name="Код товара">1.219641</param>
+<param name="Цвет">черный</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="6_1-156516" available="true">
+<url>https://www.oma.by/vnutrenniy-mekhanizm-2070-70-khrom-nora-m-1-156516-p</url>
+<price>21.67</price>
+<currencyId>BYN</currencyId>
+<categoryId>6</categoryId>
+<sort>2</sort>
+<picture>https://www.oma.by/upload/iblock/154/15426b0cbcaddd00b64fad0a2a1c1b70.jpg</picture>
+<vendor>OMA</vendor>
+<vendorCode>1.156516</vendorCode>
+<name>Внутренний механизм 2070-70 хром NORA-M</name>
+<description><![CDATA[<p><strong>Внутренний механизм 2070-70 хром NORA-M</strong> - товар из категории «Замки», который подходит для комплектации дверей, мебели или хозяйственных конструкций.</p><ul><li>Бренд: NORA-M</li><li>Цвет: хром</li></ul>]]></description>
+<param name="Тип товара">Замки</param>
+<param name="Код товара">1.156516</param>
+<param name="Бренд">NORA-M</param>
+<param name="Цвет">хром</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="6_1-173991" available="true">
+<url>https://www.oma.by/zamok-navesnoy-zn-409-50-mm-1-173991-p</url>
+<price>14.50</price>
+<currencyId>BYN</currencyId>
+<categoryId>6</categoryId>
+<sort>3</sort>
+<picture>https://www.oma.by/upload/iblock/b9f/cr0zko3pomyvpzqcfmnlmwnurm6w69dg.jpg</picture>
+<vendor>OMA</vendor>
+<vendorCode>1.173991</vendorCode>
+<name>Замок навесной ЗН-409-50 мм</name>
+<description><![CDATA[<p><strong>Замок навесной ЗН-409-50 мм</strong> - товар из категории «Замки», который подходит для комплектации дверей, мебели или хозяйственных конструкций.</p><p>Описание адаптировано для каталога мобильного приложения: коротко, понятно и без лишних технических блоков.</p>]]></description>
+<param name="Тип товара">Замки</param>
+<param name="Код товара">1.173991</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="6_1-315777" available="true">
+<url>https://www.oma.by/zamok-mebelnyy-138-aks-1-315777-p</url>
+<price>2.79</price>
+<currencyId>BYN</currencyId>
+<categoryId>6</categoryId>
+<sort>4</sort>
+<picture>https://www.oma.by/upload/iblock/340/340528d51af9403693d1d865a8da017c.jpg</picture>
+<vendor>OMA</vendor>
+<vendorCode>1.315777</vendorCode>
+<name>Замок мебельный 138, AKS</name>
+<description><![CDATA[<p><strong>Замок мебельный 138, AKS</strong> - товар из категории «Замки», который подходит для комплектации дверей, мебели или хозяйственных конструкций.</p><ul><li>Бренд: AKS</li></ul>]]></description>
+<param name="Тип товара">Замки</param>
+<param name="Код товара">1.315777</param>
+<param name="Бренд">AKS</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="6_1-378415" available="true">
+<url>https://www.oma.by/zamok-vreznoy-n108-85-m-grafit-1-378415-p</url>
+<price>128.29</price>
+<currencyId>BYN</currencyId>
+<categoryId>6</categoryId>
+<sort>5</sort>
+<picture>https://www.oma.by/upload/iblock/2fb/e2z22ywkdqzt0n9yblj7cdewpfys2276.jpg</picture>
+<vendor>OMA</vendor>
+<vendorCode>1.378415</vendorCode>
+<name>Замок врезной N108-85 M (графит)</name>
+<description><![CDATA[<p><strong>Замок врезной N108-85 M (графит)</strong> - товар из категории «Замки», который подходит для комплектации дверей, мебели или хозяйственных конструкций.</p><ul><li>Цвет: графит</li></ul>]]></description>
+<param name="Тип товара">Замки</param>
+<param name="Код товара">1.378415</param>
+<param name="Цвет">графит</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="6_1-210734" available="true">
+<url>https://www.oma.by/zamok-navesnoy-zn-402-80-mm-3kl-nora-m-1-210734-p</url>
+<price>15.16</price>
+<currencyId>BYN</currencyId>
+<categoryId>6</categoryId>
+<sort>6</sort>
+<picture>https://www.oma.by/upload/iblock/69c/69cc04c12caf2081a00ff135b2bcc091.jpg</picture>
+<vendor>OMA</vendor>
+<vendorCode>1.210734</vendorCode>
+<name>Замок навесной ЗН-402-80 мм (3кл.) NORA-M</name>
+<description><![CDATA[<p><strong>Замок навесной ЗН-402-80 мм (3кл.) NORA-M</strong> - товар из категории «Замки», который подходит для комплектации дверей, мебели или хозяйственных конструкций.</p><ul><li>Бренд: NORA-M</li></ul>]]></description>
+<param name="Тип товара">Замки</param>
+<param name="Код товара">1.210734</param>
+<param name="Бренд">NORA-M</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
