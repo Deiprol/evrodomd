@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2026-09-22 00:00">
+<shop>
+<name>Bikeland prototype</name>
+<company>Байк Ленд</company>
+<url>https://bikeland.ru</url>
+<currencies>
+<currency id="RUB" rate="1" />
+</currencies>
+<categories>
+<category id="1">Мотошлемы</category>
+<category id="2">Мотокуртки</category>
+<category id="3">Мотоперчатки</category>
+<category id="4">Мотоботы</category>
+<category id="5">Мотошины</category>
+<category id="6">Моторное масло</category>
+</categories>
+<offers>
+<offer id="1_ff353-rapid-ii-solid" available="true">
+<url>https://bikeland.ru/catalog/motoshlemy/motoshlemy_1/ls2-motoshlem-ff353-rapid-ii-solid/</url>
+<price>7150</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>1</sort>
+<picture>https://bikeland.ru/upload/iblock/5b6/bf8t4zlevk7olm8wysx5qrohnj26akmj/1e5c460e_20c9_11ee_a702_00505697144c_7ab99490_dbc5_11ee_a7fa_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/3cf/rne4umxvwegldbzrcc1dprz7rndg4h53/1e5c460e_20c9_11ee_a702_00505697144c_7ab994c4_dbc5_11ee_a7fa_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/be3/v8fwvlq3ccgo18ph5dkb2v4dyq5efyzm/1e5c460e_20c9_11ee_a702_00505697144c_7ab994f8_dbc5_11ee_a7fa_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/7db/dsxb9rbqcozkfd473403dcmd55xehwek/1e5c460e_20c9_11ee_a702_00505697144c_7ab9952c_dbc5_11ee_a7fa_00505697144c.jpg</picture>
+<vendor>LS2</vendor>
+<vendorCode>FF353 RAPID II SOLID</vendorCode>
+<name>LS2 Мотошлем FF353 RAPID II SOLID</name>
+<description><![CDATA[<p><strong>LS2 Мотошлем FF353 RAPID II SOLID</strong> - LS2 FF353 RAPID II – новое поколение Rapid с сертификацией ECE R22.06.</p><ul><li>Бренд: LS2</li><li>Цвет: серый матовый, белый, черный, черный матовый</li><li>Страна происхождения: КИТАЙ</li><li>Тип товара: Интеграл</li></ul>]]></description>
+<param name="Категория">Мотошлемы</param>
+<param name="Бренд">LS2</param>
+<param name="Артикул">FF353 RAPID II SOLID</param>
+<param name="Цвет">серый матовый, белый, черный, черный матовый</param>
+<param name="Страна происхождения">КИТАЙ</param>
+<param name="Тип товара">Интеграл</param>
+<param name="Вид товара">Мотошлемы</param>
+<param name="Тип применяемости">дорожная/спортивная</param>
+<param name="Содержание этикетки">шлем, чехол</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="1_neotec-iii-candy" available="true">
+<url>https://bikeland.ru/catalog/motoshlemy/motoshlemy_1/shoei-motoshlem-neotec-iii-candy/</url>
+<price>82560</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>2</sort>
+<picture>https://bikeland.ru/upload/iblock/feb/9rmm24xx1c5pzhmt470ohp0ldgsr90hx/1756f91d_2fad_11ee_a717_00505697144c_ac1ef4ab_5d71_11f0_a9fe_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/345/pjt27ag3f9qenlj1r4tpdpp6ti4p9v6o/1756f91d_2fad_11ee_a717_00505697144c_ac42bcc1_5d71_11f0_a9fe_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/6f7/1xj6uefzdzoou6v2ldzu41y0gvxugaus/1756f91d_2fad_11ee_a717_00505697144c_ac67ac5f_5d71_11f0_a9fe_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/e56/eed6pwalv706b5f71r2tx8vlldtfaqeo/1756f91d_2fad_11ee_a717_00505697144c_ac67aca5_5d71_11f0_a9fe_00505697144c.jpg</picture>
+<vendor>SHOEI</vendor>
+<vendorCode>NEOTEC III CANDY</vendorCode>
+<name>SHOEI Мотошлем NEOTEC III CANDY</name>
+<description><![CDATA[<p><strong>SHOEI Мотошлем NEOTEC III CANDY</strong> - SHOEI Мотошлем NEOTEC III CANDY - товар из категории «Мотошлемы», который подходит для городских поездок, трассы и ежедневной защиты головы райдера.</p><ul><li>Бренд: SHOEI</li><li>Цвет: светло-серебристый, черный матовый, синий матовый металлик, антрацит металлик, темно-серый матовый, гранатовый металлик</li><li>Страна происхождения: ЯПОНИЯ</li><li>Тип товара: Модуляр</li></ul>]]></description>
+<param name="Категория">Мотошлемы</param>
+<param name="Бренд">SHOEI</param>
+<param name="Артикул">NEOTEC III CANDY</param>
+<param name="Цвет">светло-серебристый, черный матовый, синий матовый металлик, антрацит металлик, темно-серый матовый, гранатовый металлик</param>
+<param name="Страна происхождения">ЯПОНИЯ</param>
+<param name="Тип товара">Модуляр</param>
+<param name="Вид товара">Мотошлемы</param>
+<param name="Тип применяемости">туристическая</param>
+<param name="Содержание этикетки">шлем, пинлок, дефлектор, чехол, мануалы, 2 наклейки, силиконовое масло, 2 пластиковых крепления пинлока</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="1_neotec-iii-plain" available="true">
+<url>https://bikeland.ru/catalog/motoshlemy/motoshlemy_1/shoei-motoshlem-neotec-iii/</url>
+<price>76500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>3</sort>
+<picture>https://bikeland.ru/upload/iblock/740/rhrcg29tcqh53vtjaorf4p1kd0xtfd8b/af18dbf6_02fa_11ee_a6dc_00505697144c_3a54210d_3c0f_11ee_a727_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/efb/ax2zerqq9z2xc6x7jaq12gtaqc47332a/af18dbf6_02fa_11ee_a6dc_00505697144c_1554b279_3c0f_11ee_a727_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/b79/cljeglceuqe2ce5nhe2r1rdk1mtmrtil/af18dbf6_02fa_11ee_a6dc_00505697144c_1554b2ad_3c0f_11ee_a727_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/aa2/m1brf37oqdivtfb815jn63apgnyvrnpi/af18dbf6_02fa_11ee_a6dc_00505697144c_1554b2e1_3c0f_11ee_a727_00505697144c.jpg</picture>
+<vendor>SHOEI</vendor>
+<vendorCode>NEOTEC III PLAIN</vendorCode>
+<name>SHOEI Мотошлем NEOTEC III PLAIN</name>
+<description><![CDATA[<p><strong>SHOEI Мотошлем NEOTEC III PLAIN</strong> - SHOEI Мотошлем NEOTEC III PLAIN - товар из категории «Мотошлемы», который подходит для городских поездок, трассы и ежедневной защиты головы райдера.</p><ul><li>Бренд: SHOEI</li><li>Цвет: черный, белый</li><li>Страна происхождения: ЯПОНИЯ</li><li>Тип товара: Модуляр</li></ul>]]></description>
+<param name="Категория">Мотошлемы</param>
+<param name="Бренд">SHOEI</param>
+<param name="Артикул">NEOTEC III PLAIN</param>
+<param name="Цвет">черный, белый</param>
+<param name="Страна происхождения">ЯПОНИЯ</param>
+<param name="Тип товара">Модуляр</param>
+<param name="Вид товара">Мотошлемы</param>
+<param name="Тип применяемости">туристическая</param>
+<param name="Содержание этикетки">шлем, пинлок, дефлектор, чехол, мануалы, 2 наклейки, силиконовое масло, 2 пластиковых крепления пинлока</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="1_nxr-2-beaut" available="true">
+<url>https://bikeland.ru/catalog/motoshlemy/motoshlemy_1/shoei-motoshlem-nxr-2-beaut/</url>
+<price>51840</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>4</sort>
+<picture>https://bikeland.ru/upload/iblock/4da/ee852xkg1w44ffwnh5erscm6fx07goku/7914de03_7b3f_11ef_a8ce_00505697144c_6cefce0f_a39e_11ef_a904_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/cca/grzf5u5yjt4dhrfbj4i34vk9z8ql9cde/7914de03_7b3f_11ef_a8ce_00505697144c_6cefd137_a39e_11ef_a904_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/102/3t9vg5tyz41r0uzpmcd20s02xxm5cmgm/7914de03_7b3f_11ef_a8ce_00505697144c_6cefd657_a39e_11ef_a904_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/f7c/hu4teghyj6a7edv2v4edh419umit9l82/7914de03_7b3f_11ef_a8ce_00505697144c_6cefdc2c_a39e_11ef_a904_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/94c/5zhg3q64js6ivxsq4hgcs0jjm2z502id/7914de03_7b3f_11ef_a8ce_00505697144c_6cefdd80_a39e_11ef_a904_00505697144c.jpg</picture>
+<vendor>SHOEI</vendor>
+<vendorCode>NXR 2 BEAUT</vendorCode>
+<name>SHOEI Мотошлем NXR 2 BEAUT</name>
+<description><![CDATA[<p><strong>SHOEI Мотошлем NXR 2 BEAUT</strong> - Шлем Shoei NXR 2 является преемником серий XR и NXR – лидерами продаж линейки полнолицевых шлемов Shoei.
+Полностью модернизированный NXR 2 является уникальным по дизайну, функциональности, безопасности и комфорту.</p><ul><li>Бренд: SHOEI</li><li>Цвет: красно-бело-черный, желто-черно-белый, бело-черно-серебристый</li><li>Страна происхождения: ЯПОНИЯ</li><li>Тип товара: Интеграл</li></ul>]]></description>
+<param name="Категория">Мотошлемы</param>
+<param name="Бренд">SHOEI</param>
+<param name="Артикул">NXR 2 BEAUT</param>
+<param name="Цвет">красно-бело-черный, желто-черно-белый, бело-черно-серебристый</param>
+<param name="Страна происхождения">ЯПОНИЯ</param>
+<param name="Тип товара">Интеграл</param>
+<param name="Вид товара">Мотошлемы</param>
+<param name="Тип применяемости">дорожная/спортивная</param>
+<param name="Содержание этикетки">шлем, пинлок, дефлектор, ветровой подбородочный щиток, чехол, мануалы, 2 наклейки, силиконовое масло, 2 пластиковых крепления</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="1_nxr-2-candy" available="true">
+<url>https://bikeland.ru/catalog/motoshlemy/motoshlemy_1/shoei-motoshlem-nxr-2-candy/</url>
+<price>63910</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>5</sort>
+<picture>https://bikeland.ru/upload/iblock/2db/o759y6cu4a92pzfxjtujev4wqq4frid6/5183eb96_37ea_11ec_a47f_00505697fbcd_0c2f570f_3801_11ec_a47f_00505697fbcd.png</picture>
+<picture>https://bikeland.ru/upload/iblock/23b/j63ck3dxzhcbg4hi4cntvmhsmj06xdra/5183eb96_37ea_11ec_a47f_00505697fbcd_0c2f5710_3801_11ec_a47f_00505697fbcd.png</picture>
+<picture>https://bikeland.ru/upload/iblock/cfe/u9jv116mbkivnn6u4j4hgpzy5yuc521r/5183eb96_37ea_11ec_a47f_00505697fbcd_0c2f5711_3801_11ec_a47f_00505697fbcd.png</picture>
+<vendor>SHOEI</vendor>
+<vendorCode>NXR 2 CANDY</vendorCode>
+<name>SHOEI Мотошлем NXR 2 CANDY</name>
+<description><![CDATA[<p><strong>SHOEI Мотошлем NXR 2 CANDY</strong> - Шлем Shoei NXR 2 является преемником серий XR и NXR – лидерами продаж линейки полнолицевых шлемов Shoei.
+Полностью модернизированный NXR 2 является уникальным по дизайну, функциональности, безопасности и комфорту.</p><ul><li>Бренд: SHOEI</li><li>Цвет: черный матовый, синий матовый металлик</li><li>Страна происхождения: ЯПОНИЯ</li><li>Тип товара: Интеграл</li></ul>]]></description>
+<param name="Категория">Мотошлемы</param>
+<param name="Бренд">SHOEI</param>
+<param name="Артикул">NXR 2 CANDY</param>
+<param name="Цвет">черный матовый, синий матовый металлик</param>
+<param name="Страна происхождения">ЯПОНИЯ</param>
+<param name="Тип товара">Интеграл</param>
+<param name="Вид товара">Мотошлемы</param>
+<param name="Тип применяемости">дорожная/спортивная</param>
+<param name="Содержание этикетки">шлем, пинлок, дефлектор, ветровой подбородочный щиток, чехол, мануалы, 2 наклейки, силиконовое масло, 2 пластиковых крепления</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="1_nxr-2-candy-3xl" available="true">
+<url>https://bikeland.ru/catalog/motoshlemy/motoshlemy_1/shoei-motoshlem-nxr-2-candy-3xl/</url>
+<price>69020</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>6</sort>
+<picture>https://bikeland.ru/upload/iblock/afa/ybda4dgykjqifuuye3wq9x3vhmtlbci4/8ae4de1e_37ea_11ec_a47f_00505697fbcd_6fdc8b44_3801_11ec_a47f_00505697fbcd.png</picture>
+<picture>https://bikeland.ru/upload/iblock/23b/j63ck3dxzhcbg4hi4cntvmhsmj06xdra/5183eb96_37ea_11ec_a47f_00505697fbcd_0c2f5710_3801_11ec_a47f_00505697fbcd.png</picture>
+<picture>https://bikeland.ru/upload/iblock/cfe/u9jv116mbkivnn6u4j4hgpzy5yuc521r/5183eb96_37ea_11ec_a47f_00505697fbcd_0c2f5711_3801_11ec_a47f_00505697fbcd.png</picture>
+<vendor>SHOEI</vendor>
+<vendorCode>NXR 2 CANDY 3XL</vendorCode>
+<name>SHOEI Мотошлем NXR 2 CANDY 3XL</name>
+<description><![CDATA[<p><strong>SHOEI Мотошлем NXR 2 CANDY 3XL</strong> - SHOEI Мотошлем NXR 2 CANDY 3XL - товар из категории «Мотошлемы», который подходит для городских поездок, трассы и ежедневной защиты головы райдера.</p><ul><li>Бренд: SHOEI</li><li>Цвет: черный матовый</li><li>Страна происхождения: ЯПОНИЯ</li><li>Тип товара: Интеграл</li></ul>]]></description>
+<param name="Категория">Мотошлемы</param>
+<param name="Бренд">SHOEI</param>
+<param name="Артикул">NXR 2 CANDY 3XL</param>
+<param name="Цвет">черный матовый</param>
+<param name="Страна происхождения">ЯПОНИЯ</param>
+<param name="Тип товара">Интеграл</param>
+<param name="Вид товара">Мотошлемы</param>
+<param name="Тип применяемости">дорожная/спортивная</param>
+<param name="Содержание этикетки">шлем, пинлок, дефлектор, ветровой подбородочный щиток, чехол, мануалы, 2 наклейки, силиконовое масло, 2 пластиковых крепления</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="2_3200226" available="true">
+<url>https://bikeland.ru/catalog/motoekipirovka/motokurtki/alpinestars-motokurtka-aeroshell-waterproof-jacket/</url>
+<price>58104</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<sort>1</sort>
+<vendor>ALPINESTARS</vendor>
+<vendorCode>3200226</vendorCode>
+<name>ALPINESTARS Мотокуртка AEROSHELL WATERPROOF JACKET</name>
+<description><![CDATA[<p><strong>ALPINESTARS Мотокуртка AEROSHELL WATERPROOF JACKET</strong> - 3200226 - Мотокуртка AEROSHELL WATERPROOF JACKET
+Современная водонепроницаемая мотокуртка от Alpinestars, сочетающая спортивный стиль, комфорт и универсальность для городской езды, путешествий и ежедневного использования.</p><ul><li>Бренд: ALPINESTARS</li><li>Цвет: черный</li><li>Страна происхождения: КИТАЙ</li><li>Вид товара: Мотокуртки</li></ul>]]></description>
+<param name="Категория">Мотокуртки</param>
+<param name="Бренд">ALPINESTARS</param>
+<param name="Артикул">3200226</param>
+<param name="Цвет">черный</param>
+<param name="Страна происхождения">КИТАЙ</param>
+<param name="Вид товара">Мотокуртки</param>
+<param name="Материал">текстиль</param>
+<param name="Срок гарантии">1 год</param>
+<param name="Пол">мужской</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="2_3207924" available="true">
+<url>https://bikeland.ru/catalog/motoekipirovka/motokurtki/alpinestars-motokurtka-andes-drystar-air-jacket/</url>
+<price>43305</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<sort>2</sort>
+<picture>https://bikeland.ru/upload/iblock/5ac/r58yelh244tcn239re52pu2g21stg0h2/71f02ea7_270c_11ef_a861_00505697144c_34191959_65fa_11ef_a8b3_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/8fc/jaa7leye8kw4flefzih0g1tyabe121ce/71f02ea7_270c_11ef_a861_00505697144c_2b31cb39_362b_11f0_a9c5_00505697144c.jpg</picture>
+<vendor>ALPINESTARS</vendor>
+<vendorCode>3207924</vendorCode>
+<name>ALPINESTARS Мотокуртка Andes Drystar Air Jacket</name>
+<description><![CDATA[<p><strong>ALPINESTARS Мотокуртка Andes Drystar Air Jacket</strong> - Куртка The Andes Air Drystar®- туристическая мотокуртка средней длины с непревзойденными вентиляционными свойствами и высоким уровнем защиты.
+Особенности:
+Крупные сетчатые панели на спине, груди и рукавах.</p><ul><li>Бренд: ALPINESTARS</li><li>Цвет: светло-серо-темно-серый, черный, черно-красный</li><li>Страна происхождения: ---</li><li>Вид товара: Мотокуртки</li></ul>]]></description>
+<param name="Категория">Мотокуртки</param>
+<param name="Бренд">ALPINESTARS</param>
+<param name="Артикул">3207924</param>
+<param name="Цвет">светло-серо-темно-серый, черный, черно-красный</param>
+<param name="Страна происхождения">---</param>
+<param name="Вид товара">Мотокуртки</param>
+<param name="Тип применяемости">туристическая</param>
+<param name="Материал">текстиль</param>
+<param name="Серия">ANDES DRYSTAR AIR JACKET</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="2_3207119" available="true">
+<url>https://bikeland.ru/catalog/motoekipirovka/motokurtki/alpinestars-motokurtka-andes-pro-drystar-jacket/</url>
+<price>82229</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<sort>3</sort>
+<picture>https://bikeland.ru/upload/iblock/4a3/17ccfff3_1f4e_11ea_a1fe_000c29be2b39_5e9c63f8_8552_11ea_a227_000c29be2b39.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/10b/u4p7p8anp83y8zg6ur714k9fki3t8ha8/17ccfff3_1f4e_11ea_a1fe_000c29be2b39_5e9c63f9_8552_11ea_a227_000c29be2b39.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/bef/ll5kq14m93h82vsfpteiu50spg7luesa/17ccfff3_1f4e_11ea_a1fe_000c29be2b39_5e9c63fa_8552_11ea_a227_000c29be2b39.jpg</picture>
+<vendor>ALPINESTARS</vendor>
+<vendorCode>3207119</vendorCode>
+<name>ALPINESTARS Мотокуртка ANDES PRO DRYSTAR JACKET</name>
+<description><![CDATA[<p><strong>ALPINESTARS Мотокуртка ANDES PRO DRYSTAR JACKET</strong> - Разработанная с использованием технологии Alpinestars DryStar ®, Andes Pro Drystar ® Jacket обеспечивает 100% гидроизоляцию и высокий уровень воздухопроницаемости.</p><ul><li>Бренд: ALPINESTARS</li><li>Цвет: черно-красный</li><li>Страна происхождения: БАНГЛАДЕШ</li><li>Вид товара: Мотокуртки</li></ul>]]></description>
+<param name="Категория">Мотокуртки</param>
+<param name="Бренд">ALPINESTARS</param>
+<param name="Артикул">3207119</param>
+<param name="Цвет">черно-красный</param>
+<param name="Страна происхождения">БАНГЛАДЕШ</param>
+<param name="Вид товара">Мотокуртки</param>
+<param name="Тип применяемости">дорожная/спортивная</param>
+<param name="Материал">текстиль</param>
+<param name="Содержание этикетки">100% полиэстер</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="2_3207521" available="true">
+<url>https://bikeland.ru/catalog/motoekipirovka/motokurtki/alpinestars-motokurtka-andes-v3-drystar-jacket/</url>
+<price>44422</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<sort>4</sort>
+<vendor>ALPINESTARS</vendor>
+<vendorCode>3207521</vendorCode>
+<name>ALPINESTARS Мотокуртка ANDES v3 DRYSTAR JACKET</name>
+<description><![CDATA[<p><strong>ALPINESTARS Мотокуртка ANDES v3 DRYSTAR JACKET</strong> - Разработанная с использованием технологии Alpinestars DryStar ®, Andes v3 Drystar ® Jacket обеспечивает 100% гидроизоляцию и высокий уровень воздухопроницаемости.</p><ul><li>Бренд: ALPINESTARS</li><li>Цвет: черный, холодный серый-темно-серый</li><li>Страна происхождения: БАНГЛАДЕШ</li><li>Вид товара: Мотокуртки</li></ul>]]></description>
+<param name="Категория">Мотокуртки</param>
+<param name="Бренд">ALPINESTARS</param>
+<param name="Артикул">3207521</param>
+<param name="Цвет">черный, холодный серый-темно-серый</param>
+<param name="Страна происхождения">БАНГЛАДЕШ</param>
+<param name="Вид товара">Мотокуртки</param>
+<param name="Тип применяемости">туристическая</param>
+<param name="Материал">текстиль</param>
+<param name="Содержание этикетки">94% ПОЛИЭСТЕР 6% ПОЛИАМИД</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="2_3200526" available="true">
+<url>https://bikeland.ru/catalog/motoekipirovka/motokurtki/alpinestars-motokurtka-andes-v4-drystar-jacket/</url>
+<price>64608</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<sort>5</sort>
+<vendor>ALPINESTARS</vendor>
+<vendorCode>3200526</vendorCode>
+<name>ALPINESTARS Мотокуртка ANDES v4 DRYSTAR JACKET</name>
+<description><![CDATA[<p><strong>ALPINESTARS Мотокуртка ANDES v4 DRYSTAR JACKET</strong> - Разработанная с использованием технологии Alpinestars DryStar ®, Andes v3 Drystar ® Jacket обеспечивает 100% гидроизоляцию и высокий уровень воздухопроницаемости.</p><ul><li>Бренд: ALPINESTARS</li><li>Цвет: коричневый, черный</li><li>Страна происхождения: БАНГЛАДЕШ</li><li>Вид товара: Мотокуртки</li></ul>]]></description>
+<param name="Категория">Мотокуртки</param>
+<param name="Бренд">ALPINESTARS</param>
+<param name="Артикул">3200526</param>
+<param name="Цвет">коричневый, черный</param>
+<param name="Страна происхождения">БАНГЛАДЕШ</param>
+<param name="Вид товара">Мотокуртки</param>
+<param name="Материал">текстиль</param>
+<param name="Срок гарантии">1 год</param>
+<param name="Пол">мужской</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="2_3306121" available="true">
+<url>https://bikeland.ru/catalog/motoekipirovka/motokurtki/motokurtka-ast-v2-air-jacket/</url>
+<price>37504</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<sort>6</sort>
+<picture>https://bikeland.ru/upload/iblock/494/kjntnqtjzydcj8sb8nta4cauoy7225r0/5a477c21_47b5_11ec_a493_00505697fbcd_ab5cdaad_cb13_11ee_a7e5_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/ce0/gpfmm7n5lcx3b5w8221f97nnoc1v54pd/5a477c21_47b5_11ec_a493_00505697fbcd_abd8b2c4_cb13_11ee_a7e5_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/df1/t13o4z581wi491mgwtkbio07mgxkxjr4/5a477c21_47b5_11ec_a493_00505697fbcd_ac27a5b5_cb13_11ee_a7e5_00505697144c.jpg</picture>
+<vendor>ALPINESTARS</vendor>
+<vendorCode>3306121</vendorCode>
+<name>ALPINESTARS Мотокуртка AST V2 AIR JACKET</name>
+<description><![CDATA[<p><strong>ALPINESTARS Мотокуртка AST V2 AIR JACKET</strong> - Мотоциклетная текстильная куртка Alpinestars AST-1 V2 Air имеет спортивную посадку и представляет собой исключительно легкую и прочную куртку с превосходной вентиляцией.</p><ul><li>Бренд: ALPINESTARS</li><li>Цвет: черно-белый, черно-красный</li><li>Страна происхождения: ---</li><li>Вид товара: Мотокуртки</li></ul>]]></description>
+<param name="Категория">Мотокуртки</param>
+<param name="Бренд">ALPINESTARS</param>
+<param name="Артикул">3306121</param>
+<param name="Цвет">черно-белый, черно-красный</param>
+<param name="Страна происхождения">---</param>
+<param name="Вид товара">Мотокуртки</param>
+<param name="Тип применяемости">дорожная/спортивная</param>
+<param name="Материал">текстиль</param>
+<param name="Содержание этикетки">90%ПОЛИЭСТЕР 10%ПОЛИАМИД</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="3_tgl-2402" available="true">
+<url>https://bikeland.ru/catalog/motoekipirovka/motoperchatki/mcp-motoperchatki-rotor/</url>
+<price>2217</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<sort>1</sort>
+<picture>https://bikeland.ru/upload/iblock/8de/t2flznlwmdvpdyu7vablho0tlugqm96x/86648b4c_1cc6_11ee_a6fe_00505697144c_c842a5e9_7355_11f0_aa1c_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/9a0/7s8n7y9bvnh160z6ly6hjregwk0nhicb/86648b4c_1cc6_11ee_a6fe_00505697144c_4deefae5_670b_11f0_aa0c_00505697144c.jpg</picture>
+<vendor>MCP</vendor>
+<vendorCode>TGL-2402</vendorCode>
+<name>MCP Мотоперчатки Rotor</name>
+<description><![CDATA[<p><strong>MCP Мотоперчатки Rotor</strong> - Мотоперчатки Rotor
+MCP – новый брэнд мотоэкипировки от компании Байк Ленд.</p><ul><li>Бренд: MCP</li><li>Цвет: черно-красный</li><li>Страна происхождения: ПАКИСТАН</li><li>Вид товара: Мотоперчатки</li></ul>]]></description>
+<param name="Категория">Мотоперчатки</param>
+<param name="Бренд">MCP</param>
+<param name="Артикул">TGL-2402</param>
+<param name="Цвет">черно-красный</param>
+<param name="Страна происхождения">ПАКИСТАН</param>
+<param name="Вид товара">Мотоперчатки</param>
+<param name="Тип применяемости">дорожная/спортивная</param>
+<param name="Материал">комбинированный</param>
+<param name="Сезонность">Всесезонные</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="3_3527521" available="true">
+<url>https://bikeland.ru/catalog/motoekipirovka/motoperchatki/alpinestars-perchatki-honda-smx-z-drystar-glove_1/</url>
+<price>20111</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<sort>2</sort>
+<picture>https://bikeland.ru/upload/iblock/960/j2u12ihk2srcpnz7onmiks5w9hcrxwo3/23e7200d_ee0b_11eb_a41e_00505697fbcd_2d398ba2_f9f5_11eb_a42d_00505697fbcd.jpg</picture>
+<vendor>ALPINESTARS</vendor>
+<vendorCode>3527521</vendorCode>
+<name>ALPINESTARS Мотоперчатки ANDES V3 Drystar GLOVE</name>
+<description><![CDATA[<p><strong>ALPINESTARS Мотоперчатки ANDES V3 Drystar GLOVE</strong> - ALPINESTARS Мотоперчатки ANDES V3 Drystar GLOVE - товар из категории «Мотоперчатки», который помогают защитить руки и сохранить уверенный хват на руле.</p><ul><li>Бренд: ALPINESTARS</li><li>Цвет: черный</li><li>Страна происхождения: ИНДОНЕЗИЯ</li><li>Вид товара: Мотоперчатки</li></ul>]]></description>
+<param name="Категория">Мотоперчатки</param>
+<param name="Бренд">ALPINESTARS</param>
+<param name="Артикул">3527521</param>
+<param name="Цвет">черный</param>
+<param name="Страна происхождения">ИНДОНЕЗИЯ</param>
+<param name="Вид товара">Мотоперчатки</param>
+<param name="Тип применяемости">дорожная/спортивная</param>
+<param name="Материал">кожа</param>
+<param name="Сезонность">Всесезонные</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="3_3574018" available="true">
+<url>https://bikeland.ru/catalog/motoekipirovka/motoperchatki/alpinestars-motoperchatki-atom-gloves/</url>
+<price>13635</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<sort>3</sort>
+<picture>https://bikeland.ru/upload/iblock/e93/fsaw4qk6r39uxtqr6miw1actf1jlr2qn/5e7da6ac_1f4d_11ea_a1fe_000c29be2b39_b1b063ed_cec9_11ed_a696_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/eed/k66vao2ju7sshs5ozgmjzha184p0pepc/5e7da6ac_1f4d_11ea_a1fe_000c29be2b39_b1b06422_cec9_11ed_a696_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/4d5/v1nai6rv03l1uog0gi8jmv6lv1115x57/5e7da6ac_1f4d_11ea_a1fe_000c29be2b39_9af0d5cc_78ff_11f0_aa24_00505697144c.jpg</picture>
+<vendor>ALPINESTARS</vendor>
+<vendorCode>3574018</vendorCode>
+<name>ALPINESTARS Мотоперчатки ATOM GLOVES</name>
+<description><![CDATA[<p><strong>ALPINESTARS Мотоперчатки ATOM GLOVES</strong> - ALPINESTARS Мотоперчатки ATOM GLOVES - товар из категории «Мотоперчатки», который помогают защитить руки и сохранить уверенный хват на руле.</p><ul><li>Бренд: ALPINESTARS</li><li>Цвет: черно-белый, черно-желтый</li><li>Страна происхождения: ВЬЕТНАМ</li><li>Вид товара: Мотоперчатки</li></ul>]]></description>
+<param name="Категория">Мотоперчатки</param>
+<param name="Бренд">ALPINESTARS</param>
+<param name="Артикул">3574018</param>
+<param name="Цвет">черно-белый, черно-желтый</param>
+<param name="Страна происхождения">ВЬЕТНАМ</param>
+<param name="Вид товара">Мотоперчатки</param>
+<param name="Тип применяемости">дорожная/спортивная</param>
+<param name="Материал">комбинированный</param>
+<param name="Сезонность">Всесезонные</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="3_3567024" available="true">
+<url>https://bikeland.ru/catalog/motoekipirovka/motoperchatki/alpinestars-motoperchatki-celer-v3-gloves/</url>
+<price>19245</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<sort>4</sort>
+<picture>https://bikeland.ru/upload/iblock/600/ud2p71ys9a98jkf1b31nifygt4tevog4/f8e87b37_153b_11f0_a99b_00505697144c_15c85040_364f_11f0_a9c5_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/42f/2bybkk4hjesac5c9a7m2w4f2yx55osqh/f8e87b37_153b_11f0_a99b_00505697144c_0f53129d_364f_11f0_a9c5_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/ffb/apqbqqkz10z0nqkmdmrx6nt569cy73n2/f8e87b37_153b_11f0_a99b_00505697144c_0f5313bb_364f_11f0_a9c5_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/dfa/s9a69vlvb22mk38ysz9owbq5l7k18opl/f8e87b37_153b_11f0_a99b_00505697144c_15c850ce_364f_11f0_a9c5_00505697144c.jpg</picture>
+<vendor>ALPINESTARS</vendor>
+<vendorCode>3567024</vendorCode>
+<name>ALPINESTARS Мотоперчатки CELER V3 GLOVES</name>
+<description><![CDATA[<p><strong>ALPINESTARS Мотоперчатки CELER V3 GLOVES</strong> - ALPINESTARS Мотоперчатки CELER V3 GLOVES - товар из категории «Мотоперчатки», который помогают защитить руки и сохранить уверенный хват на руле.</p><ul><li>Бренд: ALPINESTARS</li><li>Цвет: черный, черно-белый</li><li>Страна происхождения: ВЬЕТНАМ</li><li>Вид товара: Мотоперчатки</li></ul>]]></description>
+<param name="Категория">Мотоперчатки</param>
+<param name="Бренд">ALPINESTARS</param>
+<param name="Артикул">3567024</param>
+<param name="Цвет">черный, черно-белый</param>
+<param name="Страна происхождения">ВЬЕТНАМ</param>
+<param name="Вид товара">Мотоперчатки</param>
+<param name="Тип применяемости">дорожная/спортивная</param>
+<param name="Материал">кожа</param>
+<param name="Сезонность">Всесезонные</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="3_3568420" available="true">
+<url>https://bikeland.ru/catalog/motoekipirovka/motoperchatki/alpinestars-perchatki-copper-gloves/</url>
+<price>9324</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<sort>5</sort>
+<picture>https://bikeland.ru/upload/iblock/7fb/vt4blhq9qdcuk3n733ialai277tymzrh/d430af36_ee0d_11eb_a41e_00505697fbcd_d250f04e_7c03_11f0_aa28_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/773/jcpkl31n272qo7g36u7ga0bb55r02aj3/d430af36_ee0d_11eb_a41e_00505697fbcd_d250f0b8_7c03_11f0_aa28_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/1d1/2ttiiqahlarhmzoqijfnwjuia1ldahq9/d430af36_ee0d_11eb_a41e_00505697fbcd_d250f134_7c03_11f0_aa28_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/9dc/3md61g9l9o35rks247d41wwbb6ynci4k/d430af36_ee0d_11eb_a41e_00505697fbcd_d250f1d4_7c03_11f0_aa28_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/73f/szua21iiy1sbp9ef68br7p5gx4m1g2p9/d430af36_ee0d_11eb_a41e_00505697fbcd_d250f220_7c03_11f0_aa28_00505697144c.jpg</picture>
+<vendor>ALPINESTARS</vendor>
+<vendorCode>3568420</vendorCode>
+<name>ALPINESTARS Мотоперчатки COPPER GLOVES</name>
+<description><![CDATA[<p><strong>ALPINESTARS Мотоперчатки COPPER GLOVES</strong> - Мотоциклетные перчатки Alpinestars Copper - это короткие, легкие перчатки в городском стиле.
+Имеют надежную защиту суставов пальцев и полностью синтетическую замшу на ладони, обеспечивающую высокую долговечность.</p><ul><li>Бренд: ALPINESTARS</li><li>Цвет: черный, синий-индиго, древесный</li><li>Страна происхождения: ВЬЕТНАМ</li><li>Вид товара: Мотоперчатки</li></ul>]]></description>
+<param name="Категория">Мотоперчатки</param>
+<param name="Бренд">ALPINESTARS</param>
+<param name="Артикул">3568420</param>
+<param name="Цвет">черный, синий-индиго, древесный</param>
+<param name="Страна происхождения">ВЬЕТНАМ</param>
+<param name="Вид товара">Мотоперчатки</param>
+<param name="Тип применяемости">дорожная/спортивная</param>
+<param name="Материал">текстиль</param>
+<param name="Сезонность">Всесезонные</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="3_3509018" available="true">
+<url>https://bikeland.ru/catalog/motoekipirovka/motoperchatki/alpinestars-motoperchatki-crazy-eight-gloves/</url>
+<price>12120</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<sort>6</sort>
+<picture>https://bikeland.ru/upload/iblock/008/zsoclhcgtnesuyw356syr9t9sbwr03tx/2fb4d295_1f4e_11ea_a1fe_000c29be2b39_9ace78a7_cee2_11ed_a696_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/f19/w08ggk2j332c8d57tj7toy98v0cavrhz/2fb4d295_1f4e_11ea_a1fe_000c29be2b39_9ace77f7_cee2_11ed_a696_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/1ee/6g4z8mgh3ehjbfddb65474p9boryx1tc/2fb4d295_1f4e_11ea_a1fe_000c29be2b39_9ace784f_cee2_11ed_a696_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/ba0/5ydu1bkoaud8q1lcotqi0si7f8kemx47/2fb4d295_1f4e_11ea_a1fe_000c29be2b39_a0c66b2d_cee2_11ed_a696_00505697144c.jpg</picture>
+<vendor>ALPINESTARS</vendor>
+<vendorCode>3509018</vendorCode>
+<name>ALPINESTARS Мотоперчатки CRAZY EIGHT GLOVES</name>
+<description><![CDATA[<p><strong>ALPINESTARS Мотоперчатки CRAZY EIGHT GLOVES</strong> - ALPINESTARS Мотоперчатки CRAZY EIGHT GLOVES - товар из категории «Мотоперчатки», который помогают защитить руки и сохранить уверенный хват на руле.</p><ul><li>Бренд: ALPINESTARS</li><li>Цвет: черный, коричнево-черный</li><li>Страна происхождения: ---</li><li>Вид товара: Мотоперчатки</li></ul>]]></description>
+<param name="Категория">Мотоперчатки</param>
+<param name="Бренд">ALPINESTARS</param>
+<param name="Артикул">3509018</param>
+<param name="Цвет">черный, коричнево-черный</param>
+<param name="Страна происхождения">---</param>
+<param name="Вид товара">Мотоперчатки</param>
+<param name="Тип применяемости">дорожная/спортивная</param>
+<param name="Материал">кожа</param>
+<param name="Сезонность">Всесезонные</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="4_2037524" available="true">
+<url>https://bikeland.ru/catalog/motoekipirovka/motoboty/alpinestars-motoboty-xt-8-gtx/</url>
+<price>60074</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<sort>1</sort>
+<picture>https://bikeland.ru/upload/iblock/2ce/3ems1ns2sck97fbluf4t5q3de2xg2gjx/87574608_24b0_11ef_a85e_00505697144c_ad2277cc_65f3_11ef_a8b3_00505697144c.jpg</picture>
+<vendor>ALPINESTARS</vendor>
+<vendorCode>2037524</vendorCode>
+<name>ALPINESTARS Мотоботы XT-8 GTX</name>
+<description><![CDATA[<p><strong>ALPINESTARS Мотоботы XT-8 GTX</strong> - ALPINESTARS Мотоботы XT-8 GTX - товар из категории «Мотоботы», который подходят для защиты стопы и голеностопа во время поездок.</p><ul><li>Бренд: ALPINESTARS</li><li>Цвет: черный/черный</li><li>Страна происхождения: ---</li><li>Вид товара: Мотоботы</li></ul>]]></description>
+<param name="Категория">Мотоботы</param>
+<param name="Бренд">ALPINESTARS</param>
+<param name="Артикул">2037524</param>
+<param name="Цвет">черный/черный</param>
+<param name="Страна происхождения">---</param>
+<param name="Вид товара">Мотоботы</param>
+<param name="Тип применяемости">кросс/эндуро</param>
+<param name="Серия">XT-8 GTX BOOTS</param>
+<param name="Срок гарантии">6 месяцев</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="4_bt-304msp" available="true">
+<url>https://bikeland.ru/catalog/motoekipirovka/motoboty/mcp-motoboty-arvada-microfiber-sp/</url>
+<price>13335</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<sort>2</sort>
+<picture>https://bikeland.ru/upload/iblock/6f0/tlkruwodmeqhdsxc53rt7hvrf09mf93f/f3b80e22_6f51_11ea_a21c_000c29be2b39_96224c70_e161_11eb_a40e_00505697fbcd.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/559/ez70ergudbr291mdnz7mk5bhtem3dd0n/f3b80e22_6f51_11ea_a21c_000c29be2b39_96224c71_e161_11eb_a40e_00505697fbcd.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/a40/8j8qyii3p3bjgn0iroeiue44olngla7s/f3b80e22_6f51_11ea_a21c_000c29be2b39_96224c72_e161_11eb_a40e_00505697fbcd.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/830/lzoh2xyhf47gcfsu4o262f4qrh5ib8xd/f3b80e22_6f51_11ea_a21c_000c29be2b39_a5772484_e161_11eb_a40e_00505697fbcd.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/0ca/j5o5m5z2we8q9wx3qlv8ils5wn0vuiay/f3b80e22_6f51_11ea_a21c_000c29be2b39_a5772485_e161_11eb_a40e_00505697fbcd.jpg</picture>
+<vendor>MCP</vendor>
+<vendorCode>BT-304MSP</vendorCode>
+<name>MCP Мотоботы ARVADA Microfiber SP</name>
+<description><![CDATA[<p><strong>MCP Мотоботы ARVADA Microfiber SP</strong> - MCP Мотоботы ARVADA Microfiber SP - товар из категории «Мотоботы», который подходят для защиты стопы и голеностопа во время поездок.</p><ul><li>Бренд: MCP</li><li>Цвет: черный</li><li>Страна происхождения: ПАКИСТАН</li><li>Вид товара: Мотоботы</li></ul>]]></description>
+<param name="Категория">Мотоботы</param>
+<param name="Бренд">MCP</param>
+<param name="Артикул">BT-304MSP</param>
+<param name="Цвет">черный</param>
+<param name="Страна происхождения">ПАКИСТАН</param>
+<param name="Вид товара">Мотоботы</param>
+<param name="Тип применяемости">дорожная/спортивная</param>
+<param name="Материал">кожа</param>
+<param name="Содержание этикетки">Материал верха: 100% искусственная кожа 
+Подкладка: 100% полиэстер
+Подошва: резина, полиуретан</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="4_bt-2505" available="true">
+<url>https://bikeland.ru/catalog/motoekipirovka/motoboty/mcp-motoboty-city-zip/</url>
+<price>8522</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<sort>3</sort>
+<picture>https://bikeland.ru/upload/iblock/c9a/tiy0us7sbs3np1s31o6zejdeqeskwwx7/f5b0deae_4b4e_11ef_a890_00505697144c_baa0359b_19e6_11f0_a9a1_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/a5a/s1s1byi0zpkuwlemn32enb2jou00lj67/f5b0deae_4b4e_11ef_a890_00505697144c_baa037eb_19e6_11f0_a9a1_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/6a6/0506fskp38e9smd05uci3bim50m14gom/f5b0deae_4b4e_11ef_a890_00505697144c_c13b0582_19e6_11f0_a9a1_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/138/9sdr4fiu5wl1frglxj24cpia16zj4ew8/f5b0deae_4b4e_11ef_a890_00505697144c_c13b0625_19e6_11f0_a9a1_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/7c8/otffb7ishbfu27o8aiycfgpbqsjghz0f/f5b0deae_4b4e_11ef_a890_00505697144c_c13b06d7_19e6_11f0_a9a1_00505697144c.jpg</picture>
+<vendor>MCP</vendor>
+<vendorCode>BT-2505</vendorCode>
+<name>MCP Мотоботы City ZIP</name>
+<description><![CDATA[<p><strong>MCP Мотоботы City ZIP</strong> - MCP Мотоботы City ZIP - товар из категории «Мотоботы», который подходят для защиты стопы и голеностопа во время поездок.</p><ul><li>Бренд: MCP</li><li>Цвет: черный</li><li>Страна происхождения: ПАКИСТАН</li><li>Вид товара: Мотоботы</li></ul>]]></description>
+<param name="Категория">Мотоботы</param>
+<param name="Бренд">MCP</param>
+<param name="Артикул">BT-2505</param>
+<param name="Цвет">черный</param>
+<param name="Страна происхождения">ПАКИСТАН</param>
+<param name="Вид товара">Мотоботы</param>
+<param name="Тип применяемости">дорожная/спортивная</param>
+<param name="Материал">кожа</param>
+<param name="Содержание этикетки">Материал верха: 95% натуральная кожа, 5%полиэстер.
+Материал подошвы: 100% резина.</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="4_2512322" available="true">
+<url>https://bikeland.ru/catalog/motoekipirovka/motoboty/alpinestars-motoboty-chrome/</url>
+<price>25018</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<sort>4</sort>
+<picture>https://bikeland.ru/upload/iblock/174/19jmnodwp1j1i3pjk7y901qp50g7pgxn/800bc105_98cf_11ee_a7a2_00505697144c_6f64dc17_cb07_11ee_a7e5_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/365/d4rqumnajlc6kvsczkpbcgx93m9xt724/800bc105_98cf_11ee_a7a2_00505697144c_6f64dc4b_cb07_11ee_a7e5_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/4cc/qxpuke2id561d8khvw2eav5g8dqp3mvp/800bc105_98cf_11ee_a7a2_00505697144c_6f64dc7f_cb07_11ee_a7e5_00505697144c.jpg</picture>
+<vendor>ALPINESTARS</vendor>
+<vendorCode>2512322</vendorCode>
+<name>ALPINESTARS Мотоботы Chrome</name>
+<description><![CDATA[<p><strong>ALPINESTARS Мотоботы Chrome</strong> - ALPINESTARS Мотоботы Chrome - товар из категории «Мотоботы», который подходят для защиты стопы и голеностопа во время поездок.</p><ul><li>Бренд: ALPINESTARS</li><li>Цвет: черно-серо-красный</li><li>Страна происхождения: ---</li><li>Вид товара: Мотоботы</li></ul>]]></description>
+<param name="Категория">Мотоботы</param>
+<param name="Бренд">ALPINESTARS</param>
+<param name="Артикул">2512322</param>
+<param name="Цвет">черно-серо-красный</param>
+<param name="Страна происхождения">---</param>
+<param name="Вид товара">Мотоботы</param>
+<param name="Тип применяемости">дорожная/спортивная</param>
+<param name="Материал">кожа</param>
+<param name="Содержание этикетки">Материал верха:99,29% кожа - 0,71% металл;Материал подкладки:76,44% текстиль - 23,16% синтетический полиуретан - 0,40% металл;Материал низа:100% резина</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="4_2512522" available="true">
+<url>https://bikeland.ru/catalog/motoekipirovka/motoboty/alpinestars-motoboty-chrome-air/</url>
+<price>27600</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<sort>5</sort>
+<picture>https://bikeland.ru/upload/iblock/025/3svx89btz77lml1ne072pmwr5wmeltpy/8ddd4753_98d1_11ee_a7a2_00505697144c_950cdf74_cb09_11ee_a7e5_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/75e/z0fwjfw6bi993nb6uqodew038z1cqpb8/8ddd4753_98d1_11ee_a7a2_00505697144c_950cdfcc_cb09_11ee_a7e5_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/6c6/xnbswn289jh6tsecx1dxdyuabk74kqfx/8ddd4753_98d1_11ee_a7a2_00505697144c_950ce012_cb09_11ee_a7e5_00505697144c.jpg</picture>
+<vendor>ALPINESTARS</vendor>
+<vendorCode>2512522</vendorCode>
+<name>ALPINESTARS Мотоботы Chrome Air</name>
+<description><![CDATA[<p><strong>ALPINESTARS Мотоботы Chrome Air</strong> - Лёгкие вентилируемые кеды на шнуровке.</p><ul><li>Бренд: ALPINESTARS</li><li>Цвет: черный/черный</li><li>Страна происхождения: ---</li><li>Вид товара: Мотоботы</li></ul>]]></description>
+<param name="Категория">Мотоботы</param>
+<param name="Бренд">ALPINESTARS</param>
+<param name="Артикул">2512522</param>
+<param name="Цвет">черный/черный</param>
+<param name="Страна происхождения">---</param>
+<param name="Вид товара">Мотоботы</param>
+<param name="Тип применяемости">дорожная/спортивная</param>
+<param name="Материал">кожа</param>
+<param name="Содержание этикетки">Материал верха:кожа, полиэстер;Материал подкладки:полиэстер, нейлон;Материал низа:резина</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="4_2040126" available="true">
+<url>https://bikeland.ru/catalog/motoekipirovka/motoboty/alpinestars-motoboty-corozal-v2-adventure-drystar-boots/</url>
+<price>77610</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<sort>6</sort>
+<vendor>ALPINESTARS</vendor>
+<vendorCode>2040126</vendorCode>
+<name>ALPINESTARS Мотоботы Corozal v2 Adventure Drystar BOOTS</name>
+<description><![CDATA[<p><strong>ALPINESTARS Мотоботы Corozal v2 Adventure Drystar BOOTS</strong> - ALPINESTARS Мотоботы Corozal v2 Adventure Drystar BOOTS - товар из категории «Мотоботы», который подходят для защиты стопы и голеностопа во время поездок.</p><ul><li>Бренд: ALPINESTARS</li><li>Цвет: черный</li><li>Страна происхождения: ВЬЕТНАМ</li><li>Вид товара: Мотоботы</li></ul>]]></description>
+<param name="Категория">Мотоботы</param>
+<param name="Бренд">ALPINESTARS</param>
+<param name="Артикул">2040126</param>
+<param name="Цвет">черный</param>
+<param name="Страна происхождения">ВЬЕТНАМ</param>
+<param name="Вид товара">Мотоботы</param>
+<param name="Материал">комбинированный</param>
+<param name="Содержание этикетки">37% TPU, 35% МИКРОФИБРА, 11% ПОЛИЭСТЕР, 8% ПОЛИУРЕТАН, 8% TPR, 1% ЭЛАСТИЧНЫЙ МАТЕРИАЛ 
+Подклад: 82% ПОЛИЭСТЕР, 18% СИНТЕТИКА</param>
+<param name="Срок гарантии">6 месяцев</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="5_p1733" available="true">
+<url>https://bikeland.ru/catalog/motorezina/motoshiny_i_motopokryshki/kingtyre-100-80-r17-52h-k97-f-tl/</url>
+<price>5593</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<sort>1</sort>
+<picture>https://bikeland.ru/upload/iblock/859/cidhaau8qfmt4vbsoyaexolrcomiekll/c29f37e9_c7c7_11ec_a537_00505697fbcd_a09f37e7_89ee_11ee_a78e_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/77b/hkbxobcpu0k6c79kt4hcvn8s0g72ig9j/c29f37e9_c7c7_11ec_a537_00505697fbcd_a09f387e_89ee_11ee_a78e_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/449/frwvf9wfhnf1d45f9fdx2xlqzzzhpvqf/c29f37e9_c7c7_11ec_a537_00505697fbcd_a09f3918_89ee_11ee_a78e_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/894/l04dlkim9f6qw05nzrbyaqovyc4y3twn/c29f37e9_c7c7_11ec_a537_00505697fbcd_a09f39a6_89ee_11ee_a78e_00505697144c.jpg</picture>
+<vendor>KINGTYRE</vendor>
+<vendorCode>P1733</vendorCode>
+<name>KINGTYRE 100/80 R17 52H K97 F TL шина</name>
+<description><![CDATA[<p><strong>KINGTYRE 100/80 R17 52H K97 F TL шина</strong> - K97 - радиальные шины для спортбайков и современных нейкедов.
+Двухкомпонентный состав обеспечивает устойчивость и высокий ресурс на прямых участках и улучшенное сцепление при максимальных углах наклона мотоцикла.</p><ul><li>Бренд: KINGTYRE</li><li>Страна происхождения: КИТАЙ</li><li>Тип товара: Шины мотоциклетные</li><li>Вид товара: Моторезина</li></ul>]]></description>
+<param name="Категория">Мотошины</param>
+<param name="Бренд">KINGTYRE</param>
+<param name="Артикул">P1733</param>
+<param name="Индекс нагрузки">52</param>
+<param name="Страна происхождения">КИТАЙ</param>
+<param name="Индекс скорости">H (до 210 км/ч)</param>
+<param name="Тип товара">Шины мотоциклетные</param>
+<param name="Вид товара">Моторезина</param>
+<param name="Тип применяемости">Спорт</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="5_y1807" available="true">
+<url>https://bikeland.ru/catalog/motorezina/motoshiny_i_motopokryshki/kingtyre-100-90-r18-56m-k83-nhs-r-tt-tl/</url>
+<price>7064</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<sort>2</sort>
+<picture>https://bikeland.ru/upload/iblock/b55/pfdn5bsth0z82z0bf3r8z8zgh3b4l3nd/f999363c_c7c8_11ec_a537_00505697fbcd_0f81312e_c667_11ee_a7de_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/459/ka50tdxsc90jt0jjeuce88rxvag2p276/f999363c_c7c8_11ec_a537_00505697fbcd_0f813162_c667_11ee_a7de_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/2de/kgt61gqgqj6xq8llefg63z2de1j7icco/f999363c_c7c8_11ec_a537_00505697fbcd_0f813196_c667_11ee_a7de_00505697144c.jpg</picture>
+<vendor>KINGTYRE</vendor>
+<vendorCode>Y1807</vendorCode>
+<name>KINGTYRE 100/90 R18 56M K83 NHS R TT/TL шина</name>
+<description><![CDATA[<p><strong>KINGTYRE 100/90 R18 56M K83 NHS R TT/TL шина</strong> - Пара К81/K83 - шины для мотокросса, предназначенные для езды по мягким грунтам.
+Отличное сцепление и эластичность делают езду по бездорожью более яркой, обеспечивая хороший зацеп и уверенную управляемость.</p><ul><li>Бренд: KINGTYRE</li><li>Страна происхождения: КИТАЙ</li><li>Тип товара: Шины мотоциклетные</li><li>Вид товара: Моторезина</li></ul>]]></description>
+<param name="Категория">Мотошины</param>
+<param name="Бренд">KINGTYRE</param>
+<param name="Артикул">Y1807</param>
+<param name="Индекс нагрузки">56</param>
+<param name="Страна происхождения">КИТАЙ</param>
+<param name="Индекс скорости">M (до 130 км/ч)</param>
+<param name="Тип товара">Шины мотоциклетные</param>
+<param name="Вид товара">Моторезина</param>
+<param name="Тип применяемости">Кросс</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="5_p1908" available="true">
+<url>https://bikeland.ru/catalog/motorezina/motoshiny_i_motopokryshki/kingtyre-100-90-r19-57v-k70-r-tl-shina/</url>
+<price>10574</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<sort>3</sort>
+<picture>https://bikeland.ru/upload/iblock/84a/khl09e9za9csv2wztuqqria11rrlh2js/9df4a6f7_c7c8_11ec_a537_00505697fbcd_a8942c1f_c595_11ee_a7dd_00505697144c.jpg</picture>
+<vendor>KINGTYRE</vendor>
+<vendorCode>P1908</vendorCode>
+<name>KINGTYRE 100/90 R19 57V K70 R TL шина</name>
+<description><![CDATA[<p><strong>KINGTYRE 100/90 R19 57V K70 R TL шина</strong> - KINGTYRE 100/90 R19 57V K70 R TL шина - товар из категории «Мотошины», который предназначены для устойчивого сцепления и предсказуемого поведения мотоцикла на дороге.</p><ul><li>Бренд: KINGTYRE</li><li>Страна происхождения: КИТАЙ</li><li>Тип товара: Шины мотоциклетные</li><li>Вид товара: Моторезина</li></ul>]]></description>
+<param name="Категория">Мотошины</param>
+<param name="Бренд">KINGTYRE</param>
+<param name="Артикул">P1908</param>
+<param name="Индекс нагрузки">70</param>
+<param name="Страна происхождения">КИТАЙ</param>
+<param name="Индекс скорости">V (до 240 км/ч)</param>
+<param name="Тип товара">Шины мотоциклетные</param>
+<param name="Вид товара">Моторезина</param>
+<param name="Тип применяемости">Спорт</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="5_p1739" available="true">
+<url>https://bikeland.ru/catalog/motorezina/motoshiny_i_motopokryshki/kingtyre-110-70-zr17-54-w-k905-f-tl/</url>
+<price>9597</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<sort>4</sort>
+<picture>https://bikeland.ru/upload/iblock/532/suva795w6l91t9ihcxui1uvod3xdeb03/e40ff570_c7ca_11ec_a537_00505697fbcd_5df5cc28_8bb9_11ef_a8e7_00505697144c.jpg</picture>
+<vendor>KINGTYRE</vendor>
+<vendorCode>P1739</vendorCode>
+<name>KINGTYRE 110/70 ZR17 54(W) K905 F TL шина</name>
+<description><![CDATA[<p><strong>KINGTYRE 110/70 ZR17 54(W) K905 F TL шина</strong> - K905 - радиальные гоночные шины, полу-слик
+Двухкомпонентный состав обеспечивает устойчивость и ресурс, одновременно улучшенное сцепление в поворотах.</p><ul><li>Бренд: KINGTYRE</li><li>Страна происхождения: КИТАЙ</li><li>Тип товара: Шины мотоциклетные</li><li>Вид товара: Моторезина</li></ul>]]></description>
+<param name="Категория">Мотошины</param>
+<param name="Бренд">KINGTYRE</param>
+<param name="Артикул">P1739</param>
+<param name="Индекс нагрузки">54</param>
+<param name="Страна происхождения">КИТАЙ</param>
+<param name="Индекс скорости">W (до 270 км/ч)</param>
+<param name="Тип товара">Шины мотоциклетные</param>
+<param name="Вид товара">Моторезина</param>
+<param name="Тип применяемости">Спорт</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="5_p1721" available="true">
+<url>https://bikeland.ru/catalog/motorezina/motoshiny_i_motopokryshki/kingtyre-110-70-zr17-54-w-k97-f-tl/</url>
+<price>7336</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<sort>5</sort>
+<picture>https://bikeland.ru/upload/iblock/859/cidhaau8qfmt4vbsoyaexolrcomiekll/c29f37e9_c7c7_11ec_a537_00505697fbcd_a09f37e7_89ee_11ee_a78e_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/77b/hkbxobcpu0k6c79kt4hcvn8s0g72ig9j/c29f37e9_c7c7_11ec_a537_00505697fbcd_a09f387e_89ee_11ee_a78e_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/449/frwvf9wfhnf1d45f9fdx2xlqzzzhpvqf/c29f37e9_c7c7_11ec_a537_00505697fbcd_a09f3918_89ee_11ee_a78e_00505697144c.jpg</picture>
+<picture>https://bikeland.ru/upload/iblock/894/l04dlkim9f6qw05nzrbyaqovyc4y3twn/c29f37e9_c7c7_11ec_a537_00505697fbcd_a09f39a6_89ee_11ee_a78e_00505697144c.jpg</picture>
+<vendor>KINGTYRE</vendor>
+<vendorCode>P1721</vendorCode>
+<name>KINGTYRE 110/70 ZR17 54(W) K97 F TL шина</name>
+<description><![CDATA[<p><strong>KINGTYRE 110/70 ZR17 54(W) K97 F TL шина</strong> - K97 - радиальные шины для спортбайков и современных нейкедов.
+Двухкомпонентный состав обеспечивает устойчивость и высокий ресурс на прямых участках и улучшенное сцепление при максимальных углах наклона мотоцикла.</p><ul><li>Бренд: KINGTYRE</li><li>Страна происхождения: ---</li><li>Тип товара: Шины мотоциклетные</li><li>Вид товара: Моторезина</li></ul>]]></description>
+<param name="Категория">Мотошины</param>
+<param name="Бренд">KINGTYRE</param>
+<param name="Артикул">P1721</param>
+<param name="Индекс нагрузки">54</param>
+<param name="Страна происхождения">---</param>
+<param name="Индекс скорости">W (до 270 км/ч)</param>
+<param name="Тип товара">Шины мотоциклетные</param>
+<param name="Вид товара">Моторезина</param>
+<param name="Тип применяемости">Спорт</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="5_t1907" available="true">
+<url>https://bikeland.ru/catalog/motorezina/motoshiny_i_motopokryshki/kingtyre-110-80-r19-59h-kr5-tl-tt/</url>
+<price>7905</price>
+<currencyId>RUB</currencyId>
+<categoryId>5</categoryId>
+<sort>6</sort>
+<picture>https://bikeland.ru/upload/iblock/9f8/ov229hsp7ossh1olpstpk99jolxtc3yo/e4942981_c1c6_11ee_a7d8_00505697144c_8fbd0d8b_ec3f_11ee_a80f_00505697144c.jpg</picture>
+<vendor>KINGTYRE</vendor>
+<vendorCode>T1907</vendorCode>
+<name>KINGTYRE 110/80 R19 59H KR5 F TL/TT шина</name>
+<description><![CDATA[<p><strong>KINGTYRE 110/80 R19 59H KR5 F TL/TT шина</strong> - Радиальные шины для туристических мотоциклов внедорожной серии КR5.</p><ul><li>Бренд: KINGTYRE</li><li>Страна происхождения: КИТАЙ</li><li>Тип товара: Шины мотоциклетные</li><li>Вид товара: Моторезина</li></ul>]]></description>
+<param name="Категория">Мотошины</param>
+<param name="Бренд">KINGTYRE</param>
+<param name="Артикул">T1907</param>
+<param name="Индекс нагрузки">59</param>
+<param name="Страна происхождения">КИТАЙ</param>
+<param name="Индекс скорости">H (до 210 км/ч)</param>
+<param name="Тип товара">Шины мотоциклетные</param>
+<param name="Вид товара">Моторезина</param>
+<param name="Тип применяемости">Эндуро On-Road</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="6_ln7723" available="true">
+<url>https://bikeland.ru/catalog/motokhimiya/maslo_motornoe/lavr-motornoe-maslo-gt-off-road-4t-10w40-sm-1-l/</url>
+<price>1469</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<sort>1</sort>
+<picture>https://bikeland.ru/upload/iblock/a0c/1qbmq6yd7kwmqlghk5f5qjufehbxx3yb/314a507f_c431_11ee_a7db_00505697144c_bed9edbc_d49f_11ee_a7f1_00505697144c.jpg</picture>
+<vendor>LAVR</vendor>
+<vendorCode>Ln7723</vendorCode>
+<name>Моторное масло GT OFF ROAD 4T 10W40 SM,1 л</name>
+<description><![CDATA[<p><strong>Моторное масло GT OFF ROAD 4T 10W40 SM,1 л</strong> - Моторное масло GT OFF ROAD 4T 10W40 SM,1 л - товар из категории «Моторное масло», который используется для защиты двигателя и стабильной работы мотоцикла.</p><ul><li>Бренд: LAVR</li><li>Страна происхождения: РОССИЯ</li><li>Тип товара: Масло моторное</li><li>Вид товара: Масла</li></ul>]]></description>
+<param name="Категория">Моторное масло</param>
+<param name="Бренд">LAVR</param>
+<param name="Артикул">Ln7723</param>
+<param name="Страна происхождения">РОССИЯ</param>
+<param name="Тип товара">Масло моторное</param>
+<param name="Вид товара">Масла</param>
+<param name="Срок гарантии">5 лет</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="6_1500" available="true">
+<url>https://bikeland.ru/catalog/motokhimiya/maslo_motornoe/liqui-moly-4-takt-maslo-dlya-moto-sae-20w-50-1l/</url>
+<price>1940</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<sort>2</sort>
+<picture>https://bikeland.ru/upload/iblock/6ab/u3d5ic7pzok23oiupfg2ctwgfbpkfxeo/c630f961_1f4f_11ea_a1fe_000c29be2b39_9b825cb9_3939_11ea_a200_000c29be2b39.jpg</picture>
+<vendor>LIQUI MOLY</vendor>
+<vendorCode>1500</vendorCode>
+<name>LIQUI MOLY 4-такт. масло для мото SAE 20W-50 (1Л)</name>
+<description><![CDATA[<p><strong>LIQUI MOLY 4-такт. масло для мото SAE 20W-50 (1Л)</strong> - Минеральное моторное масло для 4-тактных мотоциклов Racing 4T 20W-50 (арт.</p><ul><li>Бренд: LIQUI MOLY</li><li>Страна происхождения: РОССИЯ</li><li>Тип товара: Масло моторное</li><li>Вид товара: Масла</li></ul>]]></description>
+<param name="Категория">Моторное масло</param>
+<param name="Бренд">LIQUI MOLY</param>
+<param name="Артикул">1500</param>
+<param name="Страна происхождения">РОССИЯ</param>
+<param name="Тип товара">Масло моторное</param>
+<param name="Вид товара">Масла</param>
+<param name="Срок гарантии">5 лет</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="6_1525" available="true">
+<url>https://bikeland.ru/catalog/motokhimiya/maslo_motornoe/liqui-moly-4-takt-maslo-dlya-mototsiklov-sae-10w-60-s-1l/</url>
+<price>2930</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<sort>3</sort>
+<picture>https://bikeland.ru/upload/iblock/a35/c630f965_1f4f_11ea_a1fe_000c29be2b39_a217f3c5_3939_11ea_a200_000c29be2b39.jpg</picture>
+<vendor>LIQUI MOLY</vendor>
+<vendorCode>1525</vendorCode>
+<name>LIQUI MOLY 4-такт. масло для мотоциклов SAE 10W-60 (с) (1л)</name>
+<description><![CDATA[<p><strong>LIQUI MOLY 4-такт. масло для мотоциклов SAE 10W-60 (с) (1л)</strong> - Синтетическое моторное масло для 4-тактных мотоциклов Racing Synth 4T 10W-60 (арт.</p><ul><li>Бренд: LIQUI MOLY</li><li>Страна происхождения: РОССИЯ</li><li>Вид товара: Мотохимия прочая</li><li>Срок гарантии: 5 лет</li></ul>]]></description>
+<param name="Категория">Моторное масло</param>
+<param name="Бренд">LIQUI MOLY</param>
+<param name="Артикул">1525</param>
+<param name="Страна происхождения">РОССИЯ</param>
+<param name="Вид товара">Мотохимия прочая</param>
+<param name="Срок гарантии">5 лет</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="6_1696" available="true">
+<url>https://bikeland.ru/catalog/motokhimiya/maslo_motornoe/liqui-moly-min-mot-maslo-d-4-t-motots-20w-50-4l/</url>
+<price>6820</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<sort>4</sort>
+<picture>https://bikeland.ru/upload/iblock/85c/6370d01b_1f4c_11ea_a1fe_000c29be2b39_b9b31272_3934_11ea_a200_000c29be2b39.jpg</picture>
+<vendor>LIQUI MOLY</vendor>
+<vendorCode>1696</vendorCode>
+<name>LIQUI MOLY Мин.мот.масло д/4-т.мотоц. 20W-50 (4л)</name>
+<description><![CDATA[<p><strong>LIQUI MOLY Мин.мот.масло д/4-т.мотоц. 20W-50 (4л)</strong> - ﻿Свойства
+Использована высоковязкая минеральная базовая основа, обладающая стойкостью к перегреву и потере вязкости.</p><ul><li>Бренд: LIQUI MOLY</li><li>Страна происхождения: РОССИЯ</li><li>Тип товара: Масло моторное</li><li>Вид товара: Масла</li></ul>]]></description>
+<param name="Категория">Моторное масло</param>
+<param name="Бренд">LIQUI MOLY</param>
+<param name="Артикул">1696</param>
+<param name="Страна происхождения">РОССИЯ</param>
+<param name="Тип товара">Масло моторное</param>
+<param name="Вид товара">Масла</param>
+<param name="Срок гарантии">5 лет</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="6_1689" available="true">
+<url>https://bikeland.ru/catalog/motokhimiya/maslo_motornoe/liqui-moly-ns-sint-mot-maslo-d-4-t-motots-motorbike-4t-street-15w-50-/</url>
+<price>7470</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<sort>5</sort>
+<picture>https://bikeland.ru/upload/iblock/2d6/m12p4yig2lax1bd7othqkruzvavupeei/2eafbdf8_1f4d_11ea_a1fe_000c29be2b39_84c48c88_3942_11ea_a200_000c29be2b39.jpg</picture>
+<vendor>LIQUI MOLY</vendor>
+<vendorCode>1689</vendorCode>
+<name>LIQUI MOLY НС- синт.мот.масло д/4-т.мотоц. Motorbike 4T Street 15W-50</name>
+<description><![CDATA[<p><strong>LIQUI MOLY НС- синт.мот.масло д/4-т.мотоц. Motorbike 4T Street 15W-50</strong> - ﻿Свойства
+Высокоэффективное моторное масло для использования в 4-х тактных двигателях мотоциклов и мотоциклетных коробок передач.</p><ul><li>Бренд: LIQUI MOLY</li><li>Страна происхождения: РОССИЯ</li><li>Тип товара: Масло моторное</li><li>Вид товара: Масла</li></ul>]]></description>
+<param name="Категория">Моторное масло</param>
+<param name="Бренд">LIQUI MOLY</param>
+<param name="Артикул">1689</param>
+<param name="Страна происхождения">РОССИЯ</param>
+<param name="Тип товара">Масло моторное</param>
+<param name="Вид товара">Масла</param>
+<param name="Срок гарантии">5 лет</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="6_3055" available="true">
+<url>https://bikeland.ru/catalog/motokhimiya/maslo_motornoe/liqui-moly-ns-sin-mot-maslo-d-4-t-motots-motorbike-4toffroad-10w-40-1l/</url>
+<price>2020</price>
+<currencyId>RUB</currencyId>
+<categoryId>6</categoryId>
+<sort>6</sort>
+<vendor>LIQUI MOLY</vendor>
+<vendorCode>3055</vendorCode>
+<name>LIQUI MOLY НС-син.мот.масло д/4-т.мотоц.Motorbike 4TOffroad.10W-40 (1л)</name>
+<description><![CDATA[<p><strong>LIQUI MOLY НС-син.мот.масло д/4-т.мотоц.Motorbike 4TOffroad.10W-40 (1л)</strong> - ﻿Свойства
+Использована НС-синтетическая базовая основа, сочетающая отличные противоизносные свойства с высоким индексом вязкости.</p><ul><li>Бренд: LIQUI MOLY</li><li>Страна происхождения: РОССИЯ</li><li>Тип товара: Масло моторное</li><li>Вид товара: Масла</li></ul>]]></description>
+<param name="Категория">Моторное масло</param>
+<param name="Бренд">LIQUI MOLY</param>
+<param name="Артикул">3055</param>
+<param name="Страна происхождения">РОССИЯ</param>
+<param name="Тип товара">Масло моторное</param>
+<param name="Вид товара">Масла</param>
+<param name="Срок гарантии">5 лет</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
