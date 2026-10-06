@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2026-10-06 09:13">
+<shop>
+<name>Атлантика — абонементы</name>
+<company>Сеть бассейнов Атлантика</company>
+<url>https://atlantika1.ru</url>
+<currencies>
+<currency id="RUB" rate="1" />
+</currencies>
+<categories>
+<category id="1">Долгосрочные абонементы</category>
+<category id="2">Краткосрочные абонементы</category>
+</categories>
+<offers>
+<offer id="579041728683" available="true">
+<url>https://atlantika1.ru/dlya-molodezhi/tproduct/910309846-579041728683-abonement-bassein-i-fitnes-dlya-molodezh</url>
+<price>33900</price>
+<oldprice>48500</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>1</sort>
+<picture>https://static.tildacdn.com/stor6239-3733-4339-b937-316136363435/21180710.jpg</picture>
+<vendor>Атлантика</vendor>
+<vendorCode>579041728683</vendorCode>
+<name>Абонемент «Бассейн и фитнес для молодежи», 12 месяцев</name>
+<description><![CDATA[<p><strong>Абонемент «Бассейн и фитнес для молодежи», 12 месяцев</strong></p><p>Один посетитель от 16 до 24 лет. Срок действия: 12 месяцев.</p><p>В абонемент входит:</p><ul><li>Бассейн</li><li>Тренажерный зал</li><li>Групповые занятия</li><li>Сауна и хаммам</li></ul><p>Абонемент можно активировать в течение 30 дней после оплаты или после окончания действующего абонемента.</p>]]></description>
+<param name="Категория">Долгосрочные абонементы</param>
+<param name="Срок действия">12 месяцев</param>
+<param name="Формат">Молодежный</param>
+<param name="Для кого">Один посетитель от 16 до 24 лет</param>
+<param name="Включено">Бассейн, Тренажерный зал, Групповые занятия, Сауна и хаммам</param>
+<param name="Доступные бассейны">Бухарестская, Передовиков, Обуховской Обороны, Петергофское шоссе, Турухтанные острова, Народная</param>
+<param name="Платная заморозка">30 дней</param>
+<param name="Активация">В течение 30 дней после оплаты</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="150502454543" available="true">
+<url>https://atlantika1.ru/abonement/tproduct/4402615201-150502454543-abonement-vihodnogo-dnya-12-mesyatsev</url>
+<price>44900</price>
+<oldprice>63900</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>2</sort>
+<picture>https://static.tildacdn.com/stor6261-6462-4131-a337-373864396531/85136353.jpg</picture>
+<vendor>Атлантика</vendor>
+<vendorCode>150502454543</vendorCode>
+<name>Абонемент «Выходного дня», 12 месяцев</name>
+<description><![CDATA[<p><strong>Абонемент «Выходного дня», 12 месяцев</strong></p><p>Один взрослый от 16 лет. Срок действия: 12 месяцев.</p><p>В абонемент входит:</p><ul><li>Бассейн</li><li>Тренажерный зал</li><li>Групповые занятия</li><li>Сауна и хаммам</li></ul><p>Подходит для регулярных посещений по выходным.</p><p>Абонемент можно активировать в течение 30 дней после оплаты или после окончания действующего абонемента.</p>]]></description>
+<param name="Категория">Долгосрочные абонементы</param>
+<param name="Срок действия">12 месяцев</param>
+<param name="Формат">Выходного дня</param>
+<param name="Для кого">Один взрослый от 16 лет</param>
+<param name="Включено">Бассейн, Тренажерный зал, Групповые занятия, Сауна и хаммам</param>
+<param name="Режим посещения">Выходные дни</param>
+<param name="Доступные бассейны">Бухарестская, Передовиков, Обуховской Обороны, Петергофское шоссе, Турухтанные острова, Народная</param>
+<param name="Дети до 15 лет">Можно добавить до 3 детей</param>
+<param name="Платная заморозка">30 дней</param>
+<param name="Активация">В течение 30 дней после оплаты</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="298082660643" available="true">
+<url>https://atlantika1.ru/abonement/tproduct/4402615201-298082660643-abonement-sportivnii-bassein-i-akvaaerob</url>
+<price>45000</price>
+<oldprice>64500</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>3</sort>
+<picture>https://static.tildacdn.com/stor6135-3131-4937-b565-663634663839/65413541.jpg</picture>
+<vendor>Атлантика</vendor>
+<vendorCode>298082660643</vendorCode>
+<name>Абонемент «Спортивный бассейн и аквааэробика», 12 месяцев</name>
+<description><![CDATA[<p><strong>Абонемент «Спортивный бассейн и аквааэробика», 12 месяцев</strong></p><p>Один посетитель от 14 лет. Срок действия: 12 месяцев.</p><p>В абонемент входит:</p><ul><li>Спортивный бассейн</li><li>Аквааэробика</li><li>Сауна и хаммам</li></ul><p>Занятия по предварительной записи и отдельные специальные программы могут не входить в абонемент.</p><p>Абонемент можно активировать в течение 30 дней после оплаты или после окончания действующего абонемента.</p>]]></description>
+<param name="Категория">Долгосрочные абонементы</param>
+<param name="Срок действия">12 месяцев</param>
+<param name="Формат">Бассейн и групповые занятия в воде</param>
+<param name="Для кого">Один посетитель от 14 лет</param>
+<param name="Включено">Спортивный бассейн, Аквааэробика, Сауна и хаммам</param>
+<param name="Доступные бассейны">Бухарестская, Передовиков, Обуховской Обороны, Петергофское шоссе, Турухтанные острова, Народная</param>
+<param name="Платная заморозка">30 дней</param>
+<param name="Активация">В течение 30 дней после оплаты</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="578540955653" available="true">
+<url>https://atlantika1.ru/abonement/tproduct/4402615201-578540955653-abonement-fitnes-bezlimit-12-mesyatsev</url>
+<price>45000</price>
+<oldprice>64000</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>4</sort>
+<picture>https://static.tildacdn.com/stor3136-3733-4339-b237-643465383932/17564431.jpg</picture>
+<vendor>Атлантика</vendor>
+<vendorCode>578540955653</vendorCode>
+<name>Абонемент «Фитнес. Безлимит», 12 месяцев</name>
+<description><![CDATA[<p><strong>Абонемент «Фитнес. Безлимит», 12 месяцев</strong></p><p>Один взрослый от 16 лет. Срок действия: 12 месяцев.</p><p>В абонемент входит:</p><ul><li>Тренажерный зал</li><li>Групповые программы по расписанию</li></ul><p>Абонемент можно активировать в течение 30 дней после оплаты или после окончания действующего абонемента.</p>]]></description>
+<param name="Категория">Долгосрочные абонементы</param>
+<param name="Срок действия">12 месяцев</param>
+<param name="Формат">Фитнес без ограничений по числу посещений</param>
+<param name="Для кого">Один взрослый от 16 лет</param>
+<param name="Включено">Тренажерный зал, Групповые программы по расписанию</param>
+<param name="Доступные бассейны">Бухарестская, Передовиков, Обуховской Обороны, Петергофское шоссе, Турухтанные острова, Народная</param>
+<param name="Платная заморозка">30 дней</param>
+<param name="Активация">В течение 30 дней после оплаты</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="389802243303" available="true">
+<url>https://atlantika1.ru/abonement/tproduct/4320207801-389802243303-abonement-bassein-i-fitnes-dlya-odnogo-2</url>
+<price>79000</price>
+<oldprice>158000</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>5</sort>
+<picture>https://static.tildacdn.com/stor6534-3264-4261-a662-653833633433/4474e4e5186f394ba4b849bf435f3817.jpg</picture>
+<vendor>Атлантика</vendor>
+<vendorCode>389802243303</vendorCode>
+<name>Абонемент «Бассейн и фитнес для одного», 24 месяца</name>
+<description><![CDATA[<p><strong>Абонемент «Бассейн и фитнес для одного», 24 месяца</strong></p><p>Один взрослый от 16 лет. Срок действия: 24 месяца.</p><p>В абонемент входит:</p><ul><li>Бассейн</li><li>Тренажерный зал</li><li>Групповые занятия</li><li>Сауна и хаммам</li></ul><p>Абонемент можно активировать в течение 30 дней после оплаты или после окончания действующего абонемента.</p>]]></description>
+<param name="Категория">Долгосрочные абонементы</param>
+<param name="Срок действия">24 месяца</param>
+<param name="Формат">Индивидуальный</param>
+<param name="Для кого">Один взрослый от 16 лет</param>
+<param name="Включено">Бассейн, Тренажерный зал, Групповые занятия, Сауна и хаммам</param>
+<param name="Доступные бассейны">Бухарестская, Передовиков, Обуховской Обороны, Петергофское шоссе, Турухтанные острова, Народная</param>
+<param name="Дети до 15 лет">Можно добавить до 3 детей</param>
+<param name="Платная заморозка">30 дней</param>
+<param name="Активация">В течение 30 дней после оплаты</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="145446432453" available="true">
+<url>https://atlantika1.ru/abonement/tproduct/4320207801-145446432453-abonement-bassein-i-fitnes-dlya-odnogo-1</url>
+<price>52900</price>
+<oldprice>79000</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>6</sort>
+<picture>https://static.tildacdn.com/stor3731-3137-4161-a133-306363613336/05d168946cd9b1761780655526793aec.jpg</picture>
+<vendor>Атлантика</vendor>
+<vendorCode>145446432453</vendorCode>
+<name>Абонемент «Бассейн и фитнес для одного», 12 месяцев</name>
+<description><![CDATA[<p><strong>Абонемент «Бассейн и фитнес для одного», 12 месяцев</strong></p><p>Один взрослый от 16 лет. Срок действия: 12 месяцев.</p><p>В абонемент входит:</p><ul><li>Бассейн</li><li>Тренажерный зал</li><li>Групповые занятия</li><li>Сауна и хаммам</li></ul><p>Абонемент можно активировать в течение 30 дней после оплаты или после окончания действующего абонемента.</p>]]></description>
+<param name="Категория">Долгосрочные абонементы</param>
+<param name="Срок действия">12 месяцев</param>
+<param name="Формат">Индивидуальный</param>
+<param name="Для кого">Один взрослый от 16 лет</param>
+<param name="Включено">Бассейн, Тренажерный зал, Групповые занятия, Сауна и хаммам</param>
+<param name="Доступные бассейны">Бухарестская, Передовиков, Обуховской Обороны, Петергофское шоссе, Турухтанные острова, Народная</param>
+<param name="Дети до 15 лет">Можно добавить до 3 детей</param>
+<param name="Платная заморозка">30 дней</param>
+<param name="Активация">В течение 30 дней после оплаты</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="422040978923" available="true">
+<url>https://atlantika1.ru/abonement/tproduct/4320207801-422040978923-abonement-bassein-i-fitnes-dlya-dvoih-12</url>
+<price>83500</price>
+<oldprice>120000</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>7</sort>
+<picture>https://static.tildacdn.com/stor3830-3166-4261-a663-636133343466/a52407bf71d80cd8d15287e51412898e.jpg</picture>
+<vendor>Атлантика</vendor>
+<vendorCode>422040978923</vendorCode>
+<name>Абонемент «Бассейн и фитнес для двоих», 12 месяцев</name>
+<description><![CDATA[<p><strong>Абонемент «Бассейн и фитнес для двоих», 12 месяцев</strong></p><p>Двое взрослых. Срок действия: 12 месяцев.</p><p>В абонемент входит:</p><ul><li>Бассейн</li><li>Тренажерный зал</li><li>Групповые занятия</li><li>Сауна и хаммам</li></ul><p>Абонемент можно активировать в течение 30 дней после оплаты или после окончания действующего абонемента.</p>]]></description>
+<param name="Категория">Долгосрочные абонементы</param>
+<param name="Срок действия">12 месяцев</param>
+<param name="Формат">Для двоих</param>
+<param name="Для кого">Двое взрослых</param>
+<param name="Включено">Бассейн, Тренажерный зал, Групповые занятия, Сауна и хаммам</param>
+<param name="Доступные бассейны">Бухарестская, Передовиков, Обуховской Обороны, Петергофское шоссе, Турухтанные острова, Народная</param>
+<param name="Дети до 15 лет">Можно добавить до 3 детей</param>
+<param name="Платная заморозка">30 дней</param>
+<param name="Активация">В течение 30 дней после оплаты</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="680214565223" available="true">
+<url>https://atlantika1.ru/abonement/tproduct/4402615201-680214565223-abonement-dnevnoi-12-mesyatsev</url>
+<price>37500</price>
+<oldprice>53500</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<sort>8</sort>
+<picture>https://static.tildacdn.com/stor6464-3762-4166-b464-643161363764/82339550.jpg</picture>
+<vendor>Атлантика</vendor>
+<vendorCode>680214565223</vendorCode>
+<name>Абонемент «Дневной», 12 месяцев</name>
+<description><![CDATA[<p><strong>Абонемент «Дневной», 12 месяцев</strong></p><p>Один взрослый от 16 лет. Срок действия: 12 месяцев.</p><p>В абонемент входит:</p><ul><li>Бассейн</li><li>Тренажерный зал</li><li>Групповые занятия</li><li>Сауна и хаммам</li></ul><p>Предназначен для посещений в дневное время.</p><p>Абонемент можно активировать в течение 30 дней после оплаты или после окончания действующего абонемента.</p>]]></description>
+<param name="Категория">Долгосрочные абонементы</param>
+<param name="Срок действия">12 месяцев</param>
+<param name="Формат">Дневной</param>
+<param name="Для кого">Один взрослый от 16 лет</param>
+<param name="Включено">Бассейн, Тренажерный зал, Групповые занятия, Сауна и хаммам</param>
+<param name="Режим посещения">Дневное время</param>
+<param name="Доступные бассейны">Бухарестская, Передовиков, Обуховской Обороны, Петергофское шоссе, Турухтанные острова, Народная</param>
+<param name="Дети до 15 лет">Можно добавить до 3 детей</param>
+<param name="Платная заморозка">30 дней</param>
+<param name="Активация">В течение 30 дней после оплаты</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="594566838093" available="true">
+<url>https://atlantika1.ru/abonement/tproduct/4402615201-594566838093-abonement-bassein-i-fitnes-dlya-odnogo-1</url>
+<price>28900</price>
+<oldprice>41000</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<sort>1</sort>
+<picture>https://static.tildacdn.com/stor6161-6663-4562-b537-323461376363/70524422.jpg</picture>
+<vendor>Атлантика</vendor>
+<vendorCode>594566838093</vendorCode>
+<name>Абонемент «Бассейн и фитнес для одного», 100 дней</name>
+<description><![CDATA[<p><strong>Абонемент «Бассейн и фитнес для одного», 100 дней</strong></p><p>Один взрослый от 16 лет. Срок действия: 100 дней.</p><p>В абонемент входит:</p><ul><li>Бассейн</li><li>Тренажерный зал</li><li>Групповые занятия</li><li>Сауна и хаммам</li></ul><p>Абонемент можно активировать в течение 30 дней после оплаты или после окончания действующего абонемента.</p>]]></description>
+<param name="Категория">Краткосрочные абонементы</param>
+<param name="Срок действия">100 дней</param>
+<param name="Формат">Индивидуальный</param>
+<param name="Для кого">Один взрослый от 16 лет</param>
+<param name="Включено">Бассейн, Тренажерный зал, Групповые занятия, Сауна и хаммам</param>
+<param name="Доступные бассейны">Бухарестская, Передовиков, Обуховской Обороны, Петергофское шоссе, Турухтанные острова, Народная</param>
+<param name="Платная заморозка">30 дней</param>
+<param name="Активация">В течение 30 дней после оплаты</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="835797135093" available="true">
+<url>https://atlantika1.ru/abonement/tproduct/4402615201-835797135093-abonement-bassein-i-fitnes-dlya-odnogo-6</url>
+<price>42500</price>
+<oldprice>61000</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<sort>2</sort>
+<picture>https://static.tildacdn.com/stor3566-6437-4537-a338-383433623661/bdc94d5945405b0070430f671948a60f.jpg</picture>
+<vendor>Атлантика</vendor>
+<vendorCode>835797135093</vendorCode>
+<name>Абонемент «Бассейн и фитнес для одного», 6 месяцев</name>
+<description><![CDATA[<p><strong>Абонемент «Бассейн и фитнес для одного», 6 месяцев</strong></p><p>Один взрослый от 16 лет. Срок действия: 6 месяцев.</p><p>В абонемент входит:</p><ul><li>Бассейн</li><li>Тренажерный зал</li><li>Групповые занятия</li><li>Сауна и хаммам</li></ul><p>Абонемент можно активировать в течение 30 дней после оплаты или после окончания действующего абонемента.</p>]]></description>
+<param name="Категория">Краткосрочные абонементы</param>
+<param name="Срок действия">6 месяцев</param>
+<param name="Формат">Индивидуальный</param>
+<param name="Для кого">Один взрослый от 16 лет</param>
+<param name="Включено">Бассейн, Тренажерный зал, Групповые занятия, Сауна и хаммам</param>
+<param name="Доступные бассейны">Бухарестская, Передовиков, Обуховской Обороны, Петергофское шоссе, Турухтанные острова, Народная</param>
+<param name="Дети до 15 лет">Можно добавить до 3 детей</param>
+<param name="Платная заморозка">30 дней</param>
+<param name="Активация">В течение 30 дней после оплаты</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+<offer id="998341072293" available="true">
+<url>https://atlantika1.ru/abonement/tproduct/4402615201-998341072293-abonement-bassein-i-fitnes-dlya-dvoih-6</url>
+<price>64900</price>
+<oldprice>93000</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<sort>3</sort>
+<picture>https://static.tildacdn.com/stor3730-3263-4533-b531-623533356330/76931784.jpg</picture>
+<vendor>Атлантика</vendor>
+<vendorCode>998341072293</vendorCode>
+<name>Абонемент «Бассейн и фитнес для двоих», 6 месяцев</name>
+<description><![CDATA[<p><strong>Абонемент «Бассейн и фитнес для двоих», 6 месяцев</strong></p><p>Двое взрослых. Срок действия: 6 месяцев.</p><p>В абонемент входит:</p><ul><li>Бассейн</li><li>Тренажерный зал</li><li>Групповые занятия</li><li>Сауна и хаммам</li></ul><p>Абонемент можно активировать в течение 30 дней после оплаты или после окончания действующего абонемента.</p>]]></description>
+<param name="Категория">Краткосрочные абонементы</param>
+<param name="Срок действия">6 месяцев</param>
+<param name="Формат">Для двоих</param>
+<param name="Для кого">Двое взрослых</param>
+<param name="Включено">Бассейн, Тренажерный зал, Групповые занятия, Сауна и хаммам</param>
+<param name="Доступные бассейны">Бухарестская, Передовиков, Обуховской Обороны, Петергофское шоссе, Турухтанные острова, Народная</param>
+<param name="Дети до 15 лет">Можно добавить до 3 детей</param>
+<param name="Платная заморозка">30 дней</param>
+<param name="Активация">В течение 30 дней после оплаты</param>
+<manufacturer_warranty></manufacturer_warranty>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
