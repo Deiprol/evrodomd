@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-10-12 18:45">
+  <shop>
+    <name>Первая мебельная фабрика</name>
+    <company>Первая мебельная фабрика</company>
+    <url>https://www.1mf.ru/</url>
+
+    <categories>
+      <category id="1"
+                picture="https://www.1mf.ru/upload/iblock/34e/3yp5inqnrse4z5nw7iow81azg1oxc5zt/69bd10be24683.jpg"
+                universalLink="https://www.1mf.ru/shop/gotovye_shkafy_layt/">Готовые шкафы ЛАЙТ</category>
+      <category id="2"
+                picture="https://www.1mf.ru/upload/iblock/d00/3yr166v4rzyi5hgn6u6cugj7jfhpo1jp/69bd103cc5215.jpg"
+                universalLink="https://www.1mf.ru/shop/ekspress_kukhni_layt_modulnye_sektsii/kukhonnye_garnitury/">Готовые кухонные гарнитуры</category>
+    </categories>
+
+    <offers>
+
+      <!-- ===== Категория 1: Готовые шкафы ЛАЙТ ===== -->
+
+      <offer id="40617" available="true">
+        <name>Шкаф 2-дверный распашной ЛАЙТ К1, 220х80х60, ЛДСП, Дуб золотой, с ящиками и полками</name>
+        <shortName>Шкаф распашной ЛАЙТ К1, Дуб золотой</shortName>
+        <url>https://www.1mf.ru/shop/gotovye_shkafy_layt/raspashnye_shkafy_layt/40617/</url>
+        <sort>50</sort>
+        <price>39023</price>
+        <oldprice>45909</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>Первая мебельная фабрика</vendor>
+        <typePrefix>Шкаф распашной</typePrefix>
+        <model>ЛАЙТ К1</model>
+        <picture>https://www.1mf.ru/upload/iblock/34e/3yp5inqnrse4z5nw7iow81azg1oxc5zt/69bd10be24683.jpg</picture>
+        <description>Распашной двухдверный шкаф серии ЛАЙТ с выдвижными ящиками и полками. Корпус из ЛДСП класса эмиссии E1.</description>
+        <param name="Количество дверей">2</param>
+        <param name="Высота" unit="см">220</param>
+        <param name="Ширина" unit="см">80</param>
+        <param name="Глубина" unit="см">60</param>
+        <param name="Материал">ЛДСП</param>
+        <param name="Цвет">Дуб золотой</param>
+        <param name="Наполнение">Ящики, полки</param>
+        <badge textColor="#FFFFFF" bgColor="#E53935" position="top-left">-15%</badge>
+        <overSized>true</overSized>
+      </offer>
+
+      <offer id="44835" available="true">
+        <name>Шкаф-купе с зеркалом ЛАЙТ Е3, 220х160х58, ЛДСП, Белый перламутр, с ящиками, полками и штангой</name>
+        <shortName>Шкаф-купе с зеркалом ЛАЙТ Е3, Белый перламутр</shortName>
+        <url>https://www.1mf.ru/shop/gotovye_shkafy_layt/shkafy_kupe_layt/44835/</url>
+        <sort>40</sort>
+        <price>66441</price>
+        <oldprice>92279</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>Первая мебельная фабрика</vendor>
+        <typePrefix>Шкаф-купе</typePrefix>
+        <model>ЛАЙТ Е3</model>
+        <picture>https://www.1mf.ru/upload/iblock/9ef/5ygd2psn17a3xcyecopx7dubyde9tswo/69bd10c81c5d5.jpg</picture>
+        <description>Шкаф-купе серии ЛАЙТ с зеркальной дверью, ящиками, полками и штангой для одежды.</description>
+        <param name="Зеркало">Да</param>
+        <param name="Высота" unit="см">220</param>
+        <param name="Ширина" unit="см">160</param>
+        <param name="Глубина" unit="см">58</param>
+        <param name="Материал">ЛДСП</param>
+        <param name="Цвет">Белый перламутр</param>
+        <param name="Наполнение">Ящики, полки, штанга</param>
+        <badge textColor="#FFFFFF" bgColor="#E53935" position="top-left">-28%</badge>
+        <overSized>true</overSized>
+      </offer>
+
+      <offer id="40652" available="true">
+        <name>Шкаф 1-дверный ЛАЙТ К1, 240х60х60, ЛДСП, Кашемир, с ящиками и полками</name>
+        <shortName>Шкаф 1-дверный ЛАЙТ К1, Кашемир</shortName>
+        <url>https://www.1mf.ru/shop/gotovye_shkafy_layt/raspashnye_shkafy_layt/40652/</url>
+        <sort>30</sort>
+        <price>35052</price>
+        <oldprice>41237</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>Первая мебельная фабрика</vendor>
+        <typePrefix>Шкаф распашной</typePrefix>
+        <model>ЛАЙТ К1</model>
+        <picture>https://www.1mf.ru/upload/iblock/215/ulmppknf05f8u5fl64dv5ed2d2fedkmm/69bd10bcac4ea.jpg</picture>
+        <description>Однодверный распашной шкаф серии ЛАЙТ высотой 240 см с выдвижными ящиками и полками.</description>
+        <param name="Количество дверей">1</param>
+        <param name="Высота" unit="см">240</param>
+        <param name="Ширина" unit="см">60</param>
+        <param name="Глубина" unit="см">60</param>
+        <param name="Материал">ЛДСП</param>
+        <param name="Цвет">Кашемир</param>
+        <param name="Наполнение">Ящики, полки</param>
+        <badge textColor="#FFFFFF" bgColor="#E53935" position="top-left">-15%</badge>
+        <overSized>true</overSized>
+      </offer>
+
+      <!-- ===== Категория 2: Готовые кухонные гарнитуры ===== -->
+
+      <offer id="30183" available="true">
+        <name>Кухонный гарнитур 86x305x60 см, ЛДСП, цвет Белый перламутр, 5 секций</name>
+        <shortName>Кухонный гарнитур 305 см, Белый перламутр</shortName>
+        <url>https://www.1mf.ru/shop/ekspress_kukhni_layt_modulnye_sektsii/kukhonnye_garnitury/30183/</url>
+        <sort>20</sort>
+        <price>57095</price>
+        <oldprice>60100</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <vendor>Первая мебельная фабрика</vendor>
+        <typePrefix>Кухонный гарнитур</typePrefix>
+        <picture>https://www.1mf.ru/upload/iblock/d00/3yr166v4rzyi5hgn6u6cugj7jfhpo1jp/69bd103cc5215.jpg</picture>
+        <description>Готовая модульная кухня из 5 секций. Корпус из ЛДСП класса E1, быстрая доставка.</description>
+        <param name="Количество секций">5</param>
+        <param name="Высота" unit="см">86</param>
+        <param name="Длина" unit="см">305</param>
+        <param name="Глубина" unit="см">60</param>
+        <param name="Материал">ЛДСП</param>
+        <param name="Цвет">Белый перламутр</param>
+        <badge textColor="#FFFFFF" bgColor="#E53935" position="top-left">-5%</badge>
+        <overSized>true</overSized>
+      </offer>
+
+      <offer id="60772" available="true">
+        <name>Кухонный гарнитур 182x230x60 см, ЛДСП, цвет Дуб золотой, 7 секций</name>
+        <shortName>Кухонный гарнитур 230 см, Дуб золотой</shortName>
+        <url>https://www.1mf.ru/shop/ekspress_kukhni_layt_modulnye_sektsii/kukhonnye_garnitury/60772/</url>
+        <sort>10</sort>
+        <price>55655</price>
+        <oldprice>58584</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <vendor>Первая мебельная фабрика</vendor>
+        <typePrefix>Кухонный гарнитур</typePrefix>
+        <picture>https://www.1mf.ru/upload/iblock/ac1/pndemmr8rddducjgwv632pqh8sd7wy1f/67ec18133f923.jpg</picture>
+        <description>Готовая модульная кухня из 7 секций с верхними и нижними шкафами.</description>
+        <param name="Количество секций">7</param>
+        <param name="Высота" unit="см">182</param>
+        <param name="Длина" unit="см">230</param>
+        <param name="Глубина" unit="см">60</param>
+        <param name="Материал">ЛДСП</param>
+        <param name="Цвет">Дуб золотой</param>
+        <badge textColor="#FFFFFF" bgColor="#E53935" position="top-left">-5%</badge>
+        <overSized>true</overSized>
+      </offer>
+
+    </offers>
+  </shop>
+</yml_catalog>
